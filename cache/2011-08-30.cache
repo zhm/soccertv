@@ -1,0 +1,2751 @@
+ 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Live Soccer Streaming & TV Schedules: Tuesday August 30, 2011</title>
+<link href="http://cdn.livesoccertv.com/css/toggle.css" rel="stylesheet" type="text/css">
+<link href="http://cdn.livesoccertv.com/css/calendar.css" rel="stylesheet" type="text/css">
+<meta name="keywords" content="soccer, football, soccer on tv, football on tv, live soccer, live football, soccer scores, football scores, soccer news, football news, soccer videos, football videos, watch football, watch soccer, soccer fixtures, football fixtures, soccer tables, football tables, soccer results, football results">
+<meta name="description" content="Live Soccer TV - football news, TV and online streaming listings, fixtures, results, tables, stats, videos and more.">
+<link rel="canonical" href="http://www.livesoccertv.com/schedules/2011-08-30/" /><script language="JavaScript" src="http://cdn.livesoccertv.com/scripts.js"></script>
+<script language="JavaScript" src="http://cdn.livesoccertv.com/members/login.js"></script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-127206-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10308117-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-5993370252466225");
+  GS_googleEnableAllServices();
+</script>
+<script language="JavaScript">
+    GA_googleAddAttr("Gender", "Male");
+    GA_googleAddAttr("AgeRange", "18To35");
+    GA_googleAddAttr("InterestArea", "sports");
+</script> 
+<script type='text/javascript'>GA_googleUseIframeRendering();</script>
+
+<link href="http://cdn.livesoccertv.com/styles.css" rel="stylesheet" type="text/css">
+
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
+<script type="text/javascript" src="http://cdn.livesoccertv.com/js/tabs.js"></script>
+<script type="text/javascript" src="http://cdn.livesoccertv.com/js/toggle.js"></script>
+<script language="JavaScript" src="http://cdn.livesoccertv.com/js/calendar.js"></script>
+<script language="JavaScript" src="http://cdn.livesoccertv.com/js/fixtures.js"></script>
+</head>
+
+<body>
+
+<div id="body_main">
+
+  <div id="header_login">
+	<div id="timezone">
+		Time zone: US/Eastern | <a href="/members/register.php">Register</a> | <a href="/members/login.php">Login</a>  </div><!--timezone-->
+    <div id="searchform">
+      <form name="searchform" method="post" action="/schedules/" id="myform" style="margin:0;padding:0;">
+        <input name="from" type="hidden" value='08/21/2011'>
+       <input name="to" type="hidden" value='08/28/2011'>
+        Search: <input name="keyword" type="text" id="keyword" class="login_field" value="" size="15">
+        <input type="submit" name="Submit" value="Search" class="search" style="font-size:11px;">      
+      </form>
+    </div>	 
+  </div><!--header_login-->
+  <div style="clear:both;"></div>
+  
+  <div id="header_bg">
+	<div id="logo">
+	    <h1 title="Watch Live Soccer TV"><a href="http://www.livesoccertv.com"><img src="http://cdn.livesoccertv.com/images/spacer.gif" width="160" height="80" border="0" /></a></h1>
+    </div>
+	<div id="LSTV_ROS_728x90" style="padding:0;margin:10px;border:1px solid #eee;float:right;"><script type="text/javascript">GA_googleFillSlotWithSize("ca-pub-5993370252466225", "LSTV_ROS_728x90", 728, 90);</script></div>
+	<div style="clear:both"></div>
+  </div><!-- header_bg -->
+  
+  
+<div id="dropList">
+<ul id="menu">
+
+<li class="level1-li sub"><a class="level1-a" href="/schedules/">Schedules<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<div class="listHolder col2">
+
+        <h5>Upcoming Schedules</h5>
+        <div class="listCol">
+            <ul>
+            <li><a href="/schedules/" title="Today's Football Schedules">Today</a></li>
+            <li><a href="/schedules/2011-08-22/" title="Tomorrow's Football Schedules">Tomorrow</a></li>
+            </ul>
+        </div>
+        <div class="listCol">
+            <ul>
+            <li><a href="/schedules/2011-08-27/" title="Football Schedules for Saturday">Saturday</a></li>
+            <li><a href="/schedules/2011-08-28/" title="Football Schedules for Sunday">Sunday</a></li>
+            </ul>
+        </div>
+        <div style="clear:both;"></div>
+
+        <h5>Pick a Day</h5>
+        
+        <div id="schedules_cal">
+            <script type="text/javascript">    
+            var todaydate=new Date()
+            var curmonth=todaydate.getMonth()+1 //get current month (1-12)
+            var curyear=todaydate.getFullYear() //get current year
+            document.write(buildCal(curmonth ,curyear, "simple_cal", "month", "daysofweek", "days", 0));
+            </script>    
+        </div>
+        
+	</div>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+
+<li class="level1-li"><a class="level1-a" href="/live-scores/">Live Scores</a></li>
+
+<li class="level1-li sub"><a class="level1-a" href="/videos/">Videos<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<div class="listHolder col3">
+
+        <h5>Videos by Competition</h5>
+
+        <div class="listCol">
+        <ul>
+            <li><a href="/competitions/international/world-cup/#_videos" class="flag world" title="World Cup Videos">World Cup</a></li>
+            <li><a href="/competitions/international/uefa-champions-league/#_videos" class="flag europe" title="Champions League Videos">Champs League</a></li>
+            <li><a href="/competitions/international/uefa-europa-league/#_videos" class="flag europe" title="Europa League Videos">Europa League</a></li>
+            <li><a href="/competitions/england/premier-league/#_videos" class="flag england" title="England Premier League Videos">Premier League</a></li>
+            <li><a href="/competitions/spain/primera-division/#_videos" class="flag spain" title="Spain La Liga Videos">La Liga</a></li>
+        </ul>
+        </div>
+        <div class="listCol">
+        <ul>
+            <li><a href="/competitions/italy/serie-a/#_videos" class="flag italy" title="Italy Serie A Videos">Serie A</a></li>
+            <li><a href="/competitions/germany/bundesliga/#_videos" class="flag germany" title="Germany Bundesliga Videos">Bundesliga</a></li>
+            <li><a href="/competitions/france/ligue-1/#_videos" class="flag france" title="France Ligue 1 Videos">Ligue 1</a></li>
+            <li><a href="/competitions/netherlands/eredivisie/#_videos" class="flag netherlands" title="Netherlands Eredivisie Videos">Eredivisie</a></li>
+            <li><a href="/competitions/portugal/liga-sagres/#_videos" class="flag portugal" title="Portugal Liga Sagres Videos">Liga Sagres</a></li>
+        </ul>
+        </div>
+        <div class="listCol">
+        <ul>
+            <li><a href="/competitions/scotland/premier-league/#_videos" class="flag scotland" title="Scotland Premier League Videos">Premier League</a></li>
+            <li><a href="/competitions/usa/major-league-soccer/#_videos" class="flag usa" title="USA/Canada Major League Soccer Videos">MLS</a></li>
+            <li><a href="/competitions/mexico/primera-division/#_videos" class="flag mexico" title="Mexico Primera Division Videos">Primera Division</a></li>
+            <li><a href="/competitions/brazil/serie-a-brasileirao/#_videos" class="flag brazil" title="Brazil Serie A Videos">Serie A</a></li>
+            <li><a href="/competitions/argentina/primera-division/#_videos" class="flag argentina" title="Argentina Primera Division Videos">Primera Division</a></li>
+        </ul>
+        </div>
+        <div class="listCol">
+        <ul>
+            <li><a href="/videos/competitions/" title="More Competitions">&raquo;More Competitions</a></li>
+        </ul>
+        </div>
+		<div style="clear:both;"></div>
+
+        <h5>Videos by Team</h5>
+        
+        <div class="listCol">
+        <ul>
+            <li><a href="/teams/england/chelsea/#_videos" class="flag england">Chelsea</a></li>
+            <li><a href="/teams/england/manchester-united/#_videos" class="flag england">Manchester Utd</a></li>
+            <li><a href="/teams/spain/barcelona/#_videos" class="flag spain">Barcelona</a></li>
+            <li><a href="/teams/italy/ac-milan/#_videos" class="flag italy">AC Milan</a></li>
+        </ul>
+        </div>
+        <div class="listCol">
+        <ul>
+            <li><a href="/teams/england/arsenal/#_videos" class="flag england">Arsenal</a></li>
+            <li><a href="/teams/england/liverpool/#_videos" class="flag england">Liverpool</a></li>
+            <li><a href="/teams/spain/real-madrid/#_videos" class="flag spain">Real Madrid</a></li>
+            <li><a href="/teams/italy/as-roma/#_videos" class="flag italy">Juventus</a></li>
+        </ul>
+        </div>
+        <div class="listCol">
+        <ul>
+            <li><a href="/teams/england/tottenham-hotspur/#_videos" class="flag england">Tottenham</a></li>
+            <li><a href="/teams/england/manchester-city/#_videos" class="flag england">Manchester City</a></li>
+            <li><a href="/teams/spain/valencia/#_videos" class="flag spain">Valencia</a></li>
+            <li><a href="/teams/italy/inter-milan/#_videos" class="flag italy">Inter Milan</a></li>
+        </ul>
+        </div>
+        <div class="listCol">
+        <ul>
+            <li><a href="/videos/teams/" title="More Teams">&raquo;More Teams</a></li>
+        </ul>
+        </div>
+		<div style="clear:both;"></div>
+
+		<div class="bottomLine">
+			<p><a href="/videos/">All Videos</a></p>
+		</div>
+        
+	</div>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+
+<li class="level1-li sub"><a class="level1-a" href="/competitions/">Competitions<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<div class="listHolder col3">
+
+        <h5>Europe</h5>
+
+            <div class="listCol">
+                <ul>
+                <li><a href="/competitions/england/premier-league/" class="flag england" title="England Premier League">Premier League</a></li>
+                <li><a href="/competitions/england/championship/" class="flag england" title="England Championship">Championship</a></li>
+                <li><a href="/competitions/england/fa-cup/" class="flag england" title="England FA Cup">Fa Cup</a></li>
+                <li><a href="/competitions/spain/primera-division/" class="flag spain" title="Spain La Liga">La Liga</a></li>
+                </ul>
+            </div>
+            <div class="listCol">
+                <ul>
+                <li><a href="/competitions/italy/serie-a/" class="flag italy" title="Italy Serie A">Serie A</a></li>
+                <li><a href="/competitions/germany/bundesliga/" class="flag germany" title="Germany Bundesliga">Bundesliga</a></li>
+                <li><a href="/competitions/france/ligue-1/" class="flag france" title="France Ligue 1">Ligue 1</a></li>
+                <li><a href="/competitions/netherlands/eredivisie/" class="flag netherlands" title="Netherlands Eredivisie">Eredivisie</a></li>
+                </ul>
+            </div>
+            <div class="listCol">
+                <ul>
+                <li><a href="/competitions/portugal/liga-sagres/" class="flag portugal" title="Portugal Liga Sagres">Liga Sagres</a></li>
+                <li><a href="/competitions/scotland/premier-league/" class="flag scotland" title="Scotland Premier League">Premier League</a></li>
+                <li><a href="/competitions/greece/super-league/" class="flag greece" title="Greece Super League">Super League</a></li>
+                <li><a href="/competitions/turkey/super-lig/" class="flag turkey" title="Turkey Süper Lig">Süper Lig</a></li>
+                </ul>
+            </div>
+            <div class="listCol" style="width:175px;padding-left:50px;">
+            <ul>
+	            <li><a href="/competitions/international/uefa-champions-league/" class="flag europe" title="Champions League">Champions League</a></li>
+            </ul>
+            </div>
+            <div class="listCol" style="width:150px;">            
+            <ul>
+	            <li><a href="/competitions/international/uefa-europa-league/" class="flag europe" title="Europa League">Europa League</a></li>
+            </ul>
+            </div>
+			<div style="clear:both;"></div>
+            
+            <h5>North, Central & South America</h5>
+            <div class="listCol">
+                <ul>
+	            <li><a href="/competitions/usa/major-league-soccer/" class="flag usa" title="USA Major League Soccer">MLS</a></li>
+                <li><a href="/competitions/mexico/primera-division/" class="flag mexico" title="Mexico Primera Division">Primera Division</a></li>
+            </ul>
+            </div>
+            <div class="listCol">
+                <ul>
+	            <li><a href="/competitions/brazil/serie-a-brasileirao/" class="flag brazil" title="Brazil Serie A">Serie A</a></li>
+                <li><a href="/competitions/argentina/primera-division/" class="flag argentina" title="Argentina Primera Division">Primera Division</a></li>
+            </ul>
+            </div>
+            <div class="listCol">
+                <ul>
+                <li><a href="/competitions/chile/primera-division/" class="flag chile" title="Chile Primara Division">Primera Division</a></li>
+                <li><a href="/competitions/ecuador/serie-a/" class="flag ecuador" title="Ecuador Serie A">Serie A</a></li>
+            </ul>
+            </div>
+			<div style="clear:both;"></div>
+
+            <h5>Other Competitions</h5>
+            <div class="listCol">
+                <ul>
+                <li><a href="/competitions/#_europe" class="flag europe" title="European Competitions">Europe</a></li>
+                <li><a href="/competitions/#_north_america" class="flag north-and-central-america" title="North and Central American Competitions">N/C America</a></li>
+            </ul>
+            </div>
+            <div class="listCol">
+                <ul>
+                <li><a href="/competitions/#_south_america" class="flag south-america" title="South American Competitions">South America</a></li>
+                <li><a href="/competitions/#_asia" class="flag asia" title="Asian Competitions">Asia</a></li>
+            </ul>
+            </div>
+            <div class="listCol">
+                <ul>
+                <li><a href="/competitions/#_africa" class="flag africa" title="African Competitions">Africa</a></li>
+                <li><a href="/competitions/#_oceania" class="flag oceania" title="Competitions in Oceania">Oceania</a></li>
+            </ul>
+            </div>
+			<div style="clear:both;"></div>
+
+
+		<div class="bottomLine">
+
+			<p><a href="/competitions/" title="All Other Competitions">All Competitions</a></p>
+		</div>
+	</div>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="level1-li sub"><a class="level1-a" href="#">Teams<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<div class="listHolder col3 left1">
+
+        <h5><a href="/competitions/england/premier-league/#_teams" class="flag england" title="English Premier League Teams">England</a></h5>
+        <div class="listCol">
+        <ul>
+            <li><a href="/teams/england/chelsea/" class="flag dot" title="Chelsea FC">Chelsea</a></li>
+            <li><a href="/teams/england/manchester-united/" class="flag dot" title="Manchester United FC">Manchester United</a></li>
+            <li><a href="/competitions/england/premier-league/#_teams" style="padding-left:0;" title="More English Premier League Teams">&raquo; More Teams</a></li>
+        </ul>
+        </div>
+		<div class="listCol">
+        <ul>
+            <li><a href="/teams/england/arsenal/" class="flag dot" title="Arsenal FC">Arsenal</a></li>
+            <li><a href="/teams/england/liverpool/" class="flag dot" title="Liverpool FC">Liverpool</a></li>
+        </ul>
+        </div>
+		<div class="listCol">
+        <ul>
+            <li><a href="/teams/england/tottenham-hotspur/" class="flag dot" title="Tottenham Hotspur FC">Tottenham</a></li>
+            <li><a href="/teams/england/manchester-city/" class="flag dot" title="Manchester City FC">Manchester City</a></li>
+        </ul>
+        </div>
+		<div style="clear:both;"></div>
+
+		<div class="listCol">
+        <h5><a href="/competitions/spain/primera-division/#_teams" class="flag spain" title="Spanish La Liga Teams">Spain</a></h5>
+		<ul>
+            <li><a href="/teams/spain/barcelona/" class="flag dot" title="Futbol Club Barcelona">Barcelona</a></li>
+            <li><a href="/teams/spain/real-madrid/" class="flag dot" title="Real Madrid Club de Fútbol">Real Madrid</a></li>
+            <li><a href="/teams/spain/valencia/" class="flag dot" title="Valencia Club de Fútbol">Valencia</a></li>
+            <li><a href="/competitions/spain/primera-division/#_teams" style="padding-left:0;" title="More Spanish La Liga Teams">&raquo; More Teams</a></li>
+		</ul>
+        </div>        
+		<div class="listCol">
+		<h5><a href="/competitions/italy/serie-a/#_teams" class="flag italy" title="Italian Serie A Teams">Italy</a></h5>
+		<ul>
+            <li><a href="/teams/italy/inter-milan/" class="flag dot" title="FC Internazionale Milano">Inter Milan</a></li>
+            <li><a href="/teams/italy/ac-milan/" class="flag dot" title="AC Milan">AC Milan</a></li>
+            <li><a href="/teams/italy/as-roma/" class="flag dot" title="Juventus Football Club S.p.A.">Juventus</a></li>
+            <li><a href="/competitions/italy/serie-a/#_teams" style="padding-left:0;" title="More Italian Serie A Teams">&raquo; More Teams</a></li>
+		</ul>
+		</div>
+		<div class="listCol">
+		<h5><a href="/competitions/germany/bundesliga/#_teams" class="flag germany" title="German Bundesliga Teams">Germany</a></h5>
+		<ul>
+            <li><a href="/teams/germany/bayer-leverkusen/" class="flag dot" title="TSV Bayer 04 Leverkusen">Bayer Leverkusen</a></li>
+            <li><a href="/teams/germany/bayern-munchen/" class="flag dot" title="FC Bayern München">Bayern München</a></li>
+            <li><a href="/teams/germany/schalke-04/" class="flag dot" title="FC Schalke 04">Schalke 04</a></li>
+            <li><a href="/competitions/germany/bundesliga/#_teams" style="padding-left:0;" title="More Italian Serie A Teams">&raquo; More Teams</a></li>
+		</ul>
+		</div>
+		<div style="clear:both;"></div>
+
+		<h5>More Teams</h5>
+    	<div class="listCol">
+		<ul>
+            <li><a href="/competitions/france/ligue-1/#_teams" class="flag france" title="France Ligue 1 Teams">Ligue 1</a>
+            <li><a href="/competitions/portugal/liga-sagres/#_teams" class="flag portugal" title="Portugal Liga Sagres Teams">Liga Sagres</a></li>
+        </ul>
+        </div>
+    	<div class="listCol">
+		<ul>
+            <li><a href="/competitions/italy/serie-a/#_teams" class="flag scotland" title="Scotland Premier League Teams">Premier League</a></li>
+            <li><a href="/competitions/mexico/primera-division/#_teams" class="flag mexico" title="Mexico Primera Division Teams">Primera Division</a></li>
+		</ul>
+        </div>
+    	<div class="listCol">
+		<ul>
+            <li><a href="/competitions/brazil/serie-a-brasileirao/#_teams" class="flag brazil" title="Brazil Serie A Teams">Serie A</a></li>
+            <li><a href="/competitions/argentina/primera-division/#_teams" class="flag argentina" title="Argentina Primera Division Teams">Primera Division</a></li>
+		</ul>
+        </div>
+		<div style="clear:both;"></div>
+
+		<div class="bottomLine">
+			<p><a href="/competitions/" title="All Football Teams">All Teams</a></p>
+		</div>
+        
+	</div>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="level1-li sub"><a class="level1-a" href="/news/">News<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<div class="listHolder col4 left1">
+
+        <h5><a href="/news/">Latest News and Articles</a></h5>
+        <div class="listCol">
+        <ul style="white-space:normal;width:340px;">
+		<li class="flag dot"><a href="/news/4160/brazil-become-2011-fifa-u-20-champions-mexico-take-bronze/">Brazil become 2011 FIFA U-20 champions, Mexico take bronze</a></li>
+<li class="flag dot"><a href="/news/4159/fifa-u-20-final-brazil-vs-portugal-super-facts-to-better-bet-on-the-result/">FIFA U-20 final: Brazil vs Portugal &amp; super facts to better bet on the result</a></li>
+<li class="flag dot"><a href="/news/4154/fifa-u-20-final-hosts-coach-eduardo-lara-hoping-brazil-beats-portugal/">FIFA U-20 Final: Hosts coach Eduardo Lara hoping Brazil beats Portugal</a></li>
+<li class="flag dot"><a href="/news/4155/fifa-u-20-third-place-final-mexico-vs-france-devastated-mexicans-want-bronze/">FIFA U-20 Third-place final—Mexico vs France: “Devastated” Mexicans want bronze</a></li>
+<li class="flag dot"><a href="/news/4137/major-league-soccer-preview-aug-17-21/">Major League Soccer Preview: Week 24 (Aug 17-21)</a></li>
+<li class="flag dot"><a href="/news/4158/will-arsenal-be-able-to-beat-liverpool/">Will Arsenal be able to beat Liverpool?</a></li>
+<li class="flag dot"><a href="/news/4157/manchester-city-striker-sergio-aguero-and-five-great-epl-debuts/">Manchester City striker Sergio Aguero and Five Great EPL Debuts</a></li>
+<li class="flag dot"><a href="/news/4156/england-premier-league-preview-aug-20-22/">England Premier League Preview: Week 2 (Aug 20-22)</a></li>
+        </ul>
+        </div>
+		<div style="clear:both;"></div>
+
+		<div class="bottomLine">
+			<p><a href="/news/" title="More Football News">More News</a></p>
+		</div>
+        
+	</div>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+
+<li class="level1-li sub"><a class="level1-a" href="/channels/">Channels<!--[if gte IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+	<div class="listHolder col2 left1">
+
+    <h5><a href="/channels/#_usa" class="flag usa">USA</a></h5>
+    <div class="listCol">
+        <ul>
+        <li><a href="/channels/fox-soccer-channel/" class="flag dot" title="Fox Soccer Channel">Fox Soccer Channel</a></li>
+        <li><a href="/channels/fox-deportes/" class="flag dot" title="Fox Deportes">Fox Deportes</a></li>
+        <li><a href="/channels/fox-soccer-tv/" class="flag dot" title="FoxSoccer.TV">FoxSoccer.tv</a></li>
+        <li><a href="/channels/fox-soccer-plus/" class="flag dot" title="Fox Soccer Plus">Fox Soccer Plus</a></li>
+		<li><a href="/channels/#_usa" style="padding-left:0;" title="More US Soccer Channels">&raquo; More Channels</a></li>
+        </ul>
+    </div>
+    <div class="listCol">
+        <ul>
+        <li><a href="/channels/gol-tv/" class="flag dot" title="Gol TV">Gol TV</a></li>
+        <li><a href="/channels/univision/" class="flag dot" title="Univision">Univision</a></li>
+        <li><a href="/channels/espn-3/" class="flag dot" title="ESPN 3">ESPN 3</a></li>
+        <li><a href="/channels/espn-deportes/" class="flag dot" title="ESPN Deportes">ESPN Deportes</a></li>
+		</ul>
+    </div>
+	<div style="clear:both;"></div>
+
+    <h5><a href="/channels/#_uk" class="flag united-kingdom">UK & Ireland</a></h5>
+    <div class="listCol">
+        <ul>
+        <li><a href="/channels/espn-uk/" class="flag dot" title="ESPN UK">ESPN UK</a></li>
+        <li><a href="/channels/itv-1/" class="flag dot" title="ITV 1">ITV 1</a></li>
+        <li><a href="/channels/setanta-ireland/" class="flag dot" title="Setanta Sports Irealand">Setanta Ireland</a></li>
+		<li><a href="/channels/#_uk" style="padding-left:0;" title="More UK Football Channels">&raquo; More Channels</a></li>
+        </ul>
+    </div>
+    <div class="listCol">
+        <ul>
+        <li><a href="/channels/sky-sports-1/" class="flag dot" title="Sky Sports 1">Sky Sports 1</a></li>
+        <li><a href="/channels/sky-sports-2/" class="flag dot" title="Sky Sports 2">Sky Sports 2</a></li>
+        <li><a href="/channels/sky-sports-3/" class="flag dot" title="Sky Sports 3">Sky Sports 3</a></li>
+		</ul>
+    </div>
+	<div style="clear:both;"></div>
+
+    <div class="listCol">
+    <h5><a href="/channels/#_canada" class="flag canada">Canada</a></h5>
+        <ul>
+        <li><a href="/channels/setanta-sports-canada/" class="flag dot" title="Setanta Sports Canada">Setanta Canada</a></li>
+        <li><a href="/channels/sportsnet/" class="flag dot" title="Rogers Sportsnet">Rogers Sportsnet</a></li>
+        <li><a href="/channels/goltv-canada/" class="flag dot" title="Gol TV Canada">Gol TV Canada</a></li>
+		<li><a href="/channels/#_canada" style="padding-left:0;" title="More Canadian Soccer Channels">&raquo; More Channels</a></li>
+        </ul>
+    </div>
+    <div class="listCol">
+    <h5><a href="/channels/#_australia" class="flag australia">Australia</a></h5>
+        <ul>
+        <li><a href="/channels/setanta-sports-australia/" class="flag dot" title="Setanta Sports Australia">Setanta Australia</a></li>
+        <li><a href="/channels/espn-australia/" class="flag dot" title="ESPN Australia">ESPN Australia</a></li>
+        <li><a href="/channels/fox-sports-australia/" class="flag dot" title="Fox Sports Australia">Fox Sports Australia</a></li>
+		<li><a href="/channels/#_australia" style="padding-left:0;" title="More Australian Soccer Channels">&raquo; More Channels</a></li>
+        </ul>
+    </div>
+	<div style="clear:both;"></div>
+
+    <div class="bottomLine">
+        <p><a href="/channels/" title="All Football Channels">All Channels</a></p>
+    </div>
+        
+	</div>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+
+<li class="level1-li"><a class="level1-a" href="/pubs/">Pubs</a></li>
+
+</ul>
+</div>		
+
+<!-- top_menu -->
+
+  <div style="clear:both"></div>
+
+  <div id="competitions_bar">
+	<ul>
+  	  <li><a href="/competitions/spain/spanish-super-cup/" title="Supercopa de España / Spanish Super Cup" class="flag spain">Spanish Supercup</a></li>
+  	  <li><a href="/competitions/international/fifa-u-20-world-cup/" title="FIFA U-20 World Cup" class="flag world">U-20 World Cup</a></li>
+  	  <li><a href="/competitions/international/uefa-champions-league/" title="UEFA Champions League" class="flag champions">Champions</a></li>
+  	  <li><a href="/competitions/england/premier-league/" title="English Premier League" class="flag england">EPL</a></li>
+  	  <li><a href="/competitions/spain/primera-division/" title="Spanish La Liga" class="flag spain">La Liga</a></li>
+  	  <li><a href="/competitions/germany/bundesliga/" title="German Bundesliga" class="flag germany">Bundesliga</a></li>
+  	  <li><a href="/competitions/france/ligue-1/" title="French Ligue 1" class="flag france">Ligue 1</a></li>
+<!--
+  	  <li><a href="/competitions/international/uefa-europa-league/" title="UEFA Europa League" class="flag europa">Europa</a></li>
+  	  <li><a href="/competitions/international/friendly/" title="International Friendly Matches" class="flag world">Friendly</a></li>		
+  	  <li><a href="/competitions/international/uefa-euro-qualifying/" title="UEFA Euro 2012 Qualification" class="flag europe">Euro 2012</a></li>
+  	  <li><a href="/competitions/italy/serie-a/" title="Italian Serie A" class="flag italy">Italy</a></li>
+  	  <li><a href="/competitions/portugal/liga-sagres/" title="Portuguese Liga Sagres" class="flag portugal">Portugal</a></li>
+  	  <li><a href="/competitions/netherlands/eredivisie/" title="Dutch Eredivisie" class="flag netherlands">Netherlands</a></li>
+  	  <li><a href="/competitions/greece/super-league/" title="Greek Super League" class="flag greece">Greece</a></li>
+-->
+  	  <li><a href="/competitions/argentina/primera-division/" title="Argentine Primera Division" class="flag argentina">Argentina</a></li>
+  	  <li><a href="/competitions/brazil/serie-a-brasileirao/" title="Brazil Serie A - Brasileirao" class="flag brazil">Brazil</a></li>
+      <li><a href="/competitions/mexico/primera-division/" title="Mexican Primera Division" class="flag mexico">Mexico</a></li>
+      <li><a href="/competitions/usa/major-league-soccer/" title="Major League Soccer" class="flag usa">MLS</a></li>
+    </ul>
+  </div><!--competitions_bar-->
+
+  <div style="clear:both"></div>
+<div id="leftcol_white">
+
+<ul class="tabs" style="padding-top:10px;">
+		    <li><a href="#_schedules">TV & Live Streaming Schedules</a></li>
+    	<li><a href="#_fixtures">All Fixtures</a></li>
+	    <li style="float:right"><a href="#_search">Advanced Search</a></li>
+   <!--  <li><a href="#_live_scores">Live Scores and Results</a></li> -->
+</ul>
+<br /><br />
+
+<div class="tab_container">
+
+	<div id="_schedules" class="tab_content">
+
+	<h1 style="margin-bottom:0;">Live Football on TV and Online: Tuesday, August 30</h1>
+
+<div align="center" style="padding-bottom:15px;" id="LSTV_ROS_468x60"><script type="text/javascript">GA_googleFillSlotWithSize("ca-pub-5993370252466225", "LSTV_ROS_468x60", 468, 60);</script></div>
+
+        
+    <table width="630" border="0" cellspacing="0" cellpadding="0" id="fixtures" align="center">
+	    <tr> 
+      <td align="center" style="background: url('/images/fixture_patch.gif') bottom repeat-x;"> 
+        <table border="0" cellpadding="0" cellspacing="0" id="days">
+          <tr> 
+                        <td valign="bottom" class="prev_week" width="95" align="center"><a href="/schedules/2011-08-27/">Prev. 
+              Week</a></td>
+                        <th width="60" id="passive"><a href="/schedules/2011-08-28/">Sun</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-08-29/">Mon</a></th>
+            <th width="60" id="active"><a href="/schedules/2011-08-30/">Tue</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-08-31/">Wed</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-09-01/">Thu</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-09-02/">Fri</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-09-03/">Sat</a></th>
+                        <td valign="bottom" class="next_week" width="95" align="center"><a href="/schedules/2011-09-04/">Next 
+              Week</a></td>
+                      </tr>
+        </table></td>
+    </tr>
+	    <tr> 
+      <td style="border-top: 5px solid #811616;border-right: 1px solid #811616;border-left: 1px solid #811616;border-bottom: 5px solid #811616;">
+			<table border="0" width="100%" cellspacing="2" cellpadding="4" id="fixtures" style="border:1px solid #FFFFFF">
+	<tr>
+	  <th width="12%">Time<br /><span id="minitext">(US/Eastern)</span></th>
+	  <th align="left">Match/Program</th>
+	  
+    <th width="23%">Channel</th>
+	  <th width="11%">Broadcast</th>
+	  <th width="17%">Competition</th>
+	</tr>
+	                      
+			<tr>
+						  <td align="center" id='alternate'>12:00am</td>
+			  <td id='alternate'>
+			  <a href="/match/233977/arsenal-vs-udinese/" title="Arsenal vs Udinese - UEFA Champions League - August 30, 2011">Arsenal vs Udinese</a></td>
+					  <td align="center" id='alternate'><a href="/channels/sky-sport-hd-1-deutschland/" title="Soccer on Sky Sport HD 1 Germany">Sky Sport HD 1 Germany</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/international/uefa-champions-league/">UEFA Champions League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">12:00am</td>
+			  <td>
+			  <a href="/match/234783/munster-vs-leinster/" title="Munster vs Leinster - Magners League - August 30, 2011">Munster vs Leinster</a></td>
+					  <td align="center"><a href="/channels/fox-soccer-plus/" title="Soccer on Fox Soccer Plus">Fox Soccer Plus</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/international/magners-league/">Magners League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>1:00am</td>
+			  <td id='alternate'>
+			  <a href="/match/233637/hannover-96-vs-mainz-05/" title="Hannover 96 vs Mainz 05 - Bundesliga - August 30, 2011">Hannover 96 vs Mainz 05</a></td>
+					  <td align="center" id='alternate'><a href="/channels/supersport-3/" title="Soccer on SuperSport 3">SuperSport 3</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/germany/bundesliga/">Bundesliga</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">1:15am</td>
+			  <td>
+			  <a href="/match/231865/zenit-st-petersburg-vs-krasnodar/" title="Zenit St Petersburg vs Krasnodar - Premier League - August 30, 2011">Zenit St Petersburg vs Krasnodar</a></td>
+					  <td align="center"><a href="/channels/espn-uk/" title="Soccer on ESPN UK">ESPN UK</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/russia/premier-league/">Russia Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>1:30am</td>
+			  <td id='alternate'>
+			  <a href="/match/233653/newcastle-united-vs-fulham/" title="Newcastle United vs Fulham - Premier League - August 30, 2011">Newcastle United vs Fulham</a></td>
+					  <td align="center" id='alternate'><a href="/channels/supersport-hd-3/" title="Soccer on SuperSport HD 3">SuperSport HD 3</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">2:00am</td>
+			  <td>
+			  <a href="/match/233978/udinese-vs-arsenal/" title="Udinese vs Arsenal - UEFA Champions League - August 30, 2011">Udinese vs Arsenal</a></td>
+					  <td align="center"><a href="/channels/sky-sport-hd-1-deutschland/" title="Soccer on Sky Sport HD 1 Germany">Sky Sport HD 1 Germany</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/international/uefa-champions-league/">UEFA Champions League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>2:00am</td>
+			  <td id='alternate'>
+			  <a href="/match/234558/valenciennes-vs-bordeaux/" title="Valenciennes vs Bordeaux - Ligue 1 - August 30, 2011">Valenciennes vs Bordeaux</a></td>
+					  <td align="center" id='alternate'><a href="/channels/supersport-action/" title="Soccer on SuperSport Action">SuperSport Action</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/france/ligue-1/">France Ligue 1</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">2:00am</td>
+			  <td>
+			  <a href="/match/234659/arminia-bielefeld-vs-n-rnberg/" title="Arminia Bielefeld vs Nürnberg - Bundesliga - August 30, 2011">Arminia Bielefeld vs Nürnberg</a></td>
+					  <td align="center"><a href="/channels/sky-sport-1-deutschland/" title="Soccer on Sky Sport 1 Germany">Sky Sport 1 Germany</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/germany/bundesliga/">Bundesliga</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>3:50am</td>
+			  <td id='alternate'>
+			  <a href="/match/234559/olympique-lyon-vs-montpellier/" title="Olympique Lyon vs Montpellier - Ligue 1 - August 30, 2011">Olympique Lyon vs Montpellier</a></td>
+					  <td align="center" id='alternate'><a href="/channels/supersport-action/" title="Soccer on SuperSport Action">SuperSport Action</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/france/ligue-1/">France Ligue 1</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">4:00am</td>
+			  <td>
+			  <a href="/match/233979/bayern-m-nchen-vs-z-rich/" title="Bayern München vs Zürich - UEFA Champions League - August 30, 2011">Bayern München vs Zürich</a></td>
+					  <td align="center"><a href="/channels/sky-sport-hd-1-deutschland/" title="Soccer on Sky Sport HD 1 Germany">Sky Sport HD 1 Germany</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/international/uefa-champions-league/">UEFA Champions League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>4:00am</td>
+			  <td id='alternate'>
+			  <a href="/match/234505/ajax-cape-town-vs-kaizer-chiefs/" title="Ajax Cape Town vs Kaizer Chiefs - ABSA Premiership - August 30, 2011">Ajax Cape Town vs Kaizer Chiefs</a></td>
+					  <td align="center" id='alternate'><a href="/channels/supersport-4/" title="Soccer on SuperSport 4">SuperSport 4</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/south-africa/premier-soccer-league/">South Africa ABSA Premiership</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">4:00am</td>
+			  <td>
+			  <a href="/match/234784/baxter-vs-jenkins-king/" title="Baxter vs Jenkins / King - Premier League - August 30, 2011">Baxter vs Jenkins / King</a></td>
+					  <td align="center"><a href="/channels/fox-soccer-plus/" title="Soccer on Fox Soccer Plus">Fox Soccer Plus</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>4:30am</td>
+			  <td id='alternate'>
+			  <a href="/match/233654/blackburn-rovers-vs-everton/" title="Blackburn Rovers vs Everton - Premier League - August 30, 2011">Blackburn Rovers vs Everton</a></td>
+					  <td align="center" id='alternate'><a href="/channels/supersport-hd-3/" title="Soccer on SuperSport HD 3">SuperSport HD 3</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">5:00am</td>
+			  <td>
+			  <a href="/match/233638/liverpool-vs-bolton/" title="Liverpool vs Bolton - Premier League - August 30, 2011">Liverpool vs Bolton</a></td>
+					  <td align="center"><a href="/channels/supersport-3/" title="Soccer on SuperSport 3">SuperSport 3</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>5:30am</td>
+			  <td id='alternate'>
+			  <a href="/match/233639/chelsea-vs-norwich-city/" title="Chelsea vs Norwich City - Premier League - August 30, 2011">Chelsea vs Norwich City</a></td>
+					  <td align="center" id='alternate'><a href="/channels/supersport-3/" title="Soccer on SuperSport 3">SuperSport 3</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">6:00am</td>
+			  <td>
+			  <a href="/match/233980/z-rich-vs-bayern-m-nchen/" title="Zürich vs Bayern München - UEFA Champions League - August 30, 2011">Zürich vs Bayern München</a></td>
+					  <td align="center"><a href="/channels/sky-sport-hd-1-deutschland/" title="Soccer on Sky Sport HD 1 Germany">Sky Sport HD 1 Germany</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/international/uefa-champions-league/">UEFA Champions League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>6:00am</td>
+			  <td id='alternate'>
+			  <a href="/match/234785/leicester-vs-saracens/" title="Leicester vs Saracens - Guinness Premiership - August 30, 2011">Leicester vs Saracens</a></td>
+					  <td align="center" id='alternate'><a href="/channels/fox-soccer-plus/" title="Soccer on Fox Soccer Plus">Fox Soccer Plus</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/england/guinness-premiership/">England Guinness Premiership</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">7:00am</td>
+			  <td>
+			  <a href="/match/233640/tottenham-hotspur-vs-manchester-city/" title="Tottenham Hotspur vs Manchester City - Premier League - August 30, 2011">Tottenham Hotspur vs Manchester City</a></td>
+					  <td align="center"><a href="/channels/supersport-3/" title="Soccer on SuperSport 3">SuperSport 3</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>7:15am</td>
+			  <td id='alternate'>
+			  <a href="/match/233618/hertha-bsc-vs-stuttgart/" title="Hertha BSC vs Stuttgart - Bundesliga - August 30, 2011">Hertha BSC vs Stuttgart</a></td>
+					  <td align="center" id='alternate'><a href="/channels/supersport-hd/" title="Soccer on SuperSport HD">SuperSport HD</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/germany/bundesliga/">Bundesliga</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">7:30am</td>
+			  <td>
+			  <a href="/match/234693/sturm-graz-vs-wiener-neustadt/" title="Sturm Graz vs Wiener Neustadt - Football Bundesliga - August 30, 2011">Sturm Graz vs Wiener Neustadt</a></td>
+					  <td align="center"><a href="/channels/sky-sport-austria/" title="Soccer on Sky Sport Austria">Sky Sport Austria</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/austria/bundesliga/">Austria Football Bundesliga</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>8:50am</td>
+			  <td id='alternate'>
+			  <a href="/match/233641/manchester-united-vs-arsenal/" title="Manchester United vs Arsenal - Premier League - August 30, 2011">Manchester United vs Arsenal</a></td>
+					  <td align="center" id='alternate'><a href="/channels/supersport-3/" title="Soccer on SuperSport 3">SuperSport 3</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">9:00am</td>
+			  <td>
+			  <a href="/match/233473/san-lorenzo-vs-boca-juniors/" title="San Lorenzo vs Boca Juniors - Primera Division - August 30, 2011">San Lorenzo vs Boca Juniors</a></td>
+					  <td align="center"><a href="/channels/espn-mas-andina/" title="Soccer on ESPN + Andina">ESPN + Andina</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/argentina/primera-division/">Argentina Primera Division</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>9:00am</td>
+			  <td id='alternate'>
+			  <a href="/match/234506/ajax-cape-town-vs-kaizer-chiefs/" title="Ajax Cape Town vs Kaizer Chiefs - ABSA Premiership - August 30, 2011">Ajax Cape Town vs Kaizer Chiefs</a></td>
+					  <td align="center" id='alternate'><a href="/channels/supersport-4/" title="Soccer on SuperSport 4">SuperSport 4</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/south-africa/premier-soccer-league/">South Africa ABSA Premiership</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">9:00am</td>
+			  <td>
+			  <a href="/match/234786/siena-vs-fiorentina/" title="Siena vs Fiorentina - Serie A - August 30, 2011">Siena vs Fiorentina</a></td>
+					  <td align="center"><a href="/channels/fox-soccer-plus/" title="Soccer on Fox Soccer Plus">Fox Soccer Plus</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/italy/serie-a/">Italy Serie A</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>9:05am</td>
+			  <td id='alternate'>
+			  <a href="/match/233619/bayer-leverkusen-vs-borussia-dortmund/" title="Bayer Leverkusen vs Borussia Dortmund - Bundesliga - August 30, 2011">Bayer Leverkusen vs Borussia Dortmund</a></td>
+					  <td align="center" id='alternate'><a href="/channels/supersport-hd/" title="Soccer on SuperSport HD">SuperSport HD</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/germany/bundesliga/">Bundesliga</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">9:30am</td>
+			  <td>
+			  <a href="/match/234694/mattersburg-vs-wacker-innsbruck/" title="Mattersburg vs Wacker Innsbruck - Football Bundesliga - August 30, 2011">Mattersburg vs Wacker Innsbruck</a></td>
+					  <td align="center"><a href="/channels/sky-sport-austria/" title="Soccer on Sky Sport Austria">Sky Sport Austria</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/austria/bundesliga/">Austria Football Bundesliga</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>10:55am</td>
+			  <td id='alternate'>
+			  <a href="/match/233620/schalke-04-vs-borussia-mgladbach/" title="Schalke 04 vs Borussia M'gladbach - Bundesliga - August 30, 2011">Schalke 04 vs Borussia M'gladbach</a></td>
+					  <td align="center" id='alternate'><a href="/channels/supersport-hd/" title="Soccer on SuperSport HD">SuperSport HD</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/germany/bundesliga/">Bundesliga</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">11:00am</td>
+			  <td>
+			  <a href="/match/233655/chelsea-vs-norwich-city/" title="Chelsea vs Norwich City - Premier League - August 30, 2011">Chelsea vs Norwich City</a></td>
+					  <td align="center"><a href="/channels/supersport-hd-3/" title="Soccer on SuperSport HD 3">SuperSport HD 3</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>11:00am</td>
+			  <td id='alternate'>
+			  <a href="/match/234787/crystal-palace-vs-blackpool/" title="Crystal Palace vs Blackpool - Championship - August 30, 2011">Crystal Palace vs Blackpool</a></td>
+					  <td align="center" id='alternate'><a href="/channels/fox-soccer-plus/" title="Soccer on Fox Soccer Plus">Fox Soccer Plus</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/england/championship/">England Championship</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">11:30am</td>
+			  <td>
+			  <a href="/match/233981/z-rich-vs-bayern-m-nchen/" title="Zürich vs Bayern München - UEFA Champions League - August 30, 2011">Zürich vs Bayern München</a></td>
+					  <td align="center"><a href="/channels/sky-sport-hd-1-deutschland/" title="Soccer on Sky Sport HD 1 Germany">Sky Sport HD 1 Germany</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/international/uefa-champions-league/">UEFA Champions League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>12:00pm</td>
+			  <td id='alternate'>
+			  <a href="/match/233471/liverpool-vs-manchester-united/" title="Liverpool vs Manchester United - Premier League - August 30, 2011">Liverpool vs Manchester United</a></td>
+					  <td align="center" id='alternate'><a href="/channels/espn-australia/" title="Soccer on ESPN Australia">ESPN Australia</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">12:00pm</td>
+			  <td>
+			  <a href="/match/234660/arsenal-vs-udinese/" title="Arsenal vs Udinese - UEFA Champions League - August 30, 2011">Arsenal vs Udinese</a></td>
+					  <td align="center"><a href="/channels/sky-sport-1-deutschland/" title="Soccer on Sky Sport 1 Germany">Sky Sport 1 Germany</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/international/uefa-champions-league/">UEFA Champions League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>12:00pm</td>
+			  <td id='alternate'>
+			  <a href="/match/234695/salzburg-vs-rapid-wien/" title="Salzburg vs Rapid Wien - Football Bundesliga - August 30, 2011">Salzburg vs Rapid Wien</a></td>
+					  <td align="center" id='alternate'><a href="/channels/sky-sport-austria/" title="Soccer on Sky Sport Austria">Sky Sport Austria</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/austria/bundesliga/">Austria Football Bundesliga</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">1:00pm</td>
+			  <td>
+			  <a href="/match/233642/tottenham-hotspur-vs-manchester-city/" title="Tottenham Hotspur vs Manchester City - Premier League - August 30, 2011">Tottenham Hotspur vs Manchester City</a></td>
+					  <td align="center"><a href="/channels/supersport-3/" title="Soccer on SuperSport 3">SuperSport 3</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>1:00pm</td>
+			  <td id='alternate'>
+			  <a href="/match/234207/club-tijuana-vs-queretaro/" title="Club Tijuana vs Queretaro - Primera Division - August 30, 2011">Club Tijuana vs Queretaro</a></td>
+					  <td align="center" id='alternate'><a href="/channels/espn-deportes/" title="Soccer on ESPN Deportes">ESPN Deportes</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/argentina/primera-division/">Argentina Primera Division</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">1:00pm</td>
+			  <td>
+			  <a href="/match/234778/cagliari-vs-milan/" title="Cagliari vs Milan - Serie A - August 30, 2011">Cagliari vs Milan</a></td>
+					  <td align="center"><a href="/channels/fox-soccer-channel/" title="Soccer on Fox Soccer Channel">FSC</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/italy/serie-a/">Italy Serie A</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>1:00pm</td>
+			  <td id='alternate'>
+			  <a href="/match/234795/club-tijuana-vs-queretaro-fc/" title="Club Tijuana vs Querétaro FC - Primera Division - August 30, 2011">Club Tijuana vs Querétaro FC</a></td>
+					  <td align="center" id='alternate'><a href="/channels/espn-deportes/" title="Soccer on ESPN Deportes">ESPN Deportes</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/mexico/primera-division/">Mexico Primera Division</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">1:30pm</td>
+			  <td>
+			  <a href="/match/233982/udinese-vs-arsenal/" title="Udinese vs Arsenal - UEFA Champions League - August 30, 2011">Udinese vs Arsenal</a></td>
+					  <td align="center"><a href="/channels/sky-sport-hd-1-deutschland/" title="Soccer on Sky Sport HD 1 Germany">Sky Sport HD 1 Germany</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/international/uefa-champions-league/">UEFA Champions League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>2:00pm</td>
+			  <td id='alternate'>
+			  <a href="/match/234791/chelsea-vs-norwich-city/" title="Chelsea vs Norwich City - Premier League - August 30, 2011">Chelsea vs Norwich City</a></td>
+					  <td align="center" id='alternate'><a href="/channels/fox-deportes/" title="Soccer on FOX Deportes">Fox Deportes</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">2:30pm</td>
+			  <td>
+			  <a href="/match/233643/manchester-united-vs-arsenal/" title="Manchester United vs Arsenal - Premier League - August 30, 2011">Manchester United vs Arsenal</a></td>
+					  <td align="center"><a href="/channels/supersport-3/" title="Soccer on SuperSport 3">SuperSport 3</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>3:00pm</td>
+			  <td id='alternate'>
+			  <a href="/match/234560/valenciennes-vs-bordeaux/" title="Valenciennes vs Bordeaux - Ligue 1 - August 30, 2011">Valenciennes vs Bordeaux</a></td>
+					  <td align="center" id='alternate'><a href="/channels/supersport-action/" title="Soccer on SuperSport Action">SuperSport Action</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/france/ligue-1/">France Ligue 1</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">3:00pm</td>
+			  <td>
+			  <a href="/match/234661/bayern-m-nchen-vs-z-rich/" title="Bayern München vs Zürich - UEFA Champions League - August 30, 2011">Bayern München vs Zürich</a></td>
+					  <td align="center"><a href="/channels/sky-sport-1-deutschland/" title="Soccer on Sky Sport 1 Germany">Sky Sport 1 Germany</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/international/uefa-champions-league/">UEFA Champions League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>3:00pm</td>
+			  <td id='alternate'>
+			  <a href="/match/234779/tottenham-hotspur-vs-manchester-city/" title="Tottenham Hotspur vs Manchester City - Premier League - August 30, 2011">Tottenham Hotspur vs Manchester City</a></td>
+					  <td align="center" id='alternate'><a href="/channels/fox-soccer-channel/" title="Soccer on Fox Soccer Channel">FSC</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">3:00pm</td>
+			  <td>
+			  <a href="/match/234788/leicester-vs-saracens/" title="Leicester vs Saracens - Guinness Premiership - August 30, 2011">Leicester vs Saracens</a></td>
+					  <td align="center"><a href="/channels/fox-soccer-plus/" title="Soccer on Fox Soccer Plus">Fox Soccer Plus</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/england/guinness-premiership/">England Guinness Premiership</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>4:50pm</td>
+			  <td id='alternate'>
+			  <a href="/match/234561/olympique-lyon-vs-montpellier/" title="Olympique Lyon vs Montpellier - Ligue 1 - August 30, 2011">Olympique Lyon vs Montpellier</a></td>
+					  <td align="center" id='alternate'><a href="/channels/supersport-action/" title="Soccer on SuperSport Action">SuperSport Action</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/france/ligue-1/">France Ligue 1</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">5:00pm</td>
+			  <td>
+			  <a href="/match/234780/internazionale-vs-lecce/" title="Internazionale vs Lecce - Serie A - August 30, 2011">Internazionale vs Lecce</a></td>
+					  <td align="center"><a href="/channels/fox-soccer-channel/" title="Soccer on Fox Soccer Channel">FSC</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/italy/serie-a/">Italy Serie A</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>5:00pm</td>
+			  <td id='alternate'>
+			  <a href="/match/234789/leinster-vs-ulster/" title="Leinster vs Ulster - Magners League - August 30, 2011">Leinster vs Ulster</a></td>
+					  <td align="center" id='alternate'><a href="/channels/fox-soccer-plus/" title="Soccer on Fox Soccer Plus">Fox Soccer Plus</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/international/magners-league/">Magners League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">6:00pm</td>
+			  <td>
+			  <a href="/match/234662/spartak-moskva-vs-fc-porto/" title="Spartak Moskva vs FC Porto - UEFA Europa League - August 30, 2011">Spartak Moskva vs FC Porto</a></td>
+					  <td align="center"><a href="/channels/sky-sport-1-deutschland/" title="Soccer on Sky Sport 1 Germany">Sky Sport 1 Germany</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/international/uefa-europa-league/">UEFA Europa League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>6:00pm</td>
+			  <td id='alternate'>
+			  <a href="/match/234792/nacional-vs-aurora-fc/" title="Nacional vs Aurora FC - Copa Sudamericana - August 30, 2011">Nacional vs Aurora FC</a></td>
+					  <td align="center" id='alternate'><a href="/channels/fox-deportes/" title="Soccer on FOX Deportes">Fox Deportes</a></td>
+					  <td align="center" id='alternate'>
+				<span class='live'>Live</span>&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/international/copa-sudamericana/">Copa Sudamericana</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">7:15pm</td>
+			  <td>
+			  <a href="/match/221814/arsenal-vs-estudiantes/" title="Arsenal vs Estudiantes - Copa Sudamericana - August 30, 2011">Arsenal vs Estudiantes</a></td>
+					  <td align="center"><a href="/channels/fox-sports-premium/" title="Soccer on Fox Sports Premium">Fox Sports Premium</a></td>
+					  <td align="center">
+				<span class='live'>Live</span>&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/international/copa-sudamericana/">Copa Sudamericana</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>7:30pm</td>
+			  <td id='alternate'>
+			  <a href="/match/233983/z-rich-vs-bayern-m-nchen/" title="Zürich vs Bayern München - UEFA Champions League - August 30, 2011">Zürich vs Bayern München</a></td>
+					  <td align="center" id='alternate'><a href="/channels/sky-sport-hd-1-deutschland/" title="Soccer on Sky Sport HD 1 Germany">Sky Sport HD 1 Germany</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/international/uefa-champions-league/">UEFA Champions League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">8:00pm</td>
+			  <td>
+			  <a href="/match/234663/benfica-vs-sporting-braga/" title="Benfica vs Sporting Braga - Primeira Liga - August 30, 2011">Benfica vs Sporting Braga</a></td>
+					  <td align="center"><a href="/channels/sky-sport-1-deutschland/" title="Soccer on Sky Sport 1 Germany">Sky Sport 1 Germany</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/portugal/liga-sagres/">Portugal Primeira Liga</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>8:00pm</td>
+			  <td id='alternate'>
+			  <a href="/match/234781/liverpool-vs-bolton/" title="Liverpool vs Bolton - Premier League - August 30, 2011">Liverpool vs Bolton</a></td>
+					  <td align="center" id='alternate'><a href="/channels/fox-soccer-channel/" title="Soccer on Fox Soccer Channel">FSC</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">8:00pm</td>
+			  <td>
+			  <a href="/match/234793/arsenal-vs-estudiantes-lp/" title="Arsenal vs Estudiantes Lp - Copa Sudamericana - August 30, 2011">Arsenal vs Estudiantes Lp</a></td>
+					  <td align="center"><a href="/channels/fox-deportes/" title="Soccer on FOX Deportes">Fox Deportes</a></td>
+					  <td align="center">
+				<span class='live'>Live</span>&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/international/copa-sudamericana/">Copa Sudamericana</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>9:00pm</td>
+			  <td id='alternate'>
+			  <a href="/match/234790/newcastle-united-vs-fulham/" title="Newcastle United vs Fulham - Premier League - August 30, 2011">Newcastle United vs Fulham</a></td>
+					  <td align="center" id='alternate'><a href="/channels/fox-soccer-plus/" title="Soccer on Fox Soccer Plus">Fox Soccer Plus</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">9:30pm</td>
+			  <td>
+			  <a href="/match/233984/udinese-vs-arsenal/" title="Udinese vs Arsenal - UEFA Champions League - August 30, 2011">Udinese vs Arsenal</a></td>
+					  <td align="center"><a href="/channels/sky-sport-hd-1-deutschland/" title="Soccer on Sky Sport HD 1 Germany">Sky Sport HD 1 Germany</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/international/uefa-champions-league/">UEFA Champions League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>10:00pm</td>
+			  <td id='alternate'>
+			  <a href="/match/234664/sporting-braga-vs-benfica/" title="Sporting Braga vs Benfica - Primeira Liga - August 30, 2011">Sporting Braga vs Benfica</a></td>
+					  <td align="center" id='alternate'><a href="/channels/sky-sport-1-deutschland/" title="Soccer on Sky Sport 1 Germany">Sky Sport 1 Germany</a></td>
+					  <td align="center" id='alternate'>
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center" id='alternate'>
+			  <a href="/competitions/portugal/liga-sagres/">Portugal Primeira Liga</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">11:00pm</td>
+			  <td>
+			  <a href="/match/234782/real-madrid-vs-barcelona/" title="Real Madrid vs Barcelona - UEFA Champions League - August 30, 2011">Real Madrid vs Barcelona</a></td>
+					  <td align="center"><a href="/channels/fox-soccer-channel/" title="Soccer on Fox Soccer Channel">FSC</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/international/uefa-champions-league/">UEFA Champions League</a>			  </td>
+						</tr>
+
+			            
+	    </table>
+	  
+        </td>
+    </tr>
+	    <tr>
+      <td align="center" style="background: url('/images/fixture_patch.gif') top repeat-x;">
+        <table border="0" cellpadding="0" cellspacing="0" id="days_bottom">
+          <tr> 
+                        <td valign="bottom" class="prev_week" width="95" align="center"><a href="/schedules/2011-08-27/">Prev. 
+              Week</a></td>
+                        <th width="60" id="passive"><a href="/schedules/2011-08-28/">Sun</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-08-29/">Mon</a></th>
+            <th width="60" id="active"><a href="/schedules/2011-08-30/">Tue</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-08-31/">Wed</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-09-01/">Thu</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-09-02/">Fri</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-09-03/">Sat</a></th>
+                        <td valign="bottom" class="next_week" width="95" align="center"><a href="/schedules/2011-09-04/">Next 
+              Week</a></td>
+                      </tr>
+        </table>
+      </td>
+    </tr>
+		</table>
+
+	</div><!-- end of schedules tab -->
+
+
+    <div id="_fixtures" class="tab_content">
+
+	<h1>Live Football Fixtures: Tuesday, August 30</h1>
+<div align="center" style="padding-bottom:15px;" id="LSTV_ROS_468x60"><script type="text/javascript">GA_googleFillSlotWithSize("ca-pub-5993370252466225", "LSTV_ROS_468x60", 468, 60);</script></div>    <table width="630" border="0" cellspacing="0" cellpadding="0" id="fixtures" align="center">
+    <tr> 
+      <td align="center" style="background: url('/images/fixture_patch.gif') bottom repeat-x;"> 
+        <table border="0" cellpadding="0" cellspacing="0" id="days">
+          <tr> 
+                        <td valign="bottom" class="prev_week" width="95" align="center"><a href="/schedules/2011-08-27/#_fixtures">Prev. 
+              Week</a></td>
+                        <th width="60" id="passive"><a href="/schedules/2011-08-28/#_fixtures">Sun</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-08-29/#_fixtures">Mon</a></th>
+            <th width="60" id="active"><a href="/schedules/2011-08-30/#_fixtures">Tue</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-08-31/#_fixtures">Wed</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-09-01/#_fixtures">Thu</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-09-02/#_fixtures">Fri</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-09-03/#_fixtures">Sat</a></th>
+                        <td valign="bottom" class="next_week" width="95" align="center"><a href="/schedules/2011-09-04/#_fixtures">Next 
+              Week</a></td>
+                      </tr>
+        </table></td>
+    </tr>
+    <tr> 
+      <td style="border-top: 5px solid #811616;border-right: 1px solid #811616;border-left: 1px solid #811616;border-bottom: 5px solid #811616;">
+		    <table border="0" cellspacing="0" cellpadding="0" width="100%" id="fixtures"><tr> 
+    <td style="border-top: 5px solid #811616;border-right: 1px solid #811616;border-left: 1px solid #811616;border-bottom: 1px solid #811616;">
+    
+	<table border="0" width="100%" cellspacing="2" cellpadding="4" style="border:1px solid #FFFFFF">
+	<tr>
+	  <th width="20%">Time<br /><span id="minitext">(US/Eastern)</span></th>
+	  <th align="left">Match</th>
+			<tr><td colspan="2"><h2 class="trigger" id="370" title="Copa Sudamericana Fixtures">
+            <a href="#">
+			<img src="http://cdn.livesoccertv.com/images/competitions/small/copa-sudamericana.gif"  border=0 align=left style='padding-top:6px;padding-right:10px;'/>			
+			Copa Sudamericana</a></h2>
+            <div class="toggle_container">
+            <table border="0" width="100%" cellspacing="2" cellpadding="4" id="fixtures" style="border:1px solid #FFFFFF">
+				
+	 			<tr>
+				
+			  <td align="center" id='alternate' width="15%">6:00pm</td>
+
+			  <td id='alternate'>
+			  <a href="/match/234792/nacional-vs-aurora-fc/" title="Nacional vs Aurora FC August 30, 2011">Nacional vs Aurora FC</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" width="15%">7:15pm</td>
+
+			  <td>
+			  <a href="/match/221814/arsenal-vs-estudiantes/" title="Arsenal vs Estudiantes August 30, 2011">Arsenal vs Estudiantes</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" id='alternate' width="15%">8:00pm</td>
+
+			  <td id='alternate'>
+			  <a href="/match/234793/arsenal-vs-estudiantes-lp/" title="Arsenal vs Estudiantes Lp August 30, 2011">Arsenal vs Estudiantes Lp</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" width="15%">9:30pm</td>
+
+			  <td>
+			  <a href="/match/234729/nacional-asuncion-vs-aurora/" title="Nacional Asunción vs Aurora August 30, 2011">Nacional Asunción vs Aurora</a></td>
+
+			                
+			</tr>
+					</table></div></td></tr>
+         			<tr><td colspan="2"><h2 class="trigger" id="920" title="Brazil Serie B Fixtures">
+            <a href="#">
+			<img src="http://cdn.livesoccertv.com/images/flags/16/brazil.png"  border=0 align=left style='padding-top:6px;padding-right:10px;'/>			
+			Brazil Serie B</a></h2>
+            <div class="toggle_container">
+            <table border="0" width="100%" cellspacing="2" cellpadding="4" id="fixtures" style="border:1px solid #FFFFFF">
+				
+	 			<tr>
+				
+			  <td align="center" id='alternate' width="15%">7:30pm</td>
+
+			  <td id='alternate'>
+			  <a href="/match/209128/abc-vs-bragantino/" title="ABC vs Bragantino August 30, 2011">ABC vs Bragantino</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" width="15%">7:30pm</td>
+
+			  <td>
+			  <a href="/match/209124/asa-vs-ponte-preta/" title="ASA vs Ponte Preta August 30, 2011">ASA vs Ponte Preta</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" id='alternate' width="15%">7:30pm</td>
+
+			  <td id='alternate'>
+			  <a href="/match/209121/duque-de-caxias-vs-americana/" title="Duque de Caxias vs Americana August 30, 2011">Duque de Caxias vs Americana</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" width="15%">7:30pm</td>
+
+			  <td>
+			  <a href="/match/209123/gremio-prudente-vs-goias/" title="Grêmio Prudente vs Goiás August 30, 2011">Grêmio Prudente vs Goiás</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" id='alternate' width="15%">7:30pm</td>
+
+			  <td id='alternate'>
+			  <a href="/match/209127/icasa-vs-sport-recife/" title="Icasa vs Sport Recife August 30, 2011">Icasa vs Sport Recife</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" width="15%">7:30pm</td>
+
+			  <td>
+			  <a href="/match/209122/nautico-vs-portuguesa/" title="Náutico vs Portuguesa August 30, 2011">Náutico vs Portuguesa</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" id='alternate' width="15%">7:30pm</td>
+
+			  <td id='alternate'>
+			  <a href="/match/218223/parana-vs-boa/" title="Paraná vs Boa August 30, 2011">Paraná vs Boa</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" width="15%">7:30pm</td>
+
+			  <td>
+			  <a href="/match/209119/sao-caetano-vs-salgueiro/" title="São Caetano vs Salgueiro August 30, 2011">São Caetano vs Salgueiro</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" id='alternate' width="15%">7:30pm</td>
+
+			  <td id='alternate'>
+			  <a href="/match/209126/vila-nova-vs-vitoria/" title="Vila Nova vs Vitória August 30, 2011">Vila Nova vs Vitória</a></td>
+
+			                
+			</tr>
+					</table></div></td></tr>
+         			<tr><td colspan="2"><h2 class="trigger" id="1160" title="England Conference National Fixtures">
+            <a href="#">
+			<img src="http://cdn.livesoccertv.com/images/flags/16/england.png"  border=0 align=left style='padding-top:6px;padding-right:10px;'/>			
+			England Conference National</a></h2>
+            <div class="toggle_container">
+            <table border="0" width="100%" cellspacing="2" cellpadding="4" id="fixtures" style="border:1px solid #FFFFFF">
+				
+	 			<tr>
+				
+			  <td align="center" width="15%">2:45pm</td>
+
+			  <td>
+			  <a href="/match/227729/hayes-yeading-united-vs-luton-town/" title="Hayes & Yeading United vs Luton Town August 30, 2011">Hayes & Yeading United vs Luton Town</a></td>
+
+			                
+			</tr>
+					</table></div></td></tr>
+         			<tr><td colspan="2"><h2 class="trigger" id="1370" title="Italy Serie B Fixtures">
+            <a href="#">
+			<img src="http://cdn.livesoccertv.com/images/flags/16/italy.png"  border=0 align=left style='padding-top:6px;padding-right:10px;'/>			
+			Italy Serie B</a></h2>
+            <div class="toggle_container">
+            <table border="0" width="100%" cellspacing="2" cellpadding="4" id="fixtures" style="border:1px solid #FFFFFF">
+				
+	 			<tr>
+				
+			  <td align="center" id='alternate' width="15%">2:45pm</td>
+
+			  <td id='alternate'>
+			  <a href="/match/232756/as-livorno-calcio-vs-sampdoria/" title="AS Livorno Calcio vs Sampdoria August 30, 2011">AS Livorno Calcio vs Sampdoria</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" width="15%">2:45pm</td>
+
+			  <td>
+			  <a href="/match/232759/calcio-padova-vs-reggina/" title="Calcio Padova vs Reggina August 30, 2011">Calcio Padova vs Reggina</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" id='alternate' width="15%">2:45pm</td>
+
+			  <td id='alternate'>
+			  <a href="/match/234851/gubbio-vs-ascoli/" title="Gubbio vs Ascoli August 30, 2011">Gubbio vs Ascoli</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" width="15%">2:45pm</td>
+
+			  <td>
+			  <a href="/match/232757/modena-fc-vs-as-bari/" title="Modena FC vs AS Bari August 30, 2011">Modena FC vs AS Bari</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" id='alternate' width="15%">2:45pm</td>
+
+			  <td id='alternate'>
+			  <a href="/match/234852/nocerina-vs-brescia/" title="Nocerina vs Brescia August 30, 2011">Nocerina vs Brescia</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" width="15%">2:45pm</td>
+
+			  <td>
+			  <a href="/match/232760/pescara-vs-empoli-fc/" title="Pescara vs Empoli FC August 30, 2011">Pescara vs Empoli FC</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" id='alternate' width="15%">2:45pm</td>
+
+			  <td id='alternate'>
+			  <a href="/match/232753/uc-albinoleffe-vs-us-grosseto/" title="UC Albinoleffe vs US Grosseto August 30, 2011">UC Albinoleffe vs US Grosseto</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" width="15%">2:45pm</td>
+
+			  <td>
+			  <a href="/match/232762/varese-vs-fc-crotone/" title="Varese vs FC Crotone August 30, 2011">Varese vs FC Crotone</a></td>
+
+			                
+			</tr>
+				<tr>
+				
+			  <td align="center" id='alternate' width="15%">2:45pm</td>
+
+			  <td id='alternate'>
+			  <a href="/match/232763/vicenza-calcio-vs-us-sassuolo-calcio/" title="Vicenza Calcio vs US Sassuolo Calcio August 30, 2011">Vicenza Calcio vs US Sassuolo Calcio</a></td>
+
+			                
+			</tr>
+					</table></div></td></tr>
+             </table>
+
+    </td></tr></table>    
+	</td>		
+    </tr>
+    <tr>
+      <td align="center" style="background: url('/images/fixture_patch.gif') top repeat-x;">
+        <table border="0" cellpadding="0" cellspacing="0" id="days_bottom">
+          <tr> 
+                        <td valign="bottom" class="prev_week" width="95" align="center"><a href="/schedules/2011-08-27/#_fixtures">Prev. 
+              Week</a></td>
+                        <th width="60" id="passive"><a href="/schedules/2011-08-28/#_fixtures">Sun</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-08-29#_fixtures">Mon</a></th>
+            <th width="60" id="active"><a href="/schedules/2011-08-30/#_fixtures">Tue</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-08-31/#_fixtures">Wed</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-09-01/#_fixtures">Thu</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-09-02/#_fixtures">Fri</a></th>
+            <th width="60" id="passive"><a href="/schedules/2011-09-03/#_fixtures">Sat</a></th>
+                        <td valign="bottom" class="next_week" width="95" align="center"><a href="/schedules/2011-09-04/#_fixtures">Next 
+              Week</a></td>
+                      </tr>
+        </table>
+      </td>
+    </tr>
+	</table>
+
+    </div><!-- end of fixtures tab -->
+    
+    <div id="_live_scores" class="tab_content">
+	<h1>Live Football Scores and Results: Tuesday, August 30</h1>
+        Live scores here...
+    </div><!-- end of live scores tab -->
+
+
+
+
+  <div id="_search" class="tab_content" style="width:100%;"> 
+  <br />
+    <form name="form1" method="post" action="/schedules.php">
+<table border="0" align="center" cellpadding="6" cellspacing="2" style="border:1px solid #666666; background-color:#E9F2F7;">
+  <tr> 
+                <td valign="top" colspan="2">
+                  <h1 style="padding:0;margin:0;">Advanced Search</h1>
+                  <br> <span style="font-size:11px;"> Check one or more boxes 
+                  to filter your search. You can also combine the search with 
+                  a keyword, for example the name of your favorite team.</span>                </td>
+              </tr>
+              <tr> 
+                <td width="60%" valign="top"> <table width="200" border="0" cellpadding="2" cellspacing="1" bgcolor="#FFFFFF" id="fixtures" style="border: 1px solid #811616;">
+                    <tr> 
+                      <th height="20">Competitions</th>
+                    </tr>
+                    <tr> 
+                      <td bgcolor="#FEEFE7"> <input name="All_Competitions" type="radio" id="All_Competitions3" value="yes" checked onClick="uncheckTypes(this.form)"> 
+                        <strong>All Competitions</strong></td>
+                    </tr>
+                    <tr> 
+                      <td id="alternate"> 
+                        <select name="types[]" size="19" multiple class="form" onChange="uncheckAllTypes(this.form)"><option value="AFC Asian Champions League">AFC Asian Champions League</option>
+<option value="AFC Asian Cup">AFC Asian Cup</option>
+<option value="AFC Cup">AFC Cup</option>
+<option value="Africa Cup of Nations">Africa Cup of Nations</option>
+<option value="Africa Cup of Nations Qualification">Africa Cup of Nations Qualification</option>
+<option value="African Championship of Nations">African Championship of Nations</option>
+<option value="Angola Girabola">Angola Girabola</option>
+<option value="Arab Champions League">Arab Champions League</option>
+<option value="Argentina Primera B Metropolitana">Argentina Primera B Metropolitana</option>
+<option value="Argentina Primera B Nacional">Argentina Primera B Nacional</option>
+<option value="Argentina Primera Division">Argentina Primera Division</option>
+<option value="Australia A-League">Australia A-League</option>
+<option value="Australia National Rugby League">Australia National Rugby League</option>
+<option value="Australian Football League">Australian Football League</option>
+<option value="Austria Cup">Austria Cup</option>
+<option value="Austria Football Bundesliga">Austria Football Bundesliga</option>
+<option value="Beach Soccer">Beach Soccer</option>
+<option value="Belarus Premier League">Belarus Premier League</option>
+<option value="Belgian Cup">Belgian Cup</option>
+<option value="Belgium Pro League">Belgium Pro League</option>
+<option value="Belgium Super Cup">Belgium Super Cup</option>
+<option value="Bolivia Liga de Futbol">Bolivia Liga de Futbol</option>
+<option value="Brazil Campeonato Baiano">Brazil Campeonato Baiano</option>
+<option value="Brazil Campeonato Carioca">Brazil Campeonato Carioca</option>
+<option value="Brazil Campeonato Catarinense">Brazil Campeonato Catarinense</option>
+<option value="Brazil Campeonato Cearanse">Brazil Campeonato Cearanse</option>
+<option value="Brazil Campeonato Gaucho">Brazil Campeonato Gaucho</option>
+<option value="Brazil Campeonato Goiano">Brazil Campeonato Goiano</option>
+<option value="Brazil Campeonato Mineiro">Brazil Campeonato Mineiro</option>
+<option value="Brazil Campeonato Paranense">Brazil Campeonato Paranense</option>
+<option value="Brazil Campeonato Paulista">Brazil Campeonato Paulista</option>
+<option value="Brazil Campeonato Pernambucano">Brazil Campeonato Pernambucano</option>
+<option value="Brazil Copa do Brasil">Brazil Copa do Brasil</option>
+<option value="Brazil Liga Futsal">Brazil Liga Futsal</option>
+<option value="Brazil Serie A - Brasileirao">Brazil Serie A - Brasileirao</option>
+<option value="Brazil Serie B">Brazil Serie B</option>
+<option value="Bulgaria A PFG">Bulgaria A PFG</option>
+<option value="Bulgarian Cup">Bulgarian Cup</option>
+<option value="Bundesliga">Bundesliga</option>
+<option value="CAF Champions League">CAF Champions League</option>
+<option value="CAF Confederation Cup">CAF Confederation Cup</option>
+<option value="Canadian Championship">Canadian Championship</option>
+<option value="Canadian Soccer League">Canadian Soccer League</option>
+<option value="Chile Primera Division">Chile Primera Division</option>
+<option value="China Super League ">China Super League </option>
+<option value="Club Friendly">Club Friendly</option>
+<option value="Colombia Copa Mustang">Colombia Copa Mustang</option>
+<option value="CONCACAF Champions League">CONCACAF Champions League</option>
+<option value="CONCACAF Gold Cup">CONCACAF Gold Cup</option>
+<option value="CONMEBOL South American U-17 ">CONMEBOL South American U-17 </option>
+<option value="Copa America 2011">Copa America 2011</option>
+<option value="Copa Centroamericana">Copa Centroamericana</option>
+<option value="Copa Chile">Copa Chile</option>
+<option value="Copa Colombia">Copa Colombia</option>
+<option value="Copa Libertadores">Copa Libertadores</option>
+<option value="Copa Peru">Copa Peru</option>
+<option value="Copa Sudamericana">Copa Sudamericana</option>
+<option value="Copa Sudamericano U20">Copa Sudamericano U20</option>
+<option value="Coppa Italia">Coppa Italia</option>
+<option value="Costa Rica Primera Division">Costa Rica Primera Division</option>
+<option value="Coupe de France">Coupe de France</option>
+<option value="Cricket - World Cup T20 Live">Cricket - World Cup T20 Live</option>
+<option value="Croatia 1. HNL">Croatia 1. HNL</option>
+<option value="Croatia Supercup">Croatia Supercup</option>
+<option value="Crotian Cup">Crotian Cup</option>
+<option value="Cupa Romaniei">Cupa Romaniei</option>
+<option value="Cyprus First Division">Cyprus First Division</option>
+<option value="Czech Republic 1. Liga">Czech Republic 1. Liga</option>
+<option value="Czech Republic Football Cup">Czech Republic Football Cup</option>
+<option value="Danish Cup">Danish Cup</option>
+<option value="Denmark Super Liga">Denmark Super Liga</option>
+<option value="Ecuador Primera A">Ecuador Primera A</option>
+<option value="EDF Energy Cup">EDF Energy Cup</option>
+<option value="Egypt Premier League">Egypt Premier League</option>
+<option value="El Salvador Primera Division">El Salvador Primera Division</option>
+<option value="Emirates Cup">Emirates Cup</option>
+<option value="England Carling Cup">England Carling Cup</option>
+<option value="England Championship">England Championship</option>
+<option value="England Conference League Cup">England Conference League Cup</option>
+<option value="England Conference National">England Conference National</option>
+<option value="England FA Community Shield">England FA Community Shield</option>
+<option value="England FA Cup">England FA Cup</option>
+<option value="England FA WSL">England FA WSL</option>
+<option value="England Guinness Premiership">England Guinness Premiership</option>
+<option value="England League One">England League One</option>
+<option value="England Premier Academy League">England Premier Academy League</option>
+<option value="England Premier League">England Premier League</option>
+<option value="FAI League of Ireland">FAI League of Ireland</option>
+<option value="FIFA Beach Soccer World Cup">FIFA Beach Soccer World Cup</option>
+<option value="FIFA Club World Cup">FIFA Club World Cup</option>
+<option value="FIFA Confederations Cup">FIFA Confederations Cup</option>
+<option value="FIFA U-17 World Cup">FIFA U-17 World Cup</option>
+<option value="FIFA U-20 World Cup">FIFA U-20 World Cup</option>
+<option value="FIFA Women's World Cup">FIFA Women's World Cup</option>
+<option value="FIFA Women's World Cup Qualifying">FIFA Women's World Cup Qualifying</option>
+<option value="FIFA World Cup">FIFA World Cup</option>
+<option value="France Coupe de la Ligue">France Coupe de la Ligue</option>
+<option value="France Ligue 1">France Ligue 1</option>
+<option value="France Super Cup">France Super Cup</option>
+<option value="Friendly">Friendly</option>
+<option value="German Cup">German Cup</option>
+<option value="Germany Bundesliga 2">Germany Bundesliga 2</option>
+<option value="Greece Super League">Greece Super League</option>
+<option value="Greek Cup">Greek Cup</option>
+<option value="Guatemala Liga Nacional">Guatemala Liga Nacional</option>
+<option value="Honduras Liga Nacional">Honduras Liga Nacional</option>
+<option value="Hungarian Cup">Hungarian Cup</option>
+<option value="Hungary National Championship NB1">Hungary National Championship NB1</option>
+<option value="India I-League">India I-League</option>
+<option value="Intercontinental Cup">Intercontinental Cup</option>
+<option value="International Amsterdam Tournament">International Amsterdam Tournament</option>
+<option value="International Antalya Women's Soccer Tournament">International Antalya Women's Soccer Tournament</option>
+<option value="International Barclays Asia Trophy">International Barclays Asia Trophy</option>
+<option value="International CFU Club Championship">International CFU Club Championship</option>
+<option value="International CONCACAF Under-20 Championship">International CONCACAF Under-20 Championship</option>
+<option value="International Rugby - Barclays Churchill Cup">International Rugby - Barclays Churchill Cup</option>
+<option value="International Rugby - IRB Nations Cup">International Rugby - IRB Nations Cup</option>
+<option value="International Rugby - Pacific 5 Nations">International Rugby - Pacific 5 Nations</option>
+<option value="International The Audi Cup">International The Audi Cup</option>
+<option value="International The Peace Cup">International The Peace Cup</option>
+<option value="International UEFA European Football Championship">International UEFA European Football Championship</option>
+<option value="International UEFA Super Cup">International UEFA Super Cup</option>
+<option value="International UEFA Womens Champions League">International UEFA Womens Champions League</option>
+<option value="International Wembley Cup">International Wembley Cup</option>
+<option value="Ireland Dublin Super Cup">Ireland Dublin Super Cup</option>
+<option value="Israel Premier League">Israel Premier League</option>
+<option value="Israel State Cup">Israel State Cup</option>
+<option value="Italy Serie A">Italy Serie A</option>
+<option value="Italy Serie B">Italy Serie B</option>
+<option value="Japan J1 League">Japan J1 League</option>
+<option value="Japan J2 League">Japan J2 League</option>
+<option value="Kuwait Premier League">Kuwait Premier League</option>
+<option value="Magners League">Magners League</option>
+<option value="Major League Soccer">Major League Soccer</option>
+<option value="Mexico Interliga">Mexico Interliga</option>
+<option value="Mexico Liga de Ascenso">Mexico Liga de Ascenso</option>
+<option value="Mexico Primera Division">Mexico Primera Division</option>
+<option value="Moldovan National Division">Moldovan National Division</option>
+<option value="Morocco GNF 1 Botola">Morocco GNF 1 Botola</option>
+<option value="Netherlands Cup">Netherlands Cup</option>
+<option value="Netherlands Eredivisie">Netherlands Eredivisie</option>
+<option value="Norway Tippeligaen">Norway Tippeligaen</option>
+<option value="Olympic Soccer - Men">Olympic Soccer - Men</option>
+<option value="Olympics Soccer - Women">Olympics Soccer - Women</option>
+<option value="Other Soccer Programming">Other Soccer Programming</option>
+<option value="Paraguay Division Profesional">Paraguay Division Profesional</option>
+<option value="Peru Primera Division">Peru Primera Division</option>
+<option value="Poland Ekstraklasa">Poland Ekstraklasa</option>
+<option value="Polish Cup">Polish Cup</option>
+<option value="Polish Super Cup">Polish Super Cup</option>
+<option value="Portugal Cup">Portugal Cup</option>
+<option value="Portugal Liga de Honra">Portugal Liga de Honra</option>
+<option value="Portugal Primeira Liga">Portugal Primeira Liga</option>
+<option value="Portugal Super Taca">Portugal Super Taca</option>
+<option value="Portugal Taça da Liga">Portugal Taça da Liga</option>
+<option value="Puerto Rico Soccer League">Puerto Rico Soccer League</option>
+<option value="Qatar Stars League">Qatar Stars League</option>
+<option value="Recopa Sudamericana">Recopa Sudamericana</option>
+<option value="Republic of Ireland FAI Cup">Republic of Ireland FAI Cup</option>
+<option value="Republic of Ireland League Cup">Republic of Ireland League Cup</option>
+<option value="Romania Liga I">Romania Liga I</option>
+<option value="Russia Premier League">Russia Premier League</option>
+<option value="Russia Super Cup">Russia Super Cup</option>
+<option value="Russian Cup">Russian Cup</option>
+<option value="Scotland Premier League">Scotland Premier League</option>
+<option value="Scottish FA Cup">Scottish FA Cup</option>
+<option value="Scottish League Cup">Scottish League Cup</option>
+<option value="Serbia Super Liga">Serbia Super Liga</option>
+<option value="Slovakia Superliga">Slovakia Superliga</option>
+<option value="South Africa ABSA Premiership">South Africa ABSA Premiership</option>
+<option value="South Africa Carling Black Label Cup">South Africa Carling Black Label Cup</option>
+<option value="South Africa National First Division">South Africa National First Division</option>
+<option value="South Africa Old Mutual Mangaung Cup">South Africa Old Mutual Mangaung Cup</option>
+<option value="Spain Ciutat De Barcelona Trophy">Spain Ciutat De Barcelona Trophy</option>
+<option value="Spain Copa del Rey">Spain Copa del Rey</option>
+<option value="Spain La Liga">Spain La Liga</option>
+<option value="Spain Segunda Division">Spain Segunda Division</option>
+<option value="Sudamericano U17">Sudamericano U17</option>
+<option value="Super 14">Super 14</option>
+<option value="Super Lig">Super Lig</option>
+<option value="Supercopa de España">Supercopa de España</option>
+<option value="SuperLiga">SuperLiga</option>
+<option value="Svenska Cupen">Svenska Cupen</option>
+<option value="Sweden Allsvenskan">Sweden Allsvenskan</option>
+<option value="Sweden Superettan">Sweden Superettan</option>
+<option value="Swiss Challenge League">Swiss Challenge League</option>
+<option value="Swiss Cup">Swiss Cup</option>
+<option value="Switzerland Axpo Super League">Switzerland Axpo Super League</option>
+<option value="Toulon Tournament">Toulon Tournament</option>
+<option value="Turkey Kupasi">Turkey Kupasi</option>
+<option value="Turkey Super Cup">Turkey Super Cup</option>
+<option value="TV Program - Soccer Analysis">TV Program - Soccer Analysis</option>
+<option value="UEFA Champions League">UEFA Champions League</option>
+<option value="UEFA Euro 2012 Qualifying">UEFA Euro 2012 Qualifying</option>
+<option value="UEFA Europa League">UEFA Europa League</option>
+<option value="UEFA Intertoto Cup">UEFA Intertoto Cup</option>
+<option value="UEFA U17 European Championship">UEFA U17 European Championship</option>
+<option value="UEFA U19 European Championship">UEFA U19 European Championship</option>
+<option value="UEFA U19 European Championship - Women">UEFA U19 European Championship - Women</option>
+<option value="UEFA Under 21 Championship">UEFA Under 21 Championship</option>
+<option value="UEFA Women's European Championship">UEFA Women's European Championship</option>
+<option value="Ukraine Premier League">Ukraine Premier League</option>
+<option value="UNCAF Nations Cup">UNCAF Nations Cup</option>
+<option value="United Arab Emirates Premier League">United Arab Emirates Premier League</option>
+<option value="Uruguay Primera Division">Uruguay Primera Division</option>
+<option value="USA College Soccer">USA College Soccer</option>
+<option value="USA MLS Cup">USA MLS Cup</option>
+<option value="USA United Soccer League">USA United Soccer League</option>
+<option value="USA USSF Development Academy Championships">USA USSF Development Academy Championships</option>
+<option value="USA Womens Professional Soccer">USA Womens Professional Soccer</option>
+<option value="Wales Premier League">Wales Premier League</option>
+<option value="World Cup Qualifying">World Cup Qualifying</option>
+<option value="World Football Challenge">World Football Challenge</option>
+</select>                      </td>
+                    </tr>
+                  </table>
+                  <br />
+                  <table width="325" border="0" cellpadding="1" cellspacing="1" bgcolor="#FFFFFF" id="fixtures3" style="border: 1px solid #811616;">
+                    <tr>
+                      <th height="20" colspan="6">Countries</th>
+                    </tr>
+                    <tr>
+                      <td align="center" bgcolor="#FEEFE7">&nbsp;</td>
+                      <td align="center" bgcolor="#FEEFE7"><input name="All_Countries" type="radio" id="All_Countries" value="yes" checked="checked" onclick="uncheckCountries(this.form)" />                      </td>
+                      <td colspan="4" bgcolor="#FEEFE7"><strong>All Countries</strong></td>
+                    </tr>
+                    <tr></tr>
+                    <tr>
+                      <td align="center"><img src="/images/flags/16/brazil.png" alt="Brazil Soccer" width="16" height="16" border="0" /></td>
+                      <td align="center"><input name="Brazil" type="checkbox" value="yes" onclick="uncheckAllCountries(this.form)" /></td>
+                      <td>Brazil</td>
+                      <td align="center"><img src="/images/flags/16/italy.png" alt="Italy Soccer" width="16" height="16" border="0" /></td>
+                      <td align="center"><input name="Italy" type="checkbox" value="yes" onclick="uncheckAllCountries(this.form)" /></td>
+                      <td>Italy</td>
+                    </tr>
+                    <tr>
+                      <td align="center" id="alternate"><img src="/images/flags/16/canada.png" alt="Canada Soccer" width="16" height="16" border="0" /></td>
+                      <td align="center" id="alternate"><input name="Canada" type="checkbox" value="yes" onclick="uncheckAllCountries(this.form)" /></td>
+                      <td id="alternate">Canada</td>
+                      <td align="center" id="alternate"><img src="/images/flags/16/portugal.png" alt="Portugal Soccer" width="16" height="16" border="0" /></td>
+                      <td align="center" id="alternate"><input name="Portugal" type="checkbox" value="yes" onclick="uncheckAllCountries(this.form)" /></td>
+                      <td id="alternate">Portugal</td>
+                    </tr>
+                    <tr>
+                      <td align="center"><img src="/images/flags/16/england.png" alt="English Soccer" width="16" height="16" border="0" /></td>
+                      <td align="center"><input name="England" type="checkbox" value="yes" onclick="uncheckAllCountries(this.form)" /></td>
+                      <td>England</td>
+                      <td align="center"><img src="/images/flags/16/scotland.png" alt="Scotland Soccer" width="16" height="16" border="0" /></td>
+                      <td align="center"><input name="Scotland" type="checkbox"value="yes" onclick="uncheckAllCountries(this.form)" /></td>
+                      <td>Scotland</td>
+                    </tr>
+                    <tr>
+                      <td align="center" id="alternate"><img src="/images/flags/16/france.png" alt="France Soccer" width="16" height="16" border="0" /></td>
+                      <td align="center" id="alternate"><input name="France" type="checkbox" value="yes" onclick="uncheckAllCountries(this.form)" /></td>
+                      <td id="alternate">France</td>
+                      <td align="center" id="alternate"><img src="/images/flags/16/spain.png" alt="Spain Soccer" width="16" height="16" border="0" /></td>
+                      <td align="center" id="alternate"><input name="Spain" type="checkbox" value="yes" onclick="uncheckAllCountries(this.form)" /></td>
+                      <td id="alternate">Spain</td>
+                    </tr>
+                    <tr>
+                      <td align="center"><img src="/images/flags/16/germany.png" alt="Germany Soccer" width="16" height="16" border="0" /></td>
+                      <td align="center"><input name="Germany" type="checkbox" value="yes" onclick="uncheckAllCountries(this.form)" /></td>
+                      <td>Germany</td>
+                      <td align="center"><img src="/images/flags/16/usa.png" alt="USA Soccer" width="16" height="16" border="0" /></td>
+                      <td align="center"><input name="USA" type="checkbox" value="yes" onclick="uncheckAllCountries(this.form)" /></td>
+                      <td>USA</td>
+                    </tr>
+                  </table>                  </td>
+                <td valign="top" style="border-left: 1px dotted #999999;"> 
+                  <table width="150" border="0" cellpadding="2" cellspacing="1" bgcolor="#FFFFFF" id="fixtures" style="border: 1px solid #811616;">
+                    <tr> 
+                      <th colspan="2" height="20">Date Range</th>
+                    </tr>
+                    <tr> 
+                      <td align="right">&nbsp;</td>
+                      <td style="font-size:10px;">MM/DD/YYYY</td>
+                    </tr>
+                    <tr> 
+                      <td width="35" align="right" id="alternate">From:</td>
+                      <td id="alternate"> <input name="from" type="text" size="13" class="form" value='08/21/2011' style="padding-top:3px;" onFocus="showCalendarControl(this);">                      <a href="javascript:cal1.popup();"></a></td>
+                    </tr>
+                    <tr> 
+                      <td align="right">&nbsp;</td>
+                      <td style="font-size:10px;">MM/DD/YYYY</td>
+                    </tr>
+                    <tr> 
+                      <td align="right" id="alternate">Until:</td>
+                      <td id="alternate"><input name="to" type="text" size="13" class="form" value='08/21/2011' onFocus="showCalendarControl(this);">                        <a href="javascript:cal2.popup();"></a></td>
+                    </tr>
+                    <tr> 
+                      <td height="22" colspan="2" align="right">&nbsp;</td>
+                    </tr>
+                  </table>
+                  <br> <table width="150" border="0" cellpadding="2" cellspacing="1" bgcolor="#FFFFFF" id="fixtures" style="border: 1px solid #811616;">
+                    <tr> 
+                      <th colspan="2" height="20">Keyword</th>
+                    </tr>
+                    <tr> 
+                      <td align="center" style="font-size:10px;">e.g. <em>Chelsea</em> 
+                        or <em>Uruguay</em></td>
+                    </tr>
+                    <tr> 
+                      <td align="center" id="alternate"> <input name="keyword" type="text" class="form" id="keyword" size="20">                      </td>
+                    </tr>
+                  </table>
+                  <br />
+                  <table width="150" border="0" cellpadding="2" cellspacing="1" bgcolor="#FFFFFF" id="fixtures" style="border: 1px solid #811616;">
+                    <tr> 
+                      <th height="20">Channels</th>
+                    </tr>
+                    <tr> 
+                      <td bgcolor="#FEEFE7"> <input name="All_Channels" type="radio" id="radio4" value="yes" checked onClick="checkAllBoxes(this.form)">
+                        All</td>
+                    </tr>
+                    <tr> 
+                      <td id="alternate"> 
+                        <select name="channels[]" size="15" multiple class="form" onChange="uncheckRadioChannels(this.form)"><option value="482">2BE</option>
+<option value="33">3ATeleSud</option>
+<option value="462">AB3</option>
+<option value="34">ABC</option>
+<option value="343">Abu Dhabi Sports</option>
+<option value="185">Al Jazeera Sports</option>
+<option value="399">Al Jazeera Sports 10</option>
+<option value="391">Al Jazeera Sports 2</option>
+<option value="392">Al Jazeera Sports 3</option>
+<option value="393">Al Jazeera Sports 4</option>
+<option value="394">Al Jazeera Sports 5</option>
+<option value="395">Al Jazeera Sports 6</option>
+<option value="396">Al Jazeera Sports 7</option>
+<option value="397">Al Jazeera Sports 8</option>
+<option value="398">Al Jazeera Sports 9</option>
+<option value="301">Al Jazeera Sports Broadband</option>
+<option value="530">Al Jazeera Sports USA</option>
+<option value="141">Alpha Sat</option>
+<option value="173">America 2</option>
+<option value="242">Andina de Television</option>
+<option value="467">ANT1</option>
+<option value="32">ANT1 Satellite</option>
+<option value="418">Antenna Pacific</option>
+<option value="313">ARD</option>
+<option value="307">ARD Broadband</option>
+<option value="445">Arena Sport</option>
+<option value="478">ARMTV</option>
+<option value="110">Arsenal TV</option>
+<option value="82">ART America</option>
+<option value="348">Astro Supersport</option>
+<option value="127">Audio Podcast</option>
+<option value="75">Azteca America</option>
+<option value="257">Bangkok Broadcasting TV</option>
+<option value="137">Barca TV</option>
+<option value="183">BBC HD</option>
+<option value="170">BBC One Scotland</option>
+<option value="126">BBC Red Button</option>
+<option value="260">BBC Sport</option>
+<option value="311">BBC Sport Broadband</option>
+<option value="169">BBC Two</option>
+<option value="145">BBC3</option>
+<option value="356">Be TV</option>
+<option value="446">Beijing TV</option>
+<option value="481">Belteleradio</option>
+<option value="139">Benfica TV</option>
+<option value="89">Bet365 Video</option>
+<option value="134">BetFair</option>
+<option value="357">BHRT Bosnia</option>
+<option value="457">Bolivision</option>
+<option value="97">British EuroSport 1</option>
+<option value="98">British EuroSport 2 </option>
+<option value="147">British Eurosport HD</option>
+<option value="138">Bundesligen Tv</option>
+<option value="77">Bwin</option>
+<option value="196">Cameroon Radio Television</option>
+<option value="253">Canal + Liga Espana</option>
+<option value="263">Canal 10 Uruguay</option>
+<option value="171">Canal 7</option>
+<option value="199">Canal 7 - Chile</option>
+<option value="172">Canal 9</option>
+<option value="241">Canal 9 Paraguay</option>
+<option value="365">Canal Plus Finland</option>
+<option value="209">Canal Plus France</option>
+<option value="377">Canal Plus Poland</option>
+<option value="488">Canal+ Spain</option>
+<option value="408">Canal+ Sport</option>
+<option value="201">Caracol TV</option>
+<option value="58">CBC</option>
+<option value="63">CBC-bold</option>
+<option value="71">cbcsports.ca</option>
+<option value="200">CCTV</option>
+<option value="111">Celtic TV</option>
+<option value="86">Centro America TV</option>
+<option value="455">CFI</option>
+<option value="161">Channel 4</option>
+<option value="247">Channel One Russia</option>
+<option value="136">Chelsea TV</option>
+<option value="459">Chilevision</option>
+<option value="304">China Central Television Broadba</option>
+<option value="176">Citytv</option>
+<option value="486">CONCACAF TV</option>
+<option value="419">Conn-x TV</option>
+<option value="43">CTV</option>
+<option value="252">Cuatro</option>
+<option value="464">CYBC</option>
+<option value="474">DailyMotion</option>
+<option value="305">Danish Broadcasting Corporation </option>
+<option value="360">Diema</option>
+<option value="361">Diema 2</option>
+<option value="351">DigiSport</option>
+<option value="442">DigitAlb</option>
+<option value="381">Digiturk</option>
+<option value="198">DirecTV Latin America</option>
+<option value="132">Directv Soccer</option>
+<option value="13">Dish</option>
+<option value="204">DR</option>
+<option value="206">Ecuavisa Ecuador</option>
+<option value="91">Ecuavisa Internacional</option>
+<option value="434">EkstraKlasa.TV</option>
+<option value="188">ENTV Television Algerienne</option>
+<option value="469">Eredivisie Live</option>
+<option value="429">Eredivisie.tv</option>
+<option value="215">ERT Greece</option>
+<option value="52">ERT World</option>
+<option value="9">ESPN</option>
+<option value="278">ESPN + </option>
+<option value="279">ESPN + Andina</option>
+<option value="271">ESPN 2 Caribbean</option>
+<option value="273">ESPN 360 Brasil</option>
+<option value="296">ESPN 3D UK</option>
+<option value="281">ESPN 3D USA</option>
+<option value="269">ESPN Australia</option>
+<option value="272">ESPN BR</option>
+<option value="359">ESPN Brasil</option>
+<option value="285">ESPN Caribbean</option>
+<option value="21">ESPN Classic</option>
+<option value="10">ESPN Deportes</option>
+<option value="428">ESPN Deportes Radio</option>
+<option value="275">ESPN DOS</option>
+<option value="276">ESPN DOS Mexico</option>
+<option value="388">ESPN Dos Venezuela</option>
+<option value="270">ESPN HD Australia</option>
+<option value="274">ESPN HD Brasil</option>
+<option value="152">ESPN HD UK</option>
+<option value="387">ESPN Latin America Andina</option>
+<option value="385">ESPN Latin America North</option>
+<option value="386">ESPN Latin America South</option>
+<option value="389">ESPN Middle East</option>
+<option value="323">ESPN Mobile TV</option>
+<option value="479">ESPN Pacific Rim</option>
+<option value="297">ESPN Play Argentina</option>
+<option value="295">ESPN Radio</option>
+<option value="186">ESPN Star Sports</option>
+<option value="277">ESPN Sur</option>
+<option value="283">ESPN Sur 1</option>
+<option value="150">ESPN UK</option>
+<option value="282">ESPN Venezuela</option>
+<option value="11">ESPN2</option>
+<option value="425">ESPN2 Australia</option>
+<option value="426">ESPN2 HD Australia</option>
+<option value="182">ESPN3 USA</option>
+<option value="268">ESPN3.com Australia</option>
+<option value="59">ESPNU</option>
+<option value="473">Eurosport 2</option>
+<option value="210">Eurosport France</option>
+<option value="390">EuroWorld Sport</option>
+<option value="463">EXQI Sports</option>
+<option value="62">FIFA.com</option>
+<option value="355">Fiji TV</option>
+<option value="113">Five</option>
+<option value="407">Foot+</option>
+<option value="461">Forta</option>
+<option value="8">Fox Deportes</option>
+<option value="475">FOX Network</option>
+<option value="180">Fox Soccer Plus</option>
+<option value="181">Fox Sports +</option>
+<option value="336">Fox Sports Australia</option>
+<option value="337">Fox Sports Australia 2</option>
+<option value="338">Fox Sports Australia 3</option>
+<option value="179">Fox Sports Basico</option>
+<option value="432">Fox Sports Florida</option>
+<option value="344">Fox Sports Latin America</option>
+<option value="159">Fox Sports Net</option>
+<option value="178">Fox Sports Premium</option>
+<option value="65">FoxSoccer.tv</option>
+<option value="211">France 2</option>
+<option value="326">France 3</option>
+<option value="7">FSC</option>
+<option value="1">FSWC</option>
+<option value="265">Futbol de Primera Radio</option>
+<option value="158">Futbol Estelar</option>
+<option value="460">FX Channel</option>
+<option value="44">Galavision</option>
+<option value="207">Gamavision</option>
+<option value="212">GBC</option>
+<option value="494">GEO TV</option>
+<option value="80">Ghana 2008 TV</option>
+<option value="222">Global TV Indonesia</option>
+<option value="195">GloboEsporte</option>
+<option value="489">GloboEsporte.com</option>
+<option value="373">GO Malta</option>
+<option value="327">GoalTV 1</option>
+<option value="328">GoalTV 2</option>
+<option value="346">Gol TV Espana</option>
+<option value="451">GolTV HD</option>
+<option value="6">GolTV USA</option>
+<option value="61">GolTV-Canada</option>
+<option value="345">Guangdong Sports</option>
+<option value="57">HDnet</option>
+<option value="221">i-Cable Sports</option>
+<option value="128">ITV 1</option>
+<option value="114">ITV 4</option>
+<option value="148">ITV HD</option>
+<option value="312">ITV Sport Broadband</option>
+<option value="368">J Sports 1</option>
+<option value="363">Kanal 4 Denmark</option>
+<option value="364">Kanal 5 Denmark</option>
+<option value="493">Kolkata TV</option>
+<option value="440">La Sexta</option>
+<option value="427">Latino America TV</option>
+<option value="470">Lider TV</option>
+<option value="519">Lig TV</option>
+<option value="433">LigaSagres.TV</option>
+<option value="516">LiveAFC.TV</option>
+<option value="512">LiveALeague.tv</option>
+<option value="514">LiveCampeonatoBrasileiro.TV</option>
+<option value="436">LiveCampeonatoPaulista.TV</option>
+<option value="515">LIVECSL.TV</option>
+<option value="496">LiveFriendlies.tv</option>
+<option value="513">LiveJLeague.tv</option>
+<option value="439">LiveMLS.TV</option>
+<option value="437">LivePFG.TV</option>
+<option value="438">LivePrimeraDivision.TV</option>
+<option value="115">Liverpool TV</option>
+<option value="435">LiveSerieB.TV</option>
+<option value="430">LiveSport.TV</option>
+<option value="362">Lumiere TV</option>
+<option value="465">M6</option>
+<option value="471">MCS</option>
+<option value="523">Mediaset Premium</option>
+<option value="266">Meridiano Television</option>
+<option value="213">Metro TV</option>
+<option value="174">Mexico TV</option>
+<option value="249">MioTV Singtel</option>
+<option value="88">MLS Direct Kick</option>
+<option value="87">mls-soccer</option>
+<option value="264">Monte Carlo TV Canal 4</option>
+<option value="156">MSG</option>
+<option value="157">MSG Plus</option>
+<option value="175">Mun2</option>
+<option value="116">MUTV</option>
+<option value="149">My Sports Germany</option>
+<option value="120">NBC</option>
+<option value="526">NBC Sports</option>
+<option value="495">NEO Sports</option>
+<option value="228">NHK Japan</option>
+<option value="421">nitro</option>
+<option value="235">NOS Television Netherlands</option>
+<option value="366">Nova Sports</option>
+<option value="497">NOVA Sports 2</option>
+<option value="417">Now TV</option>
+<option value="309">NRK Sports Broadband</option>
+<option value="444">NTV Hayat</option>
+<option value="453">NTV Spor</option>
+<option value="466">OBN</option>
+<option value="40">OMNI 1</option>
+<option value="41">OMNI 2</option>
+<option value="142">OmniSportTV</option>
+<option value="517">One Australia</option>
+<option value="441">One World Sports</option>
+<option value="472">Orange Sport</option>
+<option value="480">ORF</option>
+<option value="166">ORTM</option>
+<option value="67">P2P</option>
+<option value="420">Peru Magico</option>
+<option value="53">PFC Internacional</option>
+<option value="529">Portuguese Football League</option>
+<option value="72">PPV</option>
+<option value="163">Premier League Footy</option>
+<option value="349">Premier League Live Canada</option>
+<option value="405">Premier Sports</option>
+<option value="352">Prime Sport</option>
+<option value="353">Prime Sport 2</option>
+<option value="431">Prime Ticket</option>
+<option value="48">Pro Sieben Sat.1 Welt</option>
+<option value="490">PTV</option>
+<option value="129">Radio Canada - CBC</option>
+<option value="232">Radio Televisyen Malaysia</option>
+<option value="236">Radio y Television Nicaraguense</option>
+<option value="227">Radiodiffusion Television Ivorie</option>
+<option value="28">RAI Internazionale</option>
+<option value="522">RAI Sport Uno</option>
+<option value="226">RAI Uno</option>
+<option value="112">Rangers TV</option>
+<option value="42">RBTI</option>
+<option value="202">RCN Television</option>
+<option value="223">RCTI - Indonesia</option>
+<option value="24">RDS</option>
+<option value="95">RDS-HD</option>
+<option value="243">Red Global</option>
+<option value="192">Red Unitel</option>
+<option value="193">Red Uno</option>
+<option value="203">Repretel</option>
+<option value="23">RFO</option>
+<option value="94">RIS</option>
+<option value="384">RMTV</option>
+<option value="378">Rossija 2</option>
+<option value="238">RPC Canal 4</option>
+<option value="224">RTE One</option>
+<option value="184">RTE Two</option>
+<option value="191">RTL Television</option>
+<option value="244">RTP Radio Televisao Portuguesa</option>
+<option value="14">RTPi</option>
+<option value="289">RTS Senegal</option>
+<option value="374">RTV Atlas</option>
+<option value="290">RTV Slovenia</option>
+<option value="248">Russia State Television</option>
+<option value="155">S4C</option>
+<option value="230">SBS Korea</option>
+<option value="299">SBS One Australia</option>
+<option value="300">SBS Two Australia</option>
+<option value="146">Setanta Ireland</option>
+<option value="12">Setanta Premium</option>
+<option value="107">Setanta Sports 1</option>
+<option value="108">Setanta Sports 2</option>
+<option value="165">Setanta Sports Australia</option>
+<option value="66">Setanta Sports Canada</option>
+<option value="109">Setanta Sports News</option>
+<option value="22">Setanta Sports USA</option>
+<option value="49">Setanta Xtra</option>
+<option value="45">Setanta-Broadband</option>
+<option value="245">SIC</option>
+<option value="29">SICi</option>
+<option value="448">Skai TV</option>
+<option value="416">Sky 3D Germany</option>
+<option value="404">Sky Fussball Bundesliga</option>
+<option value="225">Sky Italia</option>
+<option value="317">Sky Latin America</option>
+<option value="229">SKY PerfecTV</option>
+<option value="403">Sky Sport 1 Germany</option>
+<option value="424">Sky Sport 2 Germany</option>
+<option value="422">Sky Sport Austria</option>
+<option value="415">Sky Sport HD 1 Germany</option>
+<option value="423">Sky Sport HD 2 Germany</option>
+<option value="73">Sky Sports</option>
+<option value="99">Sky Sports 1</option>
+<option value="100">Sky Sports 2</option>
+<option value="101">Sky Sports 3</option>
+<option value="167">Sky Sports 4</option>
+<option value="102">Sky Sports HD 1</option>
+<option value="103">Sky Sports HD 2</option>
+<option value="104">Sky Sports HD 3</option>
+<option value="168">Sky Sports HD 4</option>
+<option value="131">Sky Sports Interactive</option>
+<option value="105">Sky Sports News</option>
+<option value="153">Sky Sports Red Button</option>
+<option value="74">Sky Sports Xtra</option>
+<option value="160">SKY TG24 Canada</option>
+<option value="376">Sky TV New Zealand</option>
+<option value="251">Slovak TV</option>
+<option value="135">Soccer Fixtures</option>
+<option value="197">Societe Radio-Canada</option>
+<option value="447">Sport 1</option>
+<option value="483">Sport 2</option>
+<option value="358">Sport Klub</option>
+<option value="140">Sport TV</option>
+<option value="413">Sport TV Americas</option>
+<option value="409">Sport+</option>
+<option value="412">Sport.TV África</option>
+<option value="414">Sport.TV Liga Inglesa</option>
+<option value="78">Sport.TV1</option>
+<option value="400">Sport.TV2</option>
+<option value="401">Sport.TV3</option>
+<option value="527">Sport.TV4</option>
+<option value="411">Sport.TVHD</option>
+<option value="367">Sport1</option>
+<option value="491">Sport1 + Germany</option>
+<option value="375">Sport1 Netherlands</option>
+<option value="83">SportFive UEFA</option>
+<option value="524">SportItalia 1</option>
+<option value="525">SportItalia 2</option>
+<option value="187">SportsMax</option>
+<option value="4">Sportsnet</option>
+<option value="17">Sportsnet East</option>
+<option value="50">Sportsnet HD</option>
+<option value="383">Sportsnet One</option>
+<option value="18">Sportsnet Ontario</option>
+<option value="19">Sportsnet Pacific</option>
+<option value="20">Sportsnet West</option>
+<option value="194">SporTV Brasil</option>
+<option value="70">SPT</option>
+<option value="250">Starhub</option>
+<option value="335">SuperSport</option>
+<option value="498">SuperSport 1</option>
+<option value="499">SuperSport 2</option>
+<option value="294">SuperSport 3</option>
+<option value="500">SuperSport 4</option>
+<option value="501">SuperSport 5</option>
+<option value="520">SuperSport 6</option>
+<option value="503">SuperSport 7</option>
+<option value="511">SuperSport Action</option>
+<option value="504">SuperSport Blitz</option>
+<option value="302">SuperSport Broadband</option>
+<option value="510">SuperSport CSN</option>
+<option value="369">SuperSport Digitalb</option>
+<option value="505">SuperSport HD</option>
+<option value="506">SuperSport HD 2</option>
+<option value="507">SuperSport HD 3</option>
+<option value="508">SuperSport M-NET</option>
+<option value="509">SuperSport Maximo</option>
+<option value="521">SuperSport MNET HD</option>
+<option value="93">Sur Peru</option>
+<option value="255">Sveriges Television</option>
+<option value="261">TalkSport Radio</option>
+<option value="69">TBA</option>
+<option value="208">TCS - Canal 2 y Canal 4</option>
+<option value="319">TDN</option>
+<option value="291">Tele Centrafrique</option>
+<option value="218">Tele Once Guatemala</option>
+<option value="118">Telecentro</option>
+<option value="254">TeleCinco Espana</option>
+<option value="262">TeleDoce Uruguay</option>
+<option value="325">Telefe Argentina</option>
+<option value="36">Telefutura</option>
+<option value="240">Telefuturo</option>
+<option value="38">Telemundo</option>
+<option value="443">Telenet</option>
+<option value="219">Televicentro Honduras</option>
+<option value="237">Televicentro Nicaragua Canal 2</option>
+<option value="233">Televisa Mexico</option>
+<option value="293">Televisao de Cabo Verde</option>
+<option value="234">Televisao de Mocambique</option>
+<option value="189">Televisao Publica de Angola</option>
+<option value="450">Televisió de Catalunya </option>
+<option value="216">Televisiete</option>
+<option value="292">Television Nationale Congolaise</option>
+<option value="476">TEN Action+</option>
+<option value="456">Ten Sports</option>
+<option value="316">TF1</option>
+<option value="303">TF1 Broadband</option>
+<option value="154">TG4</option>
+<option value="258">Thai TV3</option>
+<option value="25">The Score</option>
+<option value="68">The Score HD</option>
+<option value="3">TLN</option>
+<option value="217">TreceVision</option>
+<option value="354">Tring TV</option>
+<option value="259">TRT Turkey</option>
+<option value="380">True Visions</option>
+<option value="2">TSN</option>
+<option value="130">TSN 2</option>
+<option value="321">TV Azteca</option>
+<option value="85">TV Chile</option>
+<option value="286">TV Colombia</option>
+<option value="454">TV Esporte Interativo</option>
+<option value="518">TV Globo Internacional</option>
+<option value="37">TV Globo Internacional</option>
+<option value="477">TV Klan</option>
+<option value="205">TV2 Denmark</option>
+<option value="310">TV2 Norway</option>
+<option value="214">TV3 Ghana</option>
+<option value="468">TV3 Ireland</option>
+<option value="256">TV4 Sweden</option>
+<option value="84">TV5Monde</option>
+<option value="320">TVC Deportes</option>
+<option value="410">TVE</option>
+<option value="324">TVN Online</option>
+<option value="239">TVN2 Panama</option>
+<option value="449">tvOne</option>
+<option value="492">TVP Sport</option>
+<option value="190">TyC Sports Argentina</option>
+<option value="47">TyCSports</option>
+<option value="46">UEFA</option>
+<option value="122">Universal HD</option>
+<option value="35">Univision</option>
+<option value="288">Univision Deportes</option>
+<option value="123">USA Network</option>
+<option value="144">USA PPV</option>
+<option value="119">USLLive.com</option>
+<option value="267">Venevision</option>
+<option value="379">Viasat Fotball</option>
+<option value="458">Viasat Ghana</option>
+<option value="370">VIASAT Latvia</option>
+<option value="371">Viasat Lithuania</option>
+<option value="220">Vica TV</option>
+<option value="92">Videos</option>
+<option value="382">VTC</option>
+<option value="485">W9</option>
+<option value="96">wapa</option>
+<option value="55">WorldSportHD</option>
+<option value="406">Yes Network</option>
+<option value="306">YLE Broadband</option>
+<option value="484">Youtube</option>
+<option value="314">ZDF</option>
+<option value="308">ZDF Broadband</option>
+</select>                      </td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr>
+                <td colspan="2" align="center"><span style="border-left: 1px dotted #999999;">
+                  <input name="Submit" type="image" src="/images/b_search.gif" width="134" height="38" border="0" />
+                </span></td>
+                </tr>
+            </table>
+    </form>
+  </div> <!-- end of search tab -->
+
+
+</div>
+
+<div style="clear:both;"></div>
+
+
+<div id="sharesb" style="width:630px;" align="center;"> 
+    <h3>Bookmark with:</h3> 
+    <ul>
+    <li class="delicious">
+    <a id="delicious" title="Post this story to Delicious" href="http://del.icio.us/post?url=http://www.livesoccertv.com/schedules/2011-08-30/&title=Live Football on TV and Online: Tuesday, August 30">Delicious</a> 
+    </li>
+    <li class="digg"> 
+    <a id="digg" title="Post this story to Digg" href="http://digg.com/submit?url=http://www.livesoccertv.com/schedules/2011-08-30/&title=Live Football on TV and Online: Tuesday, August 30">Digg</a> 
+    </li>
+    <li class="reddit"> 
+    <a id="reddit" title="Post this story to reddit" href="http://reddit.com/submit?url=http://www.livesoccertv.com/schedules/2011-08-30/&title=Live Football on TV and Online: Tuesday, August 30">reddit</a>     
+    </li>
+    <li class="facebook"> 
+    <a id="facebook" title="Post this story to Facebook" href="http://www.facebook.com/sharer.php?u=http://www.livesoccertv.com/schedules/2011-08-30/">Facebook</a> 
+    </li>
+    <li class="stumbleupon"> 
+    <a id="stumbleupon" title="Post this story to StumbleUpon" href="http://www.stumbleupon.com/submit?http://www.livesoccertv.com/schedules/2011-08-30/&title=Live Football on TV and Online: Tuesday, August 30">StumbleUpon</a> 
+    </li>
+    </ul>
+    <p><a href="/social-bookmarks.php">What are these?</a></p>
+</div>
+		
+<div style="font-size:10px;padding:10px;color:#666666;"><strong>*All content on LiveSoccerTV.com is 100% free. </strong>In addition to our independent content, we also provide advertising  placements, clearly separated from editorial content. Some advertisers may sell live football streams on pay-per-view or membership basis. <br />
+  <br />
+We endeavor to  provide you with the most up to date football TV schedules.   However, soccer schedules are subject to change at any time and <strong>we strongly  recommend that you confirm all live football schedules with your local terrestrial television, cable  TV or satellite TV providers.</strong><br />
+<br />
+All rights and ownership of any and all football videos linked to from  LiveSoccerTV.com are reserved for their rightful and respective owners and to  the websites, and providers that make the soccer video highlights and streams available. LiveSoccerTV.com does not generate, host or  reproduce any video or moving images on its servers. Video links on LiveSoccerTV.com are  made available through publicly available resources such as embed links or  football video streams on popular video hosting websites. LiveSoccerTV.com only indexes such content from publicly available sources and therefore waives any responsibility to possible copyright infringement. </div>
+
+	
+</div> <!-- leftcol -->
+	
+  <div id="rightcol">
+	<div id="section_300red">
+	<h2 style="margin:0;">Member Sign In &raquo;</h2><form action="/members/login.php" method="post" onSubmit="return validate(this);" style="pading:0;margin:0;">
+	<div style="background-color:#BB0000; border-bottom: 1px solid #CCCCCC; padding-top:5px;">
+		<table width="100%" border="0" cellspacing="1" cellpadding="2" id="login_label">
+			<tr>
+			  <td align="right">Username</td>
+			  <td><input type="text" class="login_field" name="username" size="9" value=""></td>
+			  <td align="right">Password</td>
+			  <td><input type="password" class="login_field" name="password" size="9"></td>
+		  </tr>
+			<tr>
+			  <td colspan="3" align="right"><a href="/members/forgot_pw.php" style="color:#FFFFFF;">Forgot Password</a> | Remember <input type="checkbox" name="remember" value="true" style="margin-top:5px;" /></td>
+			  <td style="padding-top:5px;"><input type="submit" name="login" value="Sign In" style="padding:0;margin:0;" /></td>
+		  </tr>
+		  </table>
+	</div>
+	</form>
+	<div align="center" style="padding-top:5px;"><a href="/members/register.php" style="color:#FFFFFF;font-size:13px;">Not a Member Yet? <u>Register Now</u></a></div>
+</div>
+<div style="margin-top:10px;width:300px;" id="LSTV_ROS_300x250"><script type="text/javascript">GA_googleFillSlotWithSize("ca-pub-5993370252466225", "LSTV_ROS_300x250", 300, 250);</script></div><div style="padding-top: 10px;"><script type="text/javascript">GA_googleFillSlotWithSize("ca-pub-5993370252466225", "LSTV_Perform_300x360", 300, 360);</script></div><div style="margin-top:10px;background-color:#fff;"><div id="fb-root""></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/livesoccertv.com" width="300" show_faces="true" border_color="" stream="false" header="true"></fb:like-box></div><div style="margin-top:10px;width:300px;background-color:#fff;text-align:center;" id="LSTV_ROS_300x100" align="center"><script type="text/javascript">GA_googleFillSlotWithSize("ca-pub-5993370252466225", "LSTV_ROS_300x100", 300, 100);</script></div>	<div id="section_300">
+	<a href="http://www.livesoccertv.com/pubs/"><h2 id="heading">Featured Soccer Pub &raquo;</h2></a>
+	<div style="float:left;width:125px;padding:10px 0px 0px 10px;"><img src="http://cdn.livesoccertv.com/images/pubs/thumbnails/florida/orlando/harp-and-celt-restaurant-and-irish-pub.gif" /></div>
+	<div style="float:right;width:150px;padding-top:10px;">
+		  <a href="/pubs/florida/orlando/harp-and-celt-restaurant-and-irish-pub"><strong>Harp And Celt Restaurant And Irish Pub</strong></a><br />
+		  25 South Magnolia Avenue<br> 
+		  		  Orlando, 
+		  FL		  32801<br /><br />
+		  <hr color="#CCCCCC" size="1" width="150" noshade="noshade" align="left">
+		  <div id="more"><a href="/pubs/">More Soccer Pubs</a></div>
+		  <div id="more"><a href="/add-pub.php">Add Your Pub</a></div>
+	</div>
+	<div style="clear:both;"></div>
+	</div>
+<div id="section_300" style="margin-top:10px;">
+<h2 id="heading"><a href="/news">Latest News &raquo;</a></h2>
+<ul id="section_list">
+<li>Aug-21 <a href="/news/4160/brazil-become-2011-fifa-u-20-champions-mexico-take-bronze/">Brazil become 2011 FIFA U-20 champions, Mexico take bronze</a></li>
+<li>Aug-20 <a href="/news/4159/fifa-u-20-final-brazil-vs-portugal-super-facts-to-better-bet-on-the-result/">FIFA U-20 final: Brazil vs Portugal &amp; super facts to better bet on the result</a></li>
+<li>Aug-20 <a href="/news/4154/fifa-u-20-final-hosts-coach-eduardo-lara-hoping-brazil-beats-portugal/">FIFA U-20 Final: Hosts coach Eduardo Lara hoping Brazil beats Portugal</a></li>
+<li>Aug-20 <a href="/news/4155/fifa-u-20-third-place-final-mexico-vs-france-devastated-mexicans-want-bronze/">FIFA U-20 Third-place final—Mexico vs France: “Devastated” Mexicans want bronze</a></li>
+<li>Aug-19 <a href="/news/4137/major-league-soccer-preview-aug-17-21/">Major League Soccer Preview: Week 24 (Aug 17-21)</a></li>
+<li>Aug-19 <a href="/news/4158/will-arsenal-be-able-to-beat-liverpool/">Will Arsenal be able to beat Liverpool?</a></li>
+<li>Aug-19 <a href="/news/4157/manchester-city-striker-sergio-aguero-and-five-great-epl-debuts/">Manchester City striker Sergio Aguero and Five Great EPL Debuts</a></li>
+<li>Aug-19 <a href="/news/4156/england-premier-league-preview-aug-20-22/">England Premier League Preview: Week 2 (Aug 20-22)</a></li>
+</ul>
+</div>
+<div id="section_300">
+<a href="/videos/"><h2 id="heading">Latest Video Highlights &raquo;</h2></a>
+<ul id="section_list">
+<li>Aug-21 <a href="/match/214001/wolverhampton-wanderers-vs-fulham/">Wolverhampton Wanderers vs Fulham</a></li>
+<li>Aug-21 <a href="/match/213994/bolton-vs-manchester-city/">Bolton vs Manchester City</a></li>
+<li>Aug-21 <a href="/match/215452/hannover-96-vs-hertha-bsc/">Hannover 96 vs Hertha BSC</a></li>
+<li>Aug-21 <a href="/match/215766/psg-vs-valenciennes/">PSG vs Valenciennes</a></li>
+<li>Aug-21 <a href="/match/215764/nancy-vs-sochaux/">Nancy vs Sochaux</a></li>
+<li>Aug-21 <a href="/match/215763/montpellier-vs-stade-rennes/">Montpellier vs Stade Rennes</a></li>
+<li>Aug-21 <a href="/match/226348/sporting-braga-vs-maritimo-funchal/">Sporting Braga vs Maritimo Funchal</a></li>
+<li>Aug-21 <a href="/match/234710/beiramar-vs-sporting-cp-lisbon/">BeiraMar vs Sporting CP Lisbon</a></li>
+<li>Aug-21 <a href="/match/216335/heracles-vs-feyenoord/">Heracles vs Feyenoord</a></li>
+<li>Aug-21 <a href="/match/230756/levski-sofia-vs-montana/">Levski Sofia vs Montana</a></li>
+<li>Aug-21 <a href="/match/216659/west-ham-united-vs-leeds-united/">West Ham United vs Leeds United</a></li>
+<li>Aug-21 <a href="/match/218902/energie-cottbus-vs-karlsruher-sc/">Energie Cottbus vs Karlsruher SC</a></li>
+<li>Aug-21 <a href="/match/195539/syrianska-sodertalje-vs-if-elfsborg/">Syrianska Sodertalje vs IF Elfsborg</a></li>
+<li>Aug-21 <a href="/match/195542/bk-hacken-vs-djurgardens-if/">BK Häcken vs Djurgårdens IF</a></li>
+<li>Aug-21 <a href="/match/229348/naval-primeiro-de-maio-vs-leixoes-matosinhos/">Naval Primeiro de Maio vs Leixões Matosinhos</a></li>
+</ul>
+<div id="more"><a href="/videos/">More Videos...</a></div>
+</div>
+<div id="section_300">
+<h2 id="heading">Upcoming Live Matches &raquo;</h2>
+<ul id="section_list">
+<li>Aug-23 <a href="/match/231164/z-rich-vs-bayern-m-nchen/">Zürich vs Bayern München</a></li>
+<li>Aug-24 <a href="/match/233713/exeter-city-vs-liverpool/">Exeter City vs Liverpool</a></li>
+<li>Aug-24 <a href="/match/231531/udinese-vs-arsenal/">Udinese vs Arsenal</a></li>
+<li>Aug-24 <a href="/match/231533/benfica-vs-twente/">Benfica vs Twente</a></li>
+<li>Aug-24 <a href="/match/232203/real-madrid-vs-galatasaray-sk/">Real Madrid vs Galatasaray SK</a></li>
+<li>Aug-26 <a href="/match/211384/barcelona-vs-fc-porto/">Barcelona vs FC Porto</a></li>
+<li>Aug-27 <a href="/match/214004/chelsea-vs-norwich-city/">Chelsea vs Norwich City</a></li>
+<li>Aug-27 <a href="/match/214005/liverpool-vs-bolton/">Liverpool vs Bolton</a></li>
+<li>Aug-28 <a href="/match/214009/tottenham-hotspur-vs-manchester-city/">Tottenham Hotspur vs Manchester City</a></li>
+<li>Aug-28 <a href="/match/214006/manchester-united-vs-arsenal/">Manchester United vs Arsenal</a></li>
+<li>Aug-28 <a href="/match/225979/real-zaragoza-vs-real-madrid/">Real Zaragoza vs Real Madrid</a></li>
+<li>Aug-28 <a href="/match/227036/internazionale-vs-lecce/">Internazionale vs Lecce</a></li>
+<li>Aug-29 <a href="/match/225974/barcelona-vs-villarreal/">Barcelona vs Villarreal</a></li>
+<li>Sep-10 <a href="/match/214020/sunderland-vs-chelsea/">Sunderland vs Chelsea</a></li>
+<li>Sep-10 <a href="/match/214013/bolton-vs-manchester-united/">Bolton vs Manchester United</a></li>
+</ul>
+</div>
+<div style="margin-top:10px;width:300px;" id="LSTV_ROS_300x250_2"><script type="text/javascript">GA_googleFillSlotWithSize("ca-pub-5993370252466225", "LSTV_ROS_300x250_2", 300, 250);</script></div><div style="margin-top:10px;width:300px;background-color:#fff;text-align:center;" id="LSTV_ROS_2_300x100" align="center"><script type="text/javascript">GA_googleFillSlotWithSize("ca-pub-5993370252466225", "LSTV_ROS_2_300x100", 300, 100);</script></div>  </div> <!-- rightcol -->  
+  
+  <div style="clear:both;"></div>
+   
+  <div id="footer">
+	<div id="copyright">&copy; 2011 Live Soccer TV</div>
+	<div id="footerlinks">
+	  	  <a href="/advertising.php">Advertising</a> | 
+	  <a href="/privacy-policy.php">Privacy</a> | 
+	  <a href="/disclaimer.php">Disclaimer</a> | 
+	  <a href="/careers/">Careers</a> | 
+	  <a href="/contact/">Contact Us</a> | 
+	  <a href="http://www.soccertoronto.com" target="_blank">Toronto Soccer</a> | 
+	  <a href="http://www.livecricketcentral.com">Live Cricket</a> | 
+	  <a href="http://www.liverugbytv.com">Rugby World Cup</a>
+	</div>
+  </div> <!-- footer -->
+  
+<script id="deferedjs" type="text/javascript">
+var b = document.createElement('script');
+b.type = 'text/javascript';
+b.src = ('http://platform.twitter.com/widgets.js');
+var a=document.getElementById("deferedjs");
+a.parentNode.insertBefore(b,a);
+</script>
+
+
+  
+</div> <!-- body_main -->
+
+</body>
+</html>
+

@@ -1,0 +1,530 @@
+[
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "12:00am",
+		"desc": "Real Madrid vs Barcelona",
+		"chan": "ESPN Caribbean",
+		"live": "Repeat",
+		"type": "Spain La Liga"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "12:45am",
+		"desc": "Udinese vs Arsenal",
+		"chan": "SuperSport HD 2",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "1:30am",
+		"desc": "Chelsea vs Norwich City*Repeat From 2004/05",
+		"chan": "Sport.TV Liga Inglesa",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "2:00am",
+		"desc": "Juan Aurich Chiclayo vs La Equidad Bogotá",
+		"chan": "Fox Deportes",
+		"live": "Repeat",
+		"type": "Copa Sudamericana"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "2:00am",
+		"desc": "Rubin Kazan' vs Olympique Lyon",
+		"chan": "ESPN HD Brasil",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "2:30am",
+		"desc": "J.aurich vs La Equidad Bogotá",
+		"chan": "Fox Sports Basico, Fox Sports Premium",
+		"live": "Repeat",
+		"type": "Copa Sudamericana"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "2:45am",
+		"desc": "Benfica vs Twente",
+		"chan": "SuperSport HD 2",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "3:00am",
+		"desc": "Argentina vs England",
+		"chan": "ESPN2 Australia",
+		"live": "Repeat",
+		"type": "FIFA U-20 World Cup"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "3:00am",
+		"desc": "Wolverhampton Wanderers vs Fulham",
+		"chan": "FSC",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "3:00am",
+		"desc": "Dorados vs Leones Negros",
+		"chan": "GolTV USA",
+		"live": "Repeat",
+		"type": "Mexico Liga de Ascenso"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "4:00am",
+		"desc": "Arsenal vs Liverpool",
+		"chan": "SuperSport 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "4:00am",
+		"desc": "Viktoria Plzeň vs København",
+		"chan": "Fox Soccer Plus",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "4:00am",
+		"desc": "Morelia vs CD Motagua",
+		"chan": "ESPN DOS",
+		"live": "Delayed",
+		"type": "CONCACAF Champions League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "4:30am",
+		"desc": "Manchester United vs Tottenham Hotspur",
+		"chan": "Sport.TV Liga Inglesa",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "4:30am",
+		"desc": "Chelsea vs West Bromwich Albion",
+		"chan": "SuperSport 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "4:30am",
+		"desc": "Sunderland vs Newcastle United",
+		"chan": "SuperSport HD 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "5:00am",
+		"desc": "APOEL Nicosia vs Wista Krakow",
+		"chan": "ESPN Star Sports",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "5:00am",
+		"desc": "Bolton vs Manchester City",
+		"chan": "SuperSport 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "5:00am",
+		"desc": "Monterrey vs Seattle Sounders FC",
+		"chan": "ESPN + Andina",
+		"live": "Repeat",
+		"type": "Portugal Primeira Liga"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "5:30am",
+		"desc": "Manchester United vs Tottenham Hotspur",
+		"chan": "SuperSport 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "6:00am",
+		"desc": "Zürich vs Bayern München",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "6:00am",
+		"desc": "Palmeiras vs Vasco da Gama",
+		"chan": "Fox Sports Basico, Fox Sports Premium",
+		"live": "Repeat",
+		"type": "Copa Sudamericana"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "6:15am",
+		"desc": "Tottenham Hotspur vs Heart of Midlothian",
+		"chan": "SuperSport HD 2",
+		"live": "Repeat",
+		"type": "UEFA Europa League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "6:30am",
+		"desc": "Udinese vs Arsenal",
+		"chan": "Yes Network",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "7:00am",
+		"desc": "UEFA Europa League 2011/12 Group Stage Draw",
+		"chan": "ESPN Star Sports, UEFA",
+		"live": "Live",
+		"type": "Other Soccer Programming"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "8:00am",
+		"desc": "Udinese vs Arsenal",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "8:00am",
+		"desc": "Tauro vs Pumas",
+		"chan": "ESPN Latin America North, ESPN Venezuela",
+		"live": "Repeat",
+		"type": "CONCACAF Champions League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "9:00am",
+		"desc": "Villarreal vs OB",
+		"chan": "Fox Soccer Plus",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "9:30am",
+		"desc": "Arsenal vs Liverpool",
+		"chan": "SuperSport 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "10:00am",
+		"desc": "Chelsea vs West Bromwich Albion",
+		"chan": "SuperSport 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "10:00am",
+		"desc": "Tauro vs Pumas",
+		"chan": "ESPN DOS",
+		"live": "Delayed",
+		"type": "CONCACAF Champions League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "10:30am",
+		"desc": "Tottenham Hotspur vs Heart of Midlothian",
+		"chan": "SuperSport 3",
+		"live": "Repeat",
+		"type": "UEFA Europa League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "11:00am",
+		"desc": "Bolton vs Manchester City",
+		"chan": "Sport.TV Liga Inglesa, SuperSport HD 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "11:00am",
+		"desc": "Scunthorpe United vs Newcastle United",
+		"chan": "Fox Soccer Plus",
+		"live": "Repeat",
+		"type": "England Carling Cup"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "12:00pm",
+		"desc": "Barcelona vs Real Madrid",
+		"chan": "ESPN Caribbean",
+		"live": "Repeat",
+		"type": "Spain La Liga"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "12:00pm",
+		"desc": "Udinese vs Arsenal",
+		"chan": "Fox Deportes",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "1:00pm",
+		"desc": "Morelia vs CD Motagua",
+		"chan": "ESPN Latin America North, ESPN Venezuela",
+		"live": "Repeat",
+		"type": "CONCACAF Champions League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "2:00pm",
+		"desc": "Ajax vs Vitesse",
+		"chan": "Eredivisie.tv, LiveSport.TV",
+		"live": "Live",
+		"type": "Netherlands Eredivisie"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "2:00pm",
+		"desc": "Kaizer Chiefs vs Ajax Cape Town",
+		"chan": "SuperSport 4",
+		"live": "Repeat",
+		"type": "South Africa ABSA Premiership"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "2:30pm",
+		"desc": "Barcelona vs FC Porto",
+		"chan": "Canal Plus France, ESPN Australia, ESPN HD Brasil, Fox Deportes, FSC, Sky Sports 1, Sky Sports HD 1, Sport.TV1, UEFA",
+		"live": "Live",
+		"type": "International UEFA Super Cup"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "2:30pm",
+		"desc": "Hertha BSC vs Stuttgart",
+		"chan": "ESPN UK, Sky Sport HD 1 Germany, Sport.TV2, SuperSport 7",
+		"live": "Live",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "2:30pm",
+		"desc": "Blackburn Rovers vs Everton*Repeat From 2009/2010",
+		"chan": "Sport.TV Liga Inglesa",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "2:30pm",
+		"desc": "Mainz 05 vs Schalke 04",
+		"chan": "GolTV USA",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "2:30pm",
+		"desc": "BSC Berlin vs Stuttgart",
+		"chan": "ESPN UK",
+		"live": "Live",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "2:45pm",
+		"desc": "Portugal vs Austria*U21 Friendly",
+		"chan": "RTP Radio Televisao Portuguesa, RTPi",
+		"live": "Live",
+		"type": "Friendly"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "3:00pm",
+		"desc": "Udinese vs Arsenal",
+		"chan": "Fox Soccer Plus",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "4:30pm",
+		"desc": "Manchester United vs Arsenal*Repeat From 2004/2005",
+		"chan": "Sport.TV Liga Inglesa",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "4:30pm",
+		"desc": "Inter vs Independiente",
+		"chan": "Fox Sports Basico",
+		"live": "Repeat",
+		"type": "Copa Sudamericana"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "5:00pm",
+		"desc": "Barcelona vs FC Porto",
+		"chan": "Fox Soccer Plus",
+		"live": "Repeat",
+		"type": "International UEFA Super Cup"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "5:00pm",
+		"desc": "Internacional vs Flamengo",
+		"chan": "GolTV USA",
+		"live": "Repeat",
+		"type": "Brazil Serie A - Brasileirao"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "5:15pm",
+		"desc": "Barcelona vs FC Porto",
+		"chan": "FoxSoccer.tv",
+		"live": "Delayed",
+		"type": "International UEFA Super Cup"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "5:30pm",
+		"desc": "Umuarama vs Carlos Barbosa",
+		"chan": "PFC Internacional",
+		"live": "Live",
+		"type": "Brazil Liga Futsal"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "6:00pm",
+		"desc": "Barcelona vs FC Porto",
+		"chan": "ESPN2 Australia",
+		"live": "Delayed",
+		"type": "International UEFA Super Cup"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "6:00pm",
+		"desc": "Hertha BSC vs Stuttgart",
+		"chan": "SuperSport HD 2",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "6:00pm",
+		"desc": "Col Of Charleston vs South Carolina",
+		"chan": "FSC",
+		"live": "Live",
+		"type": "USA College Soccer"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "6:15pm",
+		"desc": "Ajax vs Vitesse",
+		"chan": "ESPN UK",
+		"live": "Repeat",
+		"type": "Netherlands Eredivisie"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "6:30pm",
+		"desc": "West Bromwich Albion vs Stoke City*Repeat From 2010/2011",
+		"chan": "Sport.TV Liga Inglesa",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "6:30pm",
+		"desc": "Barcelona vs FC Porto",
+		"chan": "Sport.TV1",
+		"live": "Repeat",
+		"type": "International UEFA Super Cup"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "6:30pm",
+		"desc": "Hertha BSC vs Stuttgart",
+		"chan": "Sky Sport HD 1 Germany",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "7:30pm",
+		"desc": "Criciúma vs São Caetano",
+		"chan": "PFC Internacional",
+		"live": "Live",
+		"type": "Brazil Serie B"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "8:00pm",
+		"desc": "Barcelona vs FC Porto",
+		"chan": "FSC",
+		"live": "Repeat",
+		"type": "International UEFA Super Cup"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "8:00pm",
+		"desc": "Barcelona vs Real Madrid",
+		"chan": "GolTV USA",
+		"live": "Repeat",
+		"type": "Spain La Liga"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "8:30pm",
+		"desc": "Blackburn Rovers vs Everton*Repeat From 2009/2010",
+		"chan": "Sport.TV Liga Inglesa",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "9:00pm",
+		"desc": "Hertha BSC vs Stuttgart",
+		"chan": "Sport.TV1",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "9:00pm",
+		"desc": "Exeter City vs Liverpool",
+		"chan": "Fox Soccer Plus",
+		"live": "Repeat",
+		"type": "England Carling Cup"
+	},
+	{
+		"date": "Fri Aug 26 2011",
+		"time": "11:00pm",
+		"desc": "Udinese vs Arsenal",
+		"chan": "FSC",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	}
+]

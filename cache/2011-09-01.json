@@ -1,0 +1,186 @@
+[
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "3:00am",
+		"desc": "Argentinos Juniors vs Vélez Sársfield",
+		"chan": "Fox Sports Premium",
+		"live": "Repeat",
+		"type": "Copa Sudamericana"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "3:15am",
+		"desc": "Mattersburg vs Wacker Innsbruck",
+		"chan": "Sky Sport Austria",
+		"live": "Repeat",
+		"type": "Austria Football Bundesliga"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "4:00am",
+		"desc": "Fleetwood Town vs York City",
+		"chan": "Premier Sports",
+		"live": "Repeat",
+		"type": "England Conference National"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "4:00am",
+		"desc": "Mamelodi Sundowns vs Orlando Pirates",
+		"chan": "SuperSport 4",
+		"live": "Repeat",
+		"type": "South Africa ABSA Premiership"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "4:30am",
+		"desc": "Swansea City vs Sunderland",
+		"chan": "SuperSport HD 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "5:15am",
+		"desc": "Sturm Graz vs Wiener Neustadt",
+		"chan": "Sky Sport Austria",
+		"live": "Repeat",
+		"type": "Austria Football Bundesliga"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "6:30am",
+		"desc": "Zürich vs Bayern München",
+		"chan": "Sky Sport HD 1 Germany",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "7:00am",
+		"desc": "San Lorenzo vs Boca Juniors",
+		"chan": "ESPN + Andina",
+		"live": "Repeat",
+		"type": "Argentina Primera Division"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "7:00am",
+		"desc": "Kaizer Chiefs vs Wits University",
+		"chan": "SuperSport 4",
+		"live": "Repeat",
+		"type": "South Africa ABSA Premiership"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "7:00am",
+		"desc": "Bayern München vs Zürich",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "9:18am",
+		"desc": "Argentina vs Oman",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "FIFA Beach Soccer World Cup"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "10:00am",
+		"desc": "Zürich vs Bayern München",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "10:48am",
+		"desc": "Switzerland vs Senegal",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "FIFA Beach Soccer World Cup"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "11:00am",
+		"desc": "Liverpool vs Bolton",
+		"chan": "SuperSport HD 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "11:00am",
+		"desc": "Ganador A vs Aurora",
+		"chan": "Fox Sports Premium",
+		"live": "Repeat",
+		"type": "Copa Sudamericana"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "11:00am",
+		"desc": "Liverpool vs Bolton Wanderers",
+		"chan": "SuperSport HD 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "11:30am",
+		"desc": "Argentina vs Oman",
+		"chan": "Fox Sports Premium",
+		"live": "Live",
+		"type": "Beach Soccer"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "12:18pm",
+		"desc": "Italy vs Iran",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "FIFA Beach Soccer World Cup"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "1:00pm",
+		"desc": "Udinese vs Arsenal",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "1:48pm",
+		"desc": "El Salvador vs Portugal",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "FIFA Beach Soccer World Cup"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "7:15pm",
+		"desc": "Argentinos Juniors vs Vélez Sársfield",
+		"chan": "Fox Sports Premium",
+		"live": "Live",
+		"type": "Copa Sudamericana"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "11:00pm",
+		"desc": "Lanús vs Godoy Cruz",
+		"chan": "Premier Sports",
+		"live": "Repeat",
+		"type": "Copa Sudamericana"
+	},
+	{
+		"date": "Thu Sep 01 2011",
+		"time": "11:00pm",
+		"desc": "Sturm Graz vs Wiener Neustadt",
+		"chan": "Sky Sport Austria",
+		"live": "Repeat",
+		"type": "Austria Football Bundesliga"
+	}
+]

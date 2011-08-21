@@ -1,0 +1,346 @@
+[
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "12:00am",
+		"desc": "Albania vs France",
+		"chan": "ESPN Caribbean",
+		"live": "Delayed",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "12:15am",
+		"desc": "Hamburger SV vs Köln",
+		"chan": "Sky Sport HD 1 Germany",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "1:00am",
+		"desc": "Netherlands vs San Marino",
+		"chan": "ESPN Latin America North, ESPN Venezuela",
+		"live": "Delayed",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "1:00am",
+		"desc": "Albania vs France",
+		"chan": "SuperSport Maximo",
+		"live": "Repeat",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "2:00am",
+		"desc": "Faroe Islands vs Italy",
+		"chan": "ESPN Caribbean",
+		"live": "Delayed",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "2:00am",
+		"desc": "Bayern München vs Internazionale",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "2:15am",
+		"desc": "Kaiserslautern vs Bayern München",
+		"chan": "Sky Sport HD 1 Germany",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "3:00am",
+		"desc": "Bulgariia vs England",
+		"chan": "SuperSport Maximo",
+		"live": "Repeat",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "4:00am",
+		"desc": "Netherlands vs San Marino",
+		"chan": "ESPN DOS",
+		"live": "Repeat",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "4:00am",
+		"desc": "Barcelona vs Manchester United",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "4:15am",
+		"desc": "Bayer Leverkusen vs Borussia Dortmund",
+		"chan": "Sky Sport HD 1 Germany",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "6:00am",
+		"desc": "Faroe Islands vs Italy",
+		"chan": "ESPN2 Australia",
+		"live": "Repeat",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "6:00am",
+		"desc": "Republic of Ireland vs Slovakia",
+		"chan": "ESPN Australia",
+		"live": "Repeat",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "6:00am",
+		"desc": "Cyprus vs Portugal",
+		"chan": "ESPN Caribbean",
+		"live": "Delayed",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "6:00am",
+		"desc": "Liverpool vs Bolton",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "8:00am",
+		"desc": "Netherlands vs San Marino",
+		"chan": "ESPN Caribbean",
+		"live": "Delayed",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "8:00am",
+		"desc": "Tottenham Hotspur vs Manchester City",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "8:30am",
+		"desc": "Stockport vs Luton Town",
+		"chan": "Premier Sports",
+		"live": "Repeat",
+		"type": "England Conference National"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "9:00am",
+		"desc": "England vs Scotland",
+		"chan": "ESPN 2 Caribbean",
+		"live": "Repeat",
+		"type": "UEFA U19 European Championship"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "9:18am",
+		"desc": "Iran vs Switzerland",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "FIFA Beach Soccer World Cup"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "9:55am",
+		"desc": "Scotland vs Czech Republic",
+		"chan": "ESPN 2 Caribbean, ESPN Latin America Andina, ESPN Latin America North, ESPN Latin America South, ESPN Venezuela",
+		"live": "Delayed",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "10:00am",
+		"desc": "Scotland vs Czech Republic",
+		"chan": "ESPN HD Brasil, ESPN3 USA, SuperSport 4",
+		"live": "Live",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "10:00am",
+		"desc": "Manchester United vs Arsenal",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "10:00am",
+		"desc": "Sturm Graz vs Wiener Neustadt",
+		"chan": "Sky Sport Austria",
+		"live": "Repeat",
+		"type": "Austria Football Bundesliga"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "10:48am",
+		"desc": "Portugal vs Argentina",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "FIFA Beach Soccer World Cup"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "11:00am",
+		"desc": "Bayer Leverkusen vs Borussia Dortmund",
+		"chan": "Sky Sport HD 1 Germany",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "12:00pm",
+		"desc": "Scotland vs Czech Republic",
+		"chan": "ESPN Deportes",
+		"live": "Delayed",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "12:18pm",
+		"desc": "Senegal vs Italy",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "FIFA Beach Soccer World Cup"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "12:45pm",
+		"desc": "Mattersburg vs Wacker Innsbruck",
+		"chan": "Sky Sport Austria",
+		"live": "Repeat",
+		"type": "Austria Football Bundesliga"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "1:00pm",
+		"desc": "Ganador D vs Universitario",
+		"chan": "Fox Sports Premium",
+		"live": "Repeat",
+		"type": "Copa Sudamericana"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "1:00pm",
+		"desc": "Portugal vs Argentina",
+		"chan": "Fox Sports Premium",
+		"live": "Live",
+		"type": "Beach Soccer"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "1:48pm",
+		"desc": "Oman vs El Salvador",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "FIFA Beach Soccer World Cup"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "2:00pm",
+		"desc": "Braintree Town vs Lincoln City",
+		"chan": "Premier Sports",
+		"live": "Live",
+		"type": "England Conference National"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "2:00pm",
+		"desc": "Scotland vs Czech Republic",
+		"chan": "ESPN DOS",
+		"live": "Delayed",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "2:30pm",
+		"desc": "Senegal vs Italy",
+		"chan": "Fox Sports Premium",
+		"live": "Live",
+		"type": "Beach Soccer"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "4:00pm",
+		"desc": "Israel vs Greece",
+		"chan": "ESPN Deportes",
+		"live": "Delayed",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "5:00pm",
+		"desc": "Jaguares vs Santos",
+		"chan": "ESPN DOS",
+		"live": "Repeat",
+		"type": "Cyprus First Division"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "6:00pm",
+		"desc": "Club Tijuana vs Guadalajara",
+		"chan": "ESPN DOS",
+		"live": "Delayed",
+		"type": "Cyprus First Division"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "6:00pm",
+		"desc": "Cyprus vs Portugal",
+		"chan": "ESPN Deportes",
+		"live": "Delayed",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "8:00pm",
+		"desc": "Faroe Islands vs Italy",
+		"chan": "ESPN DOS",
+		"live": "Delayed",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "8:00pm",
+		"desc": "Scotland vs Czech Republic",
+		"chan": "ESPN Deportes",
+		"live": "Repeat",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "9:00pm",
+		"desc": "Real Salt Lake vs Philadelphia Union",
+		"chan": "MLS Direct Kick",
+		"live": "Live",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sat Sep 03 2011",
+		"time": "11:00pm",
+		"desc": "Scotland vs Czech Republic",
+		"chan": "ESPN Caribbean",
+		"live": "Delayed",
+		"type": "UEFA Euro 2012 Qualifying"
+	}
+]

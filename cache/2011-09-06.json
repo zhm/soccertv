@@ -1,0 +1,114 @@
+[
+	{
+		"date": "Tue Sep 06 2011",
+		"time": "5:30am",
+		"desc": "Portugal vs Oman",
+		"chan": "British EuroSport 2",
+		"live": "Repeat",
+		"type": "FIFA Beach Soccer World Cup"
+	},
+	{
+		"date": "Tue Sep 06 2011",
+		"time": "9:18am",
+		"desc": "Ukraine vs Mexico",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "FIFA Beach Soccer World Cup"
+	},
+	{
+		"date": "Tue Sep 06 2011",
+		"time": "10:48am",
+		"desc": "Venezuela vs Russia",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "FIFA Beach Soccer World Cup"
+	},
+	{
+		"date": "Tue Sep 06 2011",
+		"time": "12:18pm",
+		"desc": "Brazil vs Japan",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "FIFA Beach Soccer World Cup"
+	},
+	{
+		"date": "Tue Sep 06 2011",
+		"time": "1:00pm",
+		"desc": "Finland vs Netherlands",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Tue Sep 06 2011",
+		"time": "1:48pm",
+		"desc": "Tahiti vs Nigeria",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "FIFA Beach Soccer World Cup"
+	},
+	{
+		"date": "Tue Sep 06 2011",
+		"time": "2:15pm",
+		"desc": "Denmark vs Norway",
+		"chan": "ESPN UK, ESPN3 USA",
+		"live": "Live",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Tue Sep 06 2011",
+		"time": "2:30pm",
+		"desc": "Romania vs France",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Tue Sep 06 2011",
+		"time": "2:30pm",
+		"desc": "Austria vs Turkey",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Tue Sep 06 2011",
+		"time": "2:30pm",
+		"desc": "USA vs Belgium",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "Friendly"
+	},
+	{
+		"date": "Tue Sep 06 2011",
+		"time": "3:00pm",
+		"desc": "Scotland vs Lithuania",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Tue Sep 06 2011",
+		"time": "4:00pm",
+		"desc": "Spain vs Liechtenstein",
+		"chan": "ESPN3 USA",
+		"live": "Live",
+		"type": "UEFA Euro 2012 Qualifying"
+	},
+	{
+		"date": "Tue Sep 06 2011",
+		"time": "7:00pm",
+		"desc": "Italy s Switzerland",
+		"chan": "British EuroSport 2",
+		"live": "Repeat",
+		"type": "FIFA Beach Soccer World Cup"
+	},
+	{
+		"date": "Tue Sep 06 2011",
+		"time": "8:00pm",
+		"desc": "Ukraine vs Mexico",
+		"chan": "British EuroSport 2",
+		"live": "Repeat",
+		"type": "FIFA Beach Soccer World Cup"
+	}
+]

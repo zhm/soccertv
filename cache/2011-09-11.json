@@ -1,0 +1,66 @@
+[
+	{
+		"date": "Sun Sep 11 2011",
+		"time": "11:00am",
+		"desc": "Academica de Coimbra vs Nacional Funchal",
+		"chan": "Portuguese Football League",
+		"live": "Live",
+		"type": "Portugal Primeira Liga"
+	},
+	{
+		"date": "Sun Sep 11 2011",
+		"time": "11:00am",
+		"desc": "FC Porto vs Vitoria Setubal",
+		"chan": "Portuguese Football League",
+		"live": "Live",
+		"type": "Portugal Primeira Liga"
+	},
+	{
+		"date": "Sun Sep 11 2011",
+		"time": "11:00am",
+		"desc": "Paços de Ferreira vs Sporting CP Lisbon",
+		"chan": "Portuguese Football League",
+		"live": "Live",
+		"type": "Portugal Primeira Liga"
+	},
+	{
+		"date": "Sun Sep 11 2011",
+		"time": "11:00am",
+		"desc": "SC Olhanense vs Feirense",
+		"chan": "Portuguese Football League",
+		"live": "Live",
+		"type": "Portugal Primeira Liga"
+	},
+	{
+		"date": "Sun Sep 11 2011",
+		"time": "11:00am",
+		"desc": "Sporting Braga vs Gil Vicente",
+		"chan": "Portuguese Football League",
+		"live": "Live",
+		"type": "Portugal Primeira Liga"
+	},
+	{
+		"date": "Sun Sep 11 2011",
+		"time": "11:00am",
+		"desc": "BeiraMar vs Uniao Leiria",
+		"chan": "Portuguese Football League",
+		"live": "Live",
+		"type": "Portugal Primeira Liga"
+	},
+	{
+		"date": "Sun Sep 11 2011",
+		"time": "11:00am",
+		"desc": "Maritimo Funchal vs Rio Ave",
+		"chan": "Portuguese Football League",
+		"live": "Live",
+		"type": "Portugal Primeira Liga"
+	},
+	{
+		"date": "Sun Sep 11 2011",
+		"time": "11:00am",
+		"desc": "Benfica vs Vitoria Guimaraes",
+		"chan": "Portuguese Football League",
+		"live": "Live",
+		"type": "Portugal Primeira Liga"
+	}
+]

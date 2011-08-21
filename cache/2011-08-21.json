@@ -1,0 +1,1458 @@
+[
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "12:00am",
+		"desc": "Köln vs Kaiserslautern",
+		"chan": "SuperSport 3",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "12:00am",
+		"desc": "Swansea City vs Wigan Athletic",
+		"chan": "ESPN Latin America Andina, ESPN Latin America South, Fox Soccer Plus",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "12:00am",
+		"desc": "Borussia M'gladbach vs Wolfsburg",
+		"chan": "SuperSport HD 2",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "12:00am",
+		"desc": "Santos vs Monarcas",
+		"chan": "ESPN Latin America North, ESPN Venezuela",
+		"live": "Delayed",
+		"type": "Cyprus First Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "12:15am",
+		"desc": "Stuttgart vs Bayer Leverkusen",
+		"chan": "Sky Sport HD 1 Germany",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:00am",
+		"desc": "Chicago Fire vs DC United",
+		"chan": "ESPN Caribbean",
+		"live": "Repeat",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:00am",
+		"desc": "Aston Villa vs Blackburn Rovers",
+		"chan": "Sport.TV Liga Inglesa, SuperSport HD 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:00am",
+		"desc": "CNI Iquitos vs Juan Aurich Chiclayo",
+		"chan": "Peru Magico",
+		"live": "Repeat",
+		"type": "Peru Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:20am",
+		"desc": "Barcelona vs Real Madrid",
+		"chan": "SuperSport Maximo",
+		"live": "Repeat",
+		"type": "Belgium Super Cup"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "Postponed",
+		"desc": "Real Madrid vs Athletic Bilbao",
+		"chan": "Sky Sports 1, Sky Sports HD 1",
+		"live": "Live",
+		"type": "Spain La Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "Postponed",
+		"desc": "Málaga vs Barcelona",
+		"chan": "Sky Italia, Sky Sports 1, Sky Sports HD 1",
+		"live": "Live",
+		"type": "Spain La Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "Postponed",
+		"desc": "Real Betis vs Sevilla",
+		"chan": "Sky Sports 1, Sky Sports HD 1",
+		"live": "Live",
+		"type": "Spain La Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "Postponed",
+		"desc": "Racing Santander vs Getafe",
+		"chan": "Directv Soccer",
+		"live": "Live",
+		"type": "Spain La Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:30am",
+		"desc": "Nacional vs Defensor Sporting",
+		"chan": "GolTV-Canada",
+		"live": "Repeat",
+		"type": "Uruguay Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:50am",
+		"desc": "Köln vs Kaiserslautern",
+		"chan": "SuperSport HD 2",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "2:00am",
+		"desc": "Arsenal vs Liverpool",
+		"chan": "Fox Sports +, Fox Sports Premium",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "2:00am",
+		"desc": "Portland Timbers vs Whitecaps",
+		"chan": "Fox Deportes",
+		"live": "Repeat",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "2:00am",
+		"desc": "Ajaccio vs Evian TG",
+		"chan": "SuperSport 3",
+		"live": "Repeat",
+		"type": "France Ligue 1"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "2:15am",
+		"desc": "Bayern München vs Hamburger SV",
+		"chan": "Sky Sport HD 1 Germany",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "2:30am",
+		"desc": "New England Revolution vs New York Red Bulls",
+		"chan": "MSG",
+		"live": "Repeat",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:00am",
+		"desc": "Portland Timbers vs Whitecaps",
+		"chan": "FSC",
+		"live": "Repeat",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:00am",
+		"desc": "Chelsea vs West Bromwich Albion",
+		"chan": "Sport.TV Liga Inglesa, SuperSport HD 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:00am",
+		"desc": "Swansea City vs Wigan Athletic",
+		"chan": "ESPN + Andina",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:00am",
+		"desc": "Dorados vs Leones Negros",
+		"chan": "GolTV USA, Mexico TV",
+		"live": "Repeat",
+		"type": "Mexico Liga de Ascenso"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:00am",
+		"desc": "Sport Huancayo vs Cobresol",
+		"chan": "Peru Magico",
+		"live": "Repeat",
+		"type": "Peru Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:30am",
+		"desc": "CD Huachipato vs Universidad Católica",
+		"chan": "TV Chile",
+		"live": "Repeat",
+		"type": "Chile Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:30am",
+		"desc": "Changchun Yatai vs Jiangsu Shuntian",
+		"chan": "LIVECSL.TV, LiveSport.TV",
+		"live": "Live",
+		"type": "China Super League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:30am",
+		"desc": "Qingdao Jonoon vs Beijing Guoan",
+		"chan": "LIVECSL.TV, LiveSport.TV",
+		"live": "Live",
+		"type": "China Super League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:30am",
+		"desc": "FC Porto vs Gil Vicente",
+		"chan": "Sport.TV1",
+		"live": "Repeat",
+		"type": "Portugal Primeira Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:30am",
+		"desc": "Corinthians vs Figueirense",
+		"chan": "GolTV-Canada",
+		"live": "Repeat",
+		"type": "Brazil Serie A - Brasileirao"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:40am",
+		"desc": "Barcelona vs Real Madrid",
+		"chan": "SuperSport HD 2",
+		"live": "Repeat",
+		"type": "Spain La Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:50am",
+		"desc": "Chelsea vs West Bromwich Albion",
+		"chan": "SuperSport 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "4:00am",
+		"desc": "Chelsea vs West Bromwich Albion",
+		"chan": "ESPN UK",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "4:00am",
+		"desc": "Benfica vs Feirense",
+		"chan": "Sport.TV1",
+		"live": "Repeat",
+		"type": "Portugal Primeira Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "4:00am",
+		"desc": "Independiente vs Estudiantes",
+		"chan": "ESPN DOS",
+		"live": "Delayed",
+		"type": "Argentina Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "4:00am",
+		"desc": "Kaizer Chiefs vs Ajax Cape Town",
+		"chan": "SuperSport 4",
+		"live": "Repeat",
+		"type": "South Africa ABSA Premiership"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "4:30am",
+		"desc": "Arsenal vs Udinese",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "4:30am",
+		"desc": "Sportivo Italiano vs Estudiantes Caseros",
+		"chan": "TyCSports",
+		"live": "Delayed",
+		"type": "Argentina Primera B Metropolitana"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:00am",
+		"desc": "Kapfenberger SV 1919 vs SC Wiener Neustadt",
+		"chan": "Sky Sport Austria",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:00am",
+		"desc": "Sunderland vs Newcastle United",
+		"chan": "Sport.TV Liga Inglesa, SuperSport HD 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:00am",
+		"desc": "Alianza Atletico Sullana vs Unión Comercio",
+		"chan": "Peru Magico",
+		"live": "Repeat",
+		"type": "Peru Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:30am",
+		"desc": "Osasuna vs Valencia",
+		"chan": "Sky Italia",
+		"live": "Repeat",
+		"type": "Spain La Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:40am",
+		"desc": "Sunderland vs Newcastle United",
+		"chan": "SuperSport 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "6:00am",
+		"desc": "Köln vs Kaiserslautern",
+		"chan": "ESPN UK",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "6:00am",
+		"desc": "Olympique Lyon vs Rubin Kazan",
+		"chan": "Fox Sports Basico",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "6:15am",
+		"desc": "Naval Primeiro de Maio vs Leixões Matosinhos *result",
+		"chan": "Sport.TV1",
+		"live": "Live",
+		"type": "Portugal Liga de Honra"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "6:15am",
+		"desc": "Köln vs Kaiserslautern",
+		"chan": "Sky Sport HD 1 Germany",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "6:30am",
+		"desc": "Heracles vs Feyenoord *result",
+		"chan": "Eredivisie.tv, LiveSport.TV",
+		"live": "Live",
+		"type": "Netherlands Eredivisie"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "6:30am",
+		"desc": "Bayern München vs Zürich",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "6:30am",
+		"desc": "Kaizer Chiefs vs Ajax Cape Town",
+		"chan": "SuperSport HD 2",
+		"live": "Repeat",
+		"type": "South Africa ABSA Premiership"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "7:00am",
+		"desc": "Bolton vs Manchester City*Repeat From 2009/2010",
+		"chan": "Sport.TV Liga Inglesa",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "7:00am",
+		"desc": "Wacker Innsbruck vs Admira",
+		"chan": "Sky Sport Austria",
+		"live": "Repeat",
+		"type": "Austria Football Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "7:15am",
+		"desc": "Chelsea vs West Bromwich Albion",
+		"chan": "Sky Italia",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "7:30am",
+		"desc": "Tianjin Teda vs Shanghai Shenhua",
+		"chan": "LIVECSL.TV, LiveSport.TV",
+		"live": "Live",
+		"type": "China Super League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "7:30am",
+		"desc": "Energie Cottbus vs Karlsruher SC *result",
+		"chan": "Sky Fussball Bundesliga",
+		"live": "Live",
+		"type": "Germany Bundesliga 2"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "7:30am",
+		"desc": "FSV Frankfurt vs Eintracht Frankfurt",
+		"chan": "Sky Fussball Bundesliga",
+		"live": "Live",
+		"type": "Germany Bundesliga 2"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "7:30am",
+		"desc": "Dynamo Dresden vs Paderborn",
+		"chan": "Sky Fussball Bundesliga",
+		"live": "Live",
+		"type": "Germany Bundesliga 2"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "8:15am",
+		"desc": "West Ham United vs Leeds United *result",
+		"chan": "Fox Sports Australia 2, FoxSoccer.tv, Sky Sports 1, Sky Sports HD 1",
+		"live": "Live",
+		"type": "England Championship"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "8:30am",
+		"desc": "Norwich City vs Stoke City *result",
+		"chan": "Fox Soccer Plus, FoxSoccer.tv, Setanta Sports Canada, Sport.TV Liga Inglesa, Sport.TV1, SuperSport 3, SuperSport HD 3",
+		"live": "Live",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "8:30am",
+		"desc": "AZ vs NEC",
+		"chan": "Eredivisie.tv, LiveSport.TV",
+		"live": "Live",
+		"type": "Netherlands Eredivisie"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "8:30am",
+		"desc": "VVV vs Ajax",
+		"chan": "Eredivisie.tv, ESPN Caribbean, ESPN Deportes, ESPN DOS, ESPN3 USA, LiveSport.TV, Sport.TV4",
+		"live": "Live",
+		"type": "Netherlands Eredivisie"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "8:30am",
+		"desc": "Jagiellonia Bialystok SSA vs MKS Cracovia Kraków",
+		"chan": "EkstraKlasa.TV, LiveSport.TV",
+		"live": "Live",
+		"type": "Poland Ekstraklasa"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "8:30am",
+		"desc": "Orlando Pirates vs Mamelodi Sundowns",
+		"chan": "SuperSport 4, SuperSport HD 2",
+		"live": "Live",
+		"type": "South Africa ABSA Premiership"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "9:00am",
+		"desc": "Wolverhampton Wanderers vs Fulham *result",
+		"chan": "Fox Deportes, Fox Sports Basico, FSC, SuperSport 7",
+		"live": "Live",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "9:00am",
+		"desc": "Celtic vs Rangers",
+		"chan": "ESPN Middle East",
+		"live": "Repeat",
+		"type": "Scotland Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "9:00am",
+		"desc": "Arsenal vs Liverpool",
+		"chan": "Sky Sport 1 Germany, Sky Sport HD 2 Germany",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "9:00am",
+		"desc": "Köln vs Kaiserslautern",
+		"chan": "GolTV-Canada",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "9:00am",
+		"desc": "Nagoya Grampus vs Vegalta Sendai",
+		"chan": "ESPN HD Brasil",
+		"live": "Delayed",
+		"type": "Japan J1 League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "9:15am",
+		"desc": "Motherwell vs Rangers *result",
+		"chan": "ESPN UK",
+		"live": "Live",
+		"type": "Scotland Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "9:30am",
+		"desc": "Mainz 05 vs Schalke 04 *result",
+		"chan": "ESPN UK, My Sports Germany, Sky Fussball Bundesliga, Sky Italia, Sky Sport HD 1 Germany, SuperSport 5",
+		"live": "Live",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "10:00am",
+		"desc": "Celtic vs St. Johnstone *result",
+		"chan": "Sport.TV2",
+		"live": "Live",
+		"type": "Scotland Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "10:00am",
+		"desc": "Mattersburg vs Ried",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Live",
+		"type": "Austria Football Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "10:00am",
+		"desc": "Rapid Wien vs Austria Wien *result",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Live",
+		"type": "Austria Football Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "10:00am",
+		"desc": "New England Revolution vs New York Red Bulls",
+		"chan": "MSG",
+		"live": "Repeat",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "10:30am",
+		"desc": "West Ham United vs Leeds United",
+		"chan": "Fox Soccer Plus",
+		"live": "Repeat",
+		"type": "England Championship"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "10:30am",
+		"desc": "ADO Den Haag vs PSV",
+		"chan": "Eredivisie.tv, LiveSport.TV, Sport.TV4",
+		"live": "Live",
+		"type": "Netherlands Eredivisie"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "10:30am",
+		"desc": "Benfica vs Feirense",
+		"chan": "Sport.TV1",
+		"live": "Repeat",
+		"type": "Portugal Primeira Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "10:30am",
+		"desc": "Grêmio vs Palmeiras*Campeonato Brasileiro de Showbol",
+		"chan": "PFC Internacional",
+		"live": "Live",
+		"type": "Other Soccer Programming"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "10:30am",
+		"desc": "Mainz 05 vs Schalke 04",
+		"chan": "GolTV USA",
+		"live": "Delayed",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "11:00am",
+		"desc": "Bolton vs Manchester City *result",
+		"chan": "ESPN + , ESPN + Andina, ESPN DOS, ESPN HD Brasil, Fox Deportes, Fox Sports Australia 2, FSC, Setanta Sports Canada, Sky Sport 1 Germany, Sky Sport HD 2 Germany, Sky Sports 1, Sky Sports HD 1, Sport.TV Liga Inglesa, Sport.TV1, SuperSport 3, SuperSport HD 3",
+		"live": "Live",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "11:00am",
+		"desc": "Montpellier vs Stade Rennes *result",
+		"chan": "FoxSoccer.tv",
+		"live": "Live",
+		"type": "France Ligue 1"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "11:00am",
+		"desc": "Nancy vs Sochaux *result",
+		"chan": "FoxSoccer.tv",
+		"live": "Live",
+		"type": "France Ligue 1"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "11:00am",
+		"desc": "PSG vs Valenciennes *result",
+		"chan": "FoxSoccer.tv, SuperSport 7",
+		"live": "Live",
+		"type": "France Ligue 1"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "11:00am",
+		"desc": "KP Legia Warszawa vs WKS Slask Wroclaw",
+		"chan": "EkstraKlasa.TV, LiveSport.TV",
+		"live": "Live",
+		"type": "Poland Ekstraklasa"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "11:00am",
+		"desc": "Liverpool vs Manchester United",
+		"chan": "ESPN2 Australia",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "11:00am",
+		"desc": "Alajuela vs San Carlos",
+		"chan": "Telecentro",
+		"live": "Delayed",
+		"type": "Costa Rica Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "11:30am",
+		"desc": "Hannover 96 vs Hertha BSC *result",
+		"chan": "ESPN UK, My Sports Germany, Sky Fussball Bundesliga, Sky Sport HD 1 Germany, SuperSport 5",
+		"live": "Live",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "11:30am",
+		"desc": "Kaizer Chiefs vs Ajax Cape Town",
+		"chan": "SuperSport 4",
+		"live": "Repeat",
+		"type": "South Africa ABSA Premiership"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "12:00pm",
+		"desc": "Inter Milan vs Olympiakos",
+		"chan": "Sky Italia",
+		"live": "Live",
+		"type": "Club Friendly"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "12:00pm",
+		"desc": "Bayern München vs Hamburger SV",
+		"chan": "ESPN Deportes",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "12:30pm",
+		"desc": "Salzburg vs Sturm Graz *result",
+		"chan": "Sky Sport Austria",
+		"live": "Live",
+		"type": "Austria Football Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "12:30pm",
+		"desc": "Celtic vs St. Johnstone",
+		"chan": "Sport.TV4",
+		"live": "Repeat",
+		"type": "Scotland Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "12:30pm",
+		"desc": "Nottingham Forest vs Leicester City",
+		"chan": "Fox Soccer Plus",
+		"live": "Repeat",
+		"type": "England Championship"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "12:30pm",
+		"desc": "Hannover 96 vs Hertha BSC",
+		"chan": "GolTV USA",
+		"live": "Delayed",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "12:30pm",
+		"desc": "Mainz 05 vs Schalke 04",
+		"chan": "GolTV-Canada",
+		"live": "Delayed",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "12:30pm",
+		"desc": "Brazil vs Portugal",
+		"chan": "SuperSport Maximo",
+		"live": "Repeat",
+		"type": "FIFA U-20 World Cup"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:00pm",
+		"desc": "El Nacional Quito vs Liga de Quito *result",
+		"chan": "Directv Soccer, Ecuavisa Internacional",
+		"live": "Live",
+		"type": "Ecuador Primera A"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:00pm",
+		"desc": "All Boys vs Atlético Rafaela",
+		"chan": "LivePrimeraDivision.TV, LiveSport.TV, TyCSports",
+		"live": "Live",
+		"type": "Argentina Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:00pm",
+		"desc": "Academica de Coimbra vs Rio Ave",
+		"chan": "Portuguese Football League",
+		"live": "Live",
+		"type": "Portugal Primeira Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:00pm",
+		"desc": "Paços de Ferreira vs Uniao Leiria",
+		"chan": "Portuguese Football League",
+		"live": "Live",
+		"type": "Portugal Primeira Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:00pm",
+		"desc": "Toluca vs Atlante *result",
+		"chan": "Telemundo",
+		"live": "Live",
+		"type": "Mexico Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:00pm",
+		"desc": "Puebla vs Pumas UNAM *result",
+		"chan": "Azteca America",
+		"live": "Live",
+		"type": "Mexico Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:00pm",
+		"desc": "Cartago vs Saprissa",
+		"chan": "Centro America TV",
+		"live": "Live",
+		"type": "Costa Rica Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:00pm",
+		"desc": "PSG vs Valenciennes",
+		"chan": "ESPN +",
+		"live": "Repeat",
+		"type": "France Ligue 1"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:00pm",
+		"desc": "Portland Timbers vs Whitecaps",
+		"chan": "MSG Plus",
+		"live": "Delayed",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:00pm",
+		"desc": "Corinthians vs Figueirense",
+		"chan": "SuperSport 7",
+		"live": "Repeat",
+		"type": "Brazil Serie A - Brasileirao"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:00pm",
+		"desc": "Municipal vs Heredia",
+		"chan": "Telecentro",
+		"live": "Live",
+		"type": "Guatemala Liga Nacional"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "1:30pm",
+		"desc": "Los Angeles Galaxy vs San Jose Earthquakes",
+		"chan": "ESPN UK",
+		"live": "Repeat",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "2:00pm",
+		"desc": "Wolverhampton Wanderers vs Fulham",
+		"chan": "Sport.TV Liga Inglesa, SuperSport HD 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "2:00pm",
+		"desc": "Cienciano Cusco vs Alianza Lima",
+		"chan": "Peru Magico",
+		"live": "Live",
+		"type": "Peru Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "2:00pm",
+		"desc": "Arsenal vs Liverpool",
+		"chan": "ESPN HD Brasil",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "2:00pm",
+		"desc": "VVV vs Ajax",
+		"chan": "ESPN DOS",
+		"live": "Repeat",
+		"type": "Netherlands Eredivisie"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "2:00pm",
+		"desc": "Brazil vs Portugal",
+		"chan": "SuperSport 3",
+		"live": "Repeat",
+		"type": "FIFA U-20 World Cup"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "2:00pm",
+		"desc": "Cruz Azul vs Club Tijuana",
+		"chan": "ESPN Deportes",
+		"live": "Repeat",
+		"type": "Argentina Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "2:30pm",
+		"desc": "Chelsea vs West Bromwich Albion",
+		"chan": "FSC",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:00pm",
+		"desc": "Internacional vs Flamengo",
+		"chan": "GolTV USA, LiveCampeonatoBrasileiro.TV, LiveSport.TV",
+		"live": "Live",
+		"type": "Brazil Serie A - Brasileirao"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:00pm",
+		"desc": "São Paulo vs Palmeiras *result",
+		"chan": "PFC Internacional",
+		"live": "Live",
+		"type": "Brazil Serie A - Brasileirao"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:00pm",
+		"desc": "England vs Scotland",
+		"chan": "ESPN Australia",
+		"live": "Repeat",
+		"type": "UEFA U19 European Championship"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:00pm",
+		"desc": "Mainz 05 vs Schalke 04",
+		"chan": "Sky Sport HD 2 Germany",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:00pm",
+		"desc": "Wolverhampton Wanderers vs Fulham",
+		"chan": "Fox Deportes",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:00pm",
+		"desc": "Olympique Marseille vs SaintÉtienne *result",
+		"chan": "Fox Soccer Plus",
+		"live": "Live",
+		"type": "France Ligue 1"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:00pm",
+		"desc": "Xelaju vs Comunicaciones",
+		"chan": "Telecentro",
+		"live": "Delayed",
+		"type": "Guatemala Liga Nacional"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:05pm",
+		"desc": "Tigre vs Godoy Cruz *result",
+		"chan": "LivePrimeraDivision.TV, LiveSport.TV, TyCSports",
+		"live": "Live",
+		"type": "Argentina Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:10pm",
+		"desc": "Olympique Marseille vs SaintÉtienne",
+		"chan": "Sport.TV4",
+		"live": "Repeat",
+		"type": "France Ligue 1"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:15pm",
+		"desc": "New England Revolution vs New York Red Bulls",
+		"chan": "ESPN UK",
+		"live": "Repeat",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:15pm",
+		"desc": "Sporting Braga vs Maritimo Funchal *result",
+		"chan": "Portuguese Football League, Sport.TV1",
+		"live": "Live",
+		"type": "Portugal Primeira Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "3:30pm",
+		"desc": "Bolton vs Manchester City",
+		"chan": "ESPN Latin America North, ESPN Venezuela",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "4:00pm",
+		"desc": "Norwich City vs Stoke City",
+		"chan": "Sport.TV Liga Inglesa, SuperSport HD 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "4:00pm",
+		"desc": "Unión Española vs Universidad de Chile",
+		"chan": "TV Chile",
+		"live": "Live",
+		"type": "Chile Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "4:00pm",
+		"desc": "England vs Germany",
+		"chan": "ESPN Australia",
+		"live": "Repeat",
+		"type": "FIFA World Cup"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "4:00pm",
+		"desc": "Arsenal vs Liverpool",
+		"chan": "Sky Sport 1 Germany, SuperSport 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "4:00pm",
+		"desc": "PSG vs Valenciennes",
+		"chan": "ESPN Latin America Andina, ESPN Latin America South",
+		"live": "Delayed",
+		"type": "France Ligue 1"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "4:00pm",
+		"desc": "Hannover 96 vs Hertha BSC",
+		"chan": "SuperSport HD 2",
+		"live": "Delayed",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "4:00pm",
+		"desc": "Orlando Pirates vs Mamelodi Sundowns",
+		"chan": "SuperSport 4",
+		"live": "Repeat",
+		"type": "South Africa ABSA Premiership"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "4:30pm",
+		"desc": "Inter Milan vs Olympiakos",
+		"chan": "Sky Italia",
+		"live": "Repeat",
+		"type": "Club Friendly"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:00pm",
+		"desc": "América vs Atlas",
+		"chan": "Univision",
+		"live": "Live",
+		"type": "Mexico Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:00pm",
+		"desc": "Juan Aurich Chiclayo vs Univ San Martin Lima",
+		"chan": "Peru Magico",
+		"live": "Live",
+		"type": "Peru Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:00pm",
+		"desc": "Vasco da Gama vs Fluminense",
+		"chan": "PFC Internacional",
+		"live": "Live",
+		"type": "Brazil Serie A - Brasileirao"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:00pm",
+		"desc": "Bahia vs Santos",
+		"chan": "PFC Internacional",
+		"live": "Live",
+		"type": "Brazil Serie A - Brasileirao"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:00pm",
+		"desc": "Hannover 96 vs Hertha BSC",
+		"chan": "ESPN HD Brasil, Sky Sport HD 2 Germany",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:00pm",
+		"desc": "Independiente vs Estudiantes",
+		"chan": "Fox Sports Premium",
+		"live": "Repeat",
+		"type": "Argentina Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:00pm",
+		"desc": "Norwich City vs Stoke City",
+		"chan": "Fox Soccer Plus",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:00pm",
+		"desc": "Fenix vs U.de Chile",
+		"chan": "Fox Sports Basico",
+		"live": "Repeat",
+		"type": "Copa Sudamericana"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:00pm",
+		"desc": "Mainz 05 vs Schalke 04",
+		"chan": "GolTV USA",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:00pm",
+		"desc": "PSG vs Valenciennes",
+		"chan": "SuperSport 7",
+		"live": "Repeat",
+		"type": "France Ligue 1"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:00pm",
+		"desc": "Barcelona vs Real Madrid",
+		"chan": "ESPN Deportes",
+		"live": "Repeat",
+		"type": "Supercopa de España"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:10pm",
+		"desc": "Newell's Old Boys vs Boca Juniors *result",
+		"chan": "ESPN + Andina, LivePrimeraDivision.TV, LiveSport.TV, Sport.TV4, TyCSports",
+		"live": "Live",
+		"type": "Argentina Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:30pm",
+		"desc": "ADO Den Haag vs PSV",
+		"chan": "ESPN UK",
+		"live": "Repeat",
+		"type": "Netherlands Eredivisie"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "5:50pm",
+		"desc": "Orlando Pirates vs Mamelodi Sundowns",
+		"chan": "SuperSport HD 2",
+		"live": "Repeat",
+		"type": "South Africa ABSA Premiership"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "6:00pm",
+		"desc": "BATE Borisov vs Sturm Graz",
+		"chan": "ESPN Star Sports",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "6:00pm",
+		"desc": "Bolton vs Manchester City",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "6:00pm",
+		"desc": "Bayern München vs Zürich",
+		"chan": "SuperSport Maximo",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "6:15pm",
+		"desc": "Real Madrid vs Athletic Bilbao",
+		"chan": "Sky Italia",
+		"live": "Repeat",
+		"type": "Spain La Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "6:40pm",
+		"desc": "Köln vs Kaiserslautern",
+		"chan": "SuperSport 3",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "7:00pm",
+		"desc": "Sporting Kansas City vs DC United",
+		"chan": "LiveMLS.TV, MLS Direct Kick",
+		"live": "Live",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "7:00pm",
+		"desc": "Chicago Fire vs Toronto FC *result",
+		"chan": "Galavision, GolTV-Canada, LiveMLS.TV, LiveSport.TV, MLS Direct Kick",
+		"live": "Live",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "7:00pm",
+		"desc": "Mainz 05 vs Schalke 04",
+		"chan": "Sky Sport HD 2 Germany",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "7:00pm",
+		"desc": "Bolton vs Manchester City",
+		"chan": "Sport.TV Liga Inglesa, SuperSport HD 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "7:00pm",
+		"desc": "CD Marathón vs CD Motagua",
+		"chan": "Centro America TV",
+		"live": "Delayed",
+		"type": "Honduras Liga Nacional"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "7:00pm",
+		"desc": "Barcelona vs Real Madrid",
+		"chan": "GolTV USA",
+		"live": "Repeat",
+		"type": "Spain La Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "7:15pm",
+		"desc": "Banfield vs Racing Club",
+		"chan": "LivePrimeraDivision.TV, LiveSport.TV, TyCSports",
+		"live": "Live",
+		"type": "Argentina Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "8:00pm",
+		"desc": "Bayern München vs Internazionale",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "8:00pm",
+		"desc": "West Ham United vs Leeds United",
+		"chan": "Fox Soccer Plus",
+		"live": "Repeat",
+		"type": "England Championship"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "8:00pm",
+		"desc": "Köln vs Kaiserslautern",
+		"chan": "SuperSport Maximo",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "8:00pm",
+		"desc": "Orlando Pirates vs Mamelodi Sundowns",
+		"chan": "SuperSport 4",
+		"live": "Repeat",
+		"type": "South Africa ABSA Premiership"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "8:30pm",
+		"desc": "Mainz 05 vs Schalke 04",
+		"chan": "SuperSport 3",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "8:40pm",
+		"desc": "Beiramar vs Sporting CP Lisbon",
+		"chan": "Sport.TV1",
+		"live": "Repeat",
+		"type": "Portugal Primeira Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "9:00pm",
+		"desc": "Hannover 96 vs Hertha BSC",
+		"chan": "Sky Sport HD 2 Germany",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "9:00pm",
+		"desc": "Real Madrid vs Atlético Madrid",
+		"chan": "Centro America TV",
+		"live": "Repeat",
+		"type": "Spain La Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "10:00pm",
+		"desc": "Barcelona vs Manchester United",
+		"chan": "Sky Sport 1 Germany",
+		"live": "Repeat",
+		"type": "UEFA Champions League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "10:00pm",
+		"desc": "Sunderland vs Newcastle United",
+		"chan": "Sport.TV Liga Inglesa, SuperSport HD 3",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "10:00pm",
+		"desc": "Hannover 96 vs Hertha BSC",
+		"chan": "GolTV USA, SuperSport Maximo",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "10:15pm",
+		"desc": "Mainz 05 vs Schalke 04",
+		"chan": "Sky Sport HD 1 Germany",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "10:20pm",
+		"desc": "Hannover 96 vs Hertha BSC",
+		"chan": "SuperSport 3",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "10:45pm",
+		"desc": "Dynamo Dresden vs Paderborn",
+		"chan": "Sky Fussball Bundesliga",
+		"live": "Repeat",
+		"type": "Germany Bundesliga 2"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "10:50pm",
+		"desc": "Sporting Braga vs Maritimo Funchal",
+		"chan": "Sport.TV1",
+		"live": "Repeat",
+		"type": "Portugal Primeira Liga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "11:00pm",
+		"desc": "Newell's Old Boys vs Boca Juniors",
+		"chan": "Fox Sports Basico, Fox Sports Premium",
+		"live": "Delayed",
+		"type": "Argentina Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "11:00pm",
+		"desc": "Bolton vs Manchester City",
+		"chan": "FSC",
+		"live": "Repeat",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "11:00pm",
+		"desc": "Mainz 05 vs Schalke 04",
+		"chan": "GolTV-Canada",
+		"live": "Repeat",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "11:00pm",
+		"desc": "Hannover 96 vs Hertha BSC",
+		"chan": "GolTV-Canada",
+		"live": "Delayed",
+		"type": "Bundesliga"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "11:59pm",
+		"desc": "Bolton vs Manchester City",
+		"chan": "FoxSoccer.tv",
+		"live": "Delayed",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sun Aug 21 2011",
+		"time": "11:59pm",
+		"desc": "Wolverhampton Wanderers vs Fulham",
+		"chan": "FoxSoccer.tv",
+		"live": "Delayed",
+		"type": "England Premier League"
+	}
+]

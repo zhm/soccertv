@@ -1,0 +1,66 @@
+[
+	{
+		"date": "Sat Sep 10 2011",
+		"time": "12:30pm",
+		"desc": "Bolton vs Manchester United",
+		"chan": "ESPN UK",
+		"live": "Live",
+		"type": "England Premier League"
+	},
+	{
+		"date": "Sat Sep 10 2011",
+		"time": "4:00pm",
+		"desc": "Sporting Kansas City vs Houston Dynamo",
+		"chan": "LiveMLS.TV, MLS Direct Kick",
+		"live": "Live",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sat Sep 10 2011",
+		"time": "4:00pm",
+		"desc": "Seattle Sounders FC vs Real Salt Lake",
+		"chan": "LiveMLS.TV, MLS Direct Kick",
+		"live": "Live",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sat Sep 10 2011",
+		"time": "7:30pm",
+		"desc": "New York Red Bulls vs Whitecaps",
+		"chan": "LiveMLS.TV, MLS Direct Kick, MSG",
+		"live": "Live",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sat Sep 10 2011",
+		"time": "7:30pm",
+		"desc": "Philadelphia Union vs Portland Timbers",
+		"chan": "LiveMLS.TV, MLS Direct Kick",
+		"live": "Live",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sat Sep 10 2011",
+		"time": "7:30pm",
+		"desc": "Columbus Crew vs Toronto FC",
+		"chan": "LiveMLS.TV, MLS Direct Kick",
+		"live": "Live",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sat Sep 10 2011",
+		"time": "10:30pm",
+		"desc": "Chivas USA vs DC United",
+		"chan": "LiveMLS.TV, MLS Direct Kick",
+		"live": "Live",
+		"type": "Major League Soccer"
+	},
+	{
+		"date": "Sat Sep 10 2011",
+		"time": "10:30pm",
+		"desc": "San Jose Earthquakes vs Chicago Fire",
+		"chan": "LiveMLS.TV, MLS Direct Kick",
+		"live": "Live",
+		"type": "Major League Soccer"
+	}
+]
