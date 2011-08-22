@@ -1,167 +1,187 @@
 var sys = require('sys'),
 	fs = require('fs'),
 	http = require('http'),
-	libxmljs = require("libxmljs"),
 	Table = require('cli-table'),
 	jsdom = require('jsdom'),
 	request = require('request');
-	
+
 
 var filter = process.argv[2];
 
-// hacks for some shortcuts
+// hax for some shortcuts
 filter = filter ? filter.toLowerCase() : '';
 if (filter == 'epl') filter = 'england premier league';
 if (filter == 'mls') filter = 'major league soccer';
 if (filter == 'web') filter = 'foxsoccer.tv';
 
 
-function getPage(url, callback) {
-	request({uri: url}, function (error, response, body) {
-		callback(body);
-	});
-}
-
-//hacky, but it works
-function formatDateForMatchDay(date) {
-	return date.getFullYear() + '-' + 
-		((date.getMonth()+1) > 9 ? (date.getMonth()+1) : '0' + (date.getMonth()+1)) + '-' + 
-		(date.getDate() > 9 ? date.getDate() : '0' + date.getDate());
-}
-
-function cachePathForDate(date) {	
-	return 'cache/' + formatDateForMatchDay(date) + '.cache';
-}
-
-function jsonPathForDate(date) {	
-	return 'cache/' + formatDateForMatchDay(date) + '.json';
-}
-
-
-function fileExists(path) {
-	return (function() { 
-		try { 
-			return fs.statSync(path).isFile();
-		} catch (ex) { 
-			return false; 
-		}
-	})();
-}
-
-function cacheMatchIfNeeded(date, callback) {
-	var cachePath = cachePathForDate(date);
-	var cacheExists = fileExists(cachePath);
+Soccer = {
+	CACHE_DIR: 'cache/',
+	MATCH_URL: 'http://www.livesoccertv.com/schedules/',
+	MATCH_DAYS: 28,
+	allMatches: [],
+	beginDate: new Date(),
 	
-	if (!cacheExists) {
-		var url = 'http://www.livesoccertv.com/schedules/' + formatDateForMatchDay(date);
-
-		getPage(url, function(body) {
-			try { fs.mkdirSync('./cache', 0777); } catch (ex) {}
-			try { fs.writeFileSync(cachePath, body); } catch (ex) {}
-			callback();
+	fetchContent: function(url, callback) {
+		request({uri: url}, function (error, response, body) {
+			callback(body);
 		});
-	} else {
-		callback();
-	}
-}
-
-function getMatches(today, callback) {
-	var matches = [];
+	},
 	
-	var jsonPath = jsonPathForDate(today);
-	var jsonExists = fileExists(jsonPath);
+	//hacky, but it'll work for now
+	formatDateForMatchDay: function(date) {
+		return date.getFullYear() + '-' + 
+			((date.getMonth()+1) > 9 ? (date.getMonth()+1) : '0' + (date.getMonth()+1)) + '-' + 
+			(date.getDate() > 9 ? date.getDate() : '0' + date.getDate());
+	},
+	
+	cachePathForDate: function(date) {
+		return Soccer.CACHE_DIR + Soccer.formatDateForMatchDay(date) + '.cache';
+	},
+	
+	jsonPathForDate: function(date) {
+		return Soccer.CACHE_DIR + Soccer.formatDateForMatchDay(date) + '.json';
+	},
+	
+	//nodejs doesn't have a quick way to do this synchronously
+	fileExists: function(path) {
+		return (function() { 
+			try { 
+				return fs.statSync(path).isFile();
+			} catch (ex) { 
+				return false; 
+			}
+		})();
+	},
+	
+	// after implementing this I realized I only need to cache the parsed json, but I'll leave it in for now
+	fetchMarkupIfNeeded: function(date, callback) {
+		var cachePath = Soccer.cachePathForDate(date);
+		var cacheExists = Soccer.fileExists(cachePath);
 
-	if (!jsonExists) {
-		console.log('fetching/parsing/caching match data for ' + today.toLocaleDateString() + '... one sec...');
-		
-		cacheMatchIfNeeded(today, function() {
-			var cachePath = cachePathForDate(today);
-			var cacheData = fs.readFileSync(cachePath, 'utf8');
+		if (!cacheExists) {
+			var url = Soccer.MATCH_URL + Soccer.formatDateForMatchDay(date);
 
-			jsdom.env({
-			  html: cacheData,
-			  scripts: ['http://code.jquery.com/jquery-1.5.min.js'],
-			  done: function(errors, window) {
-			    var $ = window.$;
-				var pastMatches = [];
+			Soccer.fetchContent(url, function(body) {
+				try { fs.mkdirSync('./cache', 0777); } catch (ex) {}
+				try { fs.writeFileSync(cachePath, body); } catch (ex) {}
+				callback();
+			});
+		} else {
+			callback();
+		}
+	},
+	
+	//don't even get me started...
+	addDays: function(date, days) {
+		return new Date(date.getTime() + days * 24 * 60 * 60 * 1000);
+	},
+	
+	getMatches: function() {
+		Soccer.beginDate = new Date();
+		Soccer.endDate = Soccer.addDays(Soccer.beginDate, Soccer.MATCH_DAYS - 1);
+		Soccer._getMatches(Soccer.beginDate, Soccer.matchCallback);
+	},
+	
+	// gets the matches for the given day and passes them to the callback function when they're parsed from cache
+	_getMatches: function(matchDate, callback) {
+		var matches = [];
 
-			    $('.tab_container > div > table > tr').each(function(index, obj) {
-					if (index == 1) {
-						$('td > table > tr', obj).each(function(index, row) {
+		var jsonPath = Soccer.jsonPathForDate(matchDate);
+		var jsonExists = Soccer.fileExists(jsonPath);
 
-							//the page for the current day has an extra newsted section
-							if (index == 1 && today.toDateString() == (new Date()).toDateString()) {
-								$('td > div > table > tr', row).each(function(index, cell) {
-									var match = { date: today.toDateString() };
-									$('td', cell).each(function(index, cell) {
-										if (index == 0) match.time = $.trim($(cell).text());
-										if (index == 1) match.desc = $.trim($(cell).text());
-										if (index == 2) match.chan = $.trim($(cell).text());
-										if (index == 3) match.live = $.trim($(cell).text());
-										if (index == 4) match.type = $.trim($(cell).text());
-									});
+		if (!jsonExists) {
+			console.log('One sec... fetching/parsing/caching match data for ' + matchDate.toLocaleDateString() + '...');
 
-									if (match.time) {
-										matches.push(match);
-										pastMatches.push(match);
+			Soccer.fetchMarkupIfNeeded(matchDate, function() {
+				var cachePath = Soccer.cachePathForDate(matchDate);
+				var cacheData = fs.readFileSync(cachePath, 'utf8');
+
+				//super fragile html parsing!
+				jsdom.env({
+					html: cacheData,
+					scripts: ['http://code.jquery.com/jquery-1.5.min.js'],
+					done: function(errors, window) {
+						var $ = window.$;
+						var pastMatches = [];
+
+						$('.tab_container > div > table > tr').each(function(index, obj) {
+							if (index == 1) {
+								$('td > table > tr', obj).each(function(index, row) {
+
+									//the page for the current day has an extra nested section
+									if (index == 1 && matchDate.toDateString() == (new Date()).toDateString()) {
+										$('td > div > table > tr', row).each(function(index, cell) {
+											var match = { date: matchDate.toDateString() };
+											$('td', cell).each(function(index, cell) {
+												if (index == 0) match.time = $.trim($(cell).text());
+												if (index == 1) match.desc = $.trim($(cell).text());
+												if (index == 2) match.chan = $.trim($(cell).text());
+												if (index == 3) match.live = $.trim($(cell).text());
+												if (index == 4) match.type = $.trim($(cell).text());
+											});
+
+											if (match.time) {
+												matches.push(match);
+												pastMatches.push(match);
+											}
+										});
+									} else if (index > 1) {
+										var match = { date: matchDate.toDateString() };
+										$('td', row).each(function(index, cell) {
+											if (index == 0) match.time = $.trim($(cell).text());
+											if (index == 1) match.desc = $.trim($(cell).text());
+											if (index == 2) match.chan = $.trim($(cell).text());
+											if (index == 3) match.live = $.trim($(cell).text());
+											if (index == 4) match.type = $.trim($(cell).text());
+										});
+
+										if (match.time) {
+											matches.push(match);
+										}
 									}
 								});
-							} else if (index > 1) {
-								var match = { date: today.toDateString() };
-								$('td', row).each(function(index, cell) {
-									if (index == 0) match.time = $.trim($(cell).text());
-									if (index == 1) match.desc = $.trim($(cell).text());
-									if (index == 2) match.chan = $.trim($(cell).text());
-									if (index == 3) match.live = $.trim($(cell).text());
-									if (index == 4) match.type = $.trim($(cell).text());
-								});
-
-								if (match.time) {
-									matches.push(match);
-								}
 							}
 						});
-					}
-			    });
 
-				try { fs.mkdirSync('./cache', 0777); } catch (ex) {}
-				try { fs.writeFileSync(jsonPath, JSON.stringify(matches, null, '\t')); } catch (ex) {}
-				
-				callback(matches, today);
-			  }
+						//cache the parsed array so we don't have to spin up a jsdom.env every time
+						try { fs.mkdirSync('./cache', 0777); } catch (ex) {}
+						try { fs.writeFileSync(jsonPath, JSON.stringify(matches, null, '\t')); } catch (ex) {}
+
+						callback(matches, matchDate);
+					}
+
+				});
 
 			});
-
-		});
-	} else {
-		matches = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
-		callback(matches, today);
-	}
-}
-
-
-function addDays(theDate, days) {
-	return new Date(theDate.getTime() + days*24*60*60*1000);
-}
-
-var allMatches = [];
-var beginDate = new Date();
-var maxDate = addDays(beginDate, 26);
-
-function matchCallback(matches, date) {
-	allMatches = allMatches.concat(matches);
+		} else {
+			matches = JSON.parse(fs.readFileSync(jsonPath, 'utf8'));
+			callback(matches, matchDate);
+		}
+	},
 	
-	if (date < maxDate) {
-		getMatches(addDays(date, 1), matchCallback);
-	} else {
+	//this is the callback used to handle results coming from getMatches (jsdom is all async)
+	matchCallback: function(matches, date) {
+		Soccer.allMatches = Soccer.allMatches.concat(matches);
+
+		//see if we have all the matches yet, if not, keep on truckin'
+		if (date < Soccer.endDate) {
+			Soccer._getMatches(Soccer.addDays(date, 1), Soccer.matchCallback);
+		} else {
+			Soccer.printMatches();
+		}
+	},
+	
+	printMatches: function() {
 		var table = new Table({
-		    head: ['Date', 'Time', 'Match', 'Channel', 'League'], 
+			head: ['Date', 'Time', 'Match', 'Channel', 'League'], 
 			colWidths: [17, 9, 50, 50, 30]
 		});
 
 		var matchCount = 0;
 
-		allMatches.forEach(function(match, index) {
+		Soccer.allMatches.forEach(function(match, index) {
+			//for now, just hard code this, needs more filters!
 			if (match.live == 'Live') {
 				if (filter) {
 					if (match.desc.toLowerCase().indexOf(filter) > -1 ||
@@ -180,10 +200,9 @@ function matchCallback(matches, date) {
 		});
 
 		console.log(table.toString());
-		console.log('showing ' + matchCount + ' of ' + allMatches.length + ' matches');
+		console.log('Showing ' + matchCount + ' of ' + Soccer.allMatches.length + ' matches');
 	}
-}
-
-getMatches(beginDate, matchCallback);
+};
 
 
+Soccer.getMatches();

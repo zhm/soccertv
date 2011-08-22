@@ -786,7 +786,7 @@
 	{
 		"date": "Sun Aug 21 2011",
 		"time": "1:00pm",
-		"desc": "Academica de Coimbra vs Rio Ave",
+		"desc": "Academica de Coimbra vs Rio Ave *result",
 		"chan": "Portuguese Football League",
 		"live": "Live",
 		"type": "Portugal Primeira Liga"
@@ -1169,6 +1169,14 @@
 	},
 	{
 		"date": "Sun Aug 21 2011",
+		"time": "5:00pm",
+		"desc": "Atletico Marte vs Firpo",
+		"chan": "Telecentro",
+		"live": "Live",
+		"type": "El Salvador Primera Division"
+	},
+	{
+		"date": "Sun Aug 21 2011",
 		"time": "5:10pm",
 		"desc": "Newell's Old Boys vs Boca Juniors *result",
 		"chan": "ESPN + Andina, LivePrimeraDivision.TV, LiveSport.TV, Sport.TV4, TyCSports",
@@ -1234,7 +1242,7 @@
 	{
 		"date": "Sun Aug 21 2011",
 		"time": "7:00pm",
-		"desc": "Sporting Kansas City vs DC United",
+		"desc": "Sporting Kansas City vs DC United *result",
 		"chan": "LiveMLS.TV, MLS Direct Kick",
 		"live": "Live",
 		"type": "Major League Soccer"
@@ -1282,7 +1290,7 @@
 	{
 		"date": "Sun Aug 21 2011",
 		"time": "7:15pm",
-		"desc": "Banfield vs Racing Club",
+		"desc": "Banfield vs Racing Club *result",
 		"chan": "LivePrimeraDivision.TV, LiveSport.TV, TyCSports",
 		"live": "Live",
 		"type": "Argentina Primera Division"

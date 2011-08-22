@@ -2258,25 +2258,25 @@
 			            
 	                      
 			<tr>
-						  <td align="center">10:30pm</td>
+						  <td align="center">10:00pm</td>
 			  <td>
+			  <a href="/match/234891/belen-vs-orion/" title="Belen vs Orion - Primera Division - August 22, 2011">Belen vs Orion</a></td>
+					  <td align="center"><a href="/channels/telecentro/" title="Soccer on Telecentro">Telecentro</a></td>
+					  <td align="center">
+				<span class='delayed'>Delayed</span>&nbsp;
+			  </td>
+
+						  <td align="center">
+			  <a href="/competitions/costa-rica/primera-division/">Costa Rica Primera Division</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center" id='alternate'>10:30pm</td>
+			  <td id='alternate'>
 			  <a href="/match/231361/manchester-united-vs-tottenham-hotspur/" title="Manchester United vs Tottenham Hotspur - Premier League - August 22, 2011">Manchester United vs Tottenham Hotspur</a></td>
-					  <td align="center"><a href="/channels/supersport-3/" title="Soccer on SuperSport 3">SuperSport 3</a></td>
-					  <td align="center">
-				Repeat&nbsp;
-			  </td>
-
-						  <td align="center">
-			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
-						</tr>
-
-			            
-	                      
-			<tr>
-						  <td align="center" id='alternate'>10:40pm</td>
-			  <td id='alternate'>
-			  <a href="/match/232211/manchester-united-vs-tottenham-hotspur/" title="Manchester United vs Tottenham Hotspur - Premier League - August 22, 2011">Manchester United vs Tottenham Hotspur</a></td>
-					  <td align="center" id='alternate'><a href="/channels/sport-tv1/" title="Soccer on Sport.TV1">Sport.TV1</a></td>
+					  <td align="center" id='alternate'><a href="/channels/supersport-3/" title="Soccer on SuperSport 3">SuperSport 3</a></td>
 					  <td align="center" id='alternate'>
 				Repeat&nbsp;
 			  </td>
@@ -2288,31 +2288,31 @@
 			            
 	                      
 			<tr>
-						  <td align="center">10:45pm</td>
+						  <td align="center">10:40pm</td>
 			  <td>
-			  <a href="/match/231021/hansa-rostock-vs-alemannia-aachen/" title="Hansa Rostock vs Alemannia Aachen - Bundesliga 2 - August 22, 2011">Hansa Rostock vs Alemannia Aachen</a></td>
-					  <td align="center"><a href="/channels/sky-fussball-bundesliga/" title="Soccer on Sky Fussball Bundesliga">Sky Fussball Bundesliga</a></td>
+			  <a href="/match/232211/manchester-united-vs-tottenham-hotspur/" title="Manchester United vs Tottenham Hotspur - Premier League - August 22, 2011">Manchester United vs Tottenham Hotspur</a></td>
+					  <td align="center"><a href="/channels/sport-tv1/" title="Soccer on Sport.TV1">Sport.TV1</a></td>
 					  <td align="center">
 				Repeat&nbsp;
 			  </td>
 
 						  <td align="center">
-			  <a href="/competitions/germany/2-bundesliga/">Germany Bundesliga 2</a>			  </td>
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
 						</tr>
 
 			            
 	                      
 			<tr>
-						  <td align="center" id='alternate'>11:00pm</td>
+						  <td align="center" id='alternate'>10:45pm</td>
 			  <td id='alternate'>
-			  <a href="/match/233318/manchester-united-vs-tottenham-hotspur/" title="Manchester United vs Tottenham Hotspur - Premier League - August 22, 2011">Manchester United vs Tottenham Hotspur</a></td>
-					  <td align="center" id='alternate'><a href="/channels/fox-sports-australia-3/" title="Soccer on Fox Sports Australia 3">Fox Sports Australia 3</a></td>
+			  <a href="/match/231021/hansa-rostock-vs-alemannia-aachen/" title="Hansa Rostock vs Alemannia Aachen - Bundesliga 2 - August 22, 2011">Hansa Rostock vs Alemannia Aachen</a></td>
+					  <td align="center" id='alternate'><a href="/channels/sky-fussball-bundesliga/" title="Soccer on Sky Fussball Bundesliga">Sky Fussball Bundesliga</a></td>
 					  <td align="center" id='alternate'>
 				Repeat&nbsp;
 			  </td>
 
 						  <td align="center" id='alternate'>
-			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+			  <a href="/competitions/germany/2-bundesliga/">Germany Bundesliga 2</a>			  </td>
 						</tr>
 
 			            
@@ -2320,8 +2320,8 @@
 			<tr>
 						  <td align="center">11:00pm</td>
 			  <td>
-			  <a href="/match/232173/chelsea-vs-west-bromwich-albion/" title="Chelsea vs West Bromwich Albion - Premier League - August 22, 2011">Chelsea vs West Bromwich Albion</a></td>
-					  <td align="center"><a href="/channels/fox-soccer-channel/" title="Soccer on Fox Soccer Channel">FSC</a></td>
+			  <a href="/match/233318/manchester-united-vs-tottenham-hotspur/" title="Manchester United vs Tottenham Hotspur - Premier League - August 22, 2011">Manchester United vs Tottenham Hotspur</a></td>
+					  <td align="center"><a href="/channels/fox-sports-australia-3/" title="Soccer on Fox Sports Australia 3">Fox Sports Australia 3</a></td>
 					  <td align="center">
 				Repeat&nbsp;
 			  </td>
@@ -2333,15 +2333,30 @@
 			            
 	                      
 			<tr>
-						  <td align="center" id='alternate'>11:30pm</td>
+						  <td align="center" id='alternate'>11:00pm</td>
 			  <td id='alternate'>
-			  <a href="/match/231029/bolton-vs-manchester-city/" title="Bolton vs Manchester City - Premier League - August 22, 2011">Bolton vs Manchester City</a></td>
-					  <td align="center" id='alternate'><a href="/channels/sky-sport-hd-2-deutschland/" title="Soccer on Sky Sport HD 2 Germany">Sky Sport HD 2 Germany</a></td>
+			  <a href="/match/232173/chelsea-vs-west-bromwich-albion/" title="Chelsea vs West Bromwich Albion - Premier League - August 22, 2011">Chelsea vs West Bromwich Albion</a></td>
+					  <td align="center" id='alternate'><a href="/channels/fox-soccer-channel/" title="Soccer on Fox Soccer Channel">FSC</a></td>
 					  <td align="center" id='alternate'>
 				Repeat&nbsp;
 			  </td>
 
 						  <td align="center" id='alternate'>
+			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
+						</tr>
+
+			            
+	                      
+			<tr>
+						  <td align="center">11:30pm</td>
+			  <td>
+			  <a href="/match/231029/bolton-vs-manchester-city/" title="Bolton vs Manchester City - Premier League - August 22, 2011">Bolton vs Manchester City</a></td>
+					  <td align="center"><a href="/channels/sky-sport-hd-2-deutschland/" title="Soccer on Sky Sport HD 2 Germany">Sky Sport HD 2 Germany</a></td>
+					  <td align="center">
+				Repeat&nbsp;
+			  </td>
+
+						  <td align="center">
 			  <a href="/competitions/england/premier-league/">England Premier League</a>			  </td>
 						</tr>
 
@@ -3634,12 +3649,12 @@ All rights and ownership of any and all football videos linked to from  LiveSocc
 </div>
 <div style="margin-top:10px;width:300px;" id="LSTV_ROS_300x250"><script type="text/javascript">GA_googleFillSlotWithSize("ca-pub-5993370252466225", "LSTV_ROS_300x250", 300, 250);</script></div><div style="padding-top: 10px;"><script type="text/javascript">GA_googleFillSlotWithSize("ca-pub-5993370252466225", "LSTV_Perform_300x360", 300, 360);</script></div><div style="margin-top:10px;background-color:#fff;"><div id="fb-root""></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/livesoccertv.com" width="300" show_faces="true" border_color="" stream="false" header="true"></fb:like-box></div><div style="margin-top:10px;width:300px;background-color:#fff;text-align:center;" id="LSTV_ROS_300x100" align="center"><script type="text/javascript">GA_googleFillSlotWithSize("ca-pub-5993370252466225", "LSTV_ROS_300x100", 300, 100);</script></div>	<div id="section_300">
 	<a href="http://www.livesoccertv.com/pubs/"><h2 id="heading">Featured Soccer Pub &raquo;</h2></a>
-	<div style="float:left;width:125px;padding:10px 0px 0px 10px;"><img src="http://cdn.livesoccertv.com/images/pubs/thumbnails/florida/coral-gables/fritz-franz-bierhaus.gif" /></div>
+	<div style="float:left;width:125px;padding:10px 0px 0px 10px;"><img src="http://cdn.livesoccertv.com/images/pubs/thumbnails/florida/orlando/harp-and-celt-restaurant-and-irish-pub.gif" /></div>
 	<div style="float:right;width:150px;padding-top:10px;">
-		  <a href="/pubs/florida/coral-gables/fritz-franz-bierhaus"><strong>Fritz & Franz Bierhaus</strong></a><br />
-		  60 Merrick Way<br> 
-		  		  Coral Gables, 
-		  FL		  33134<br /><br />
+		  <a href="/pubs/florida/orlando/harp-and-celt-restaurant-and-irish-pub"><strong>Harp And Celt Restaurant And Irish Pub</strong></a><br />
+		  25 South Magnolia Avenue<br> 
+		  		  Orlando, 
+		  FL		  32801<br /><br />
 		  <hr color="#CCCCCC" size="1" width="150" noshade="noshade" align="left">
 		  <div id="more"><a href="/pubs/">More Soccer Pubs</a></div>
 		  <div id="more"><a href="/add-pub.php">Add Your Pub</a></div>

@@ -897,6 +897,14 @@
 	},
 	{
 		"date": "Mon Aug 22 2011",
+		"time": "10:00pm",
+		"desc": "Belen vs Orion",
+		"chan": "Telecentro",
+		"live": "Delayed",
+		"type": "Costa Rica Primera Division"
+	},
+	{
+		"date": "Mon Aug 22 2011",
 		"time": "10:30pm",
 		"desc": "Manchester United vs Tottenham Hotspur",
 		"chan": "SuperSport 3",
